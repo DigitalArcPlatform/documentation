@@ -6,4 +6,4 @@ parent: Community Outreach
 grand_parent: Pre-Event Planning
 ---
 
-#Equipment
+# Marketing
