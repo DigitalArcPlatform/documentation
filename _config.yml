@@ -1,0 +1,27 @@
+title: Net.Create 2023
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://kalanicraig.com/NetCreate/Docs
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: light
+
+# URL will usually be blank. Entering something here allows you to control whether links use a full URL or not
+url: 
+# Base URL will be blank if the documentation is not in a subfolder of your web site. If the documentation will be in a folder (site.com/documentation/) instead of in its own main site (site.github.io) add that folder name here with a slash / in front of it (e.g. /docs) but not after.
+baseurl: /NetCreateDocs
+# This lets you specify where most images are stored without having to manually type each image url. Use ""{{site.url}}{{site.baseurl}}/filename.html" to link to files and "{{site.url}}{{site.baseurl}}{{site.imageurl}}/imagename.jpg" to link to images.
+imageurl: /assets/images
+gifurl: /assets/videos
+
+#Github Repository
+repository: kalanicraig/NetCreateDocs
+
+#Search Configuration
+search_enabled: true
+search.heading_level: 2
+search.previews: 3
+search.rel_url: false
