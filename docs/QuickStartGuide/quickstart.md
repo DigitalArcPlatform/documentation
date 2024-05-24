@@ -2,6 +2,7 @@
 title: Quick Start Guide
 layout: default
 nav_order: 1
+permalink: /quickstart
 ---
 
 # Quick Start Guide
