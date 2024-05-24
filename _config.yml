@@ -1,8 +1,8 @@
-title: Net.Create 2023
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: DigitalArc Toolkit
+description: A toolkit for communities who want to create digital exhibits of their community stories or historical archives
 theme: just-the-docs
 
-url: https://kalanicraig.com/NetCreate/Docs
+url: https://digitalarcplatform.github.io/documentation
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
@@ -18,7 +18,7 @@ imageurl: /assets/images
 gifurl: /assets/videos
 
 #Github Repository
-repository: kalanicraig/NetCreateDocs
+repository: digitalarcplatform/documentation
 
 #Search Configuration
 search_enabled: true
