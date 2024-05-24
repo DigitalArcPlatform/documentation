@@ -6,4 +6,4 @@ parent: Pre-Event Planning
 has_children: true
 ---
 
-#Day-Of Logistics 
+# Day-Of Logistics 
