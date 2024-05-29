@@ -14,7 +14,7 @@ This document walks through the best practices to transcribe the oral histories,
 This is broken down into three sections: 
 1. How to [download](#how-to-download-an-audio-file) and [open](#how-to-open-an-audio-file) an audio file
 1. Transcribing [without](#transcribing-without-access-to-transcription-software) access to transcription software 
-1. Transcribing with(#transcribing-with-access-to-transcription-software) access to transcription software (Otter.ai, Microsoft Word, notta.ai, etc.) 
+1. Transcribing [with](#transcribing-with-access-to-transcription-software) access to transcription software (Otter.ai, Microsoft Word, notta.ai, etc.) 
 1. [What to include in the transcription](#what-to-include-in-a-transcription)
 
 ## How to Download and Open an Audio File 
@@ -73,7 +73,7 @@ Here are some notes for best practices:
 	*	Some audio players allow for audio to be slowed down. If a section is going too fast, this is an option.
 *	Adjust the volume level as needed for audio levels. Depending on the quality of the oral history interview, the audio recording may be louder or quieter than normal.
 *	Write down all spoken words 
-	*	You and your team will need to decide whether or not to include various words and punctuation (see [What to Include in a Transcription section](#what-to-include-in-a-transcription)) 
+	*	You and your team will need to decide whether or not to include various words and punctuation (see [What to Include in a Transcription](#what-to-include-in-a-transcription) section) 
 	
 	
 ## Transcribing with Access to Transcription Software 
@@ -118,12 +118,12 @@ To import an audio file:
 
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/import3.png)
 
-	a) This menu gives the option to select the language that the audio file is in. 
-	a) If the audio file contains more than one language, see **Notes** above. 
+	- This menu gives the option to select the language that the audio file is in. 
+	- If the audio file contains more than one language, see **Notes** above. 
 
 {:style="counter-reset:none"}	
 1. Select the file from your computer to upload 
-	a)	This uploads the audio file to the computer and runs the transcribing program on it. This process takes anywhere from a few seconds to minutes, depending on the file size. 
+	-	This uploads the audio file to the computer and runs the transcribing program on it. This process takes anywhere from a few seconds to minutes, depending on the file size. 
 
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/import4.png)
 
@@ -152,14 +152,14 @@ To edit the transcript:
 
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit2.png)
 
-	a) This allows you to edit the name of the speaker and the text that was transcribed 
-	a) If the checkox labeled "Change all Speaker 1" is checked, this will change all "Speaker 1" labeled timestamps to the name inputted 
+	- This allows you to edit the name of the speaker and the text that was transcribed 
+	- If the checkox labeled "Change all Speaker 1" is checked, this will change all "Speaker 1" labeled timestamps to the name inputted 
 	
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit3.png)
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit4.png)
 	
 	Notice that all the "Speaker 1" timestamps have now changed
-	a) You can also update the transcription here. This example is updating the Object ID in the transcript
+	- You can also update the transcription here. This example is updating the Object ID in the transcript
 	
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit5.png)
 
@@ -168,15 +168,15 @@ To edit the transcript:
 
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit6.png)
 
-	a) There are multiple options that can be selected here: 
-		i. Just text
+	- There are multiple options that can be selected here: 
+		- Just text
 			- Text only. No speakers ot timestamps will be added to the Word document
-		ii. With speakers 
+		- With speakers 
 			- The speaker's name will be added to the Word document with the transcription
 			- If there are multple sections of the same speaker in the transcript in a row, they will be grouped together. 
-		iii. With timestamps 
+		- With timestamps 
 			- The timestamps will be added to the Word document, separating when words were spoken
-		iv. With speakers and timestamps 
+		- With speakers and timestamps 
 			- Both the timestamp and the speaker will be adde to the Word document
 			
 {:style="counter-reset:none"}
@@ -229,6 +229,7 @@ Keeping the files and the transcript alteration at a minimum allows for the cont
 
 
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/repeat1.png)
+
 An example screenshot of a transcript that uses repeated words 
 
 
