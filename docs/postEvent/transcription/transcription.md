@@ -5,9 +5,7 @@ nav_order: 2
 parent: Post-Event Clean-Up
 ---
 
-# Resources for Transcript Post Production
-
-# Best Practices for Transcript Postproduction
+# Resources & Best Practices for Transcript Post Production
 
 This document walks through the best practices to transcribe the oral histories, stories, and memories collected during the day-of collection event. 
 
@@ -118,8 +116,8 @@ To import an audio file:
 
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/import3.png)
 
-	- This menu gives the option to select the language that the audio file is in. 
-	- If the audio file contains more than one language, see **Notes** above. 
+ - This menu gives the option to select the language that the audio file is in. 
+ - If the audio file contains more than one language, see **Notes** above. 
 
 {:style="counter-reset:none"}	
 1. Select the file from your computer to upload 
@@ -152,14 +150,14 @@ To edit the transcript:
 
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit2.png)
 
-	- This allows you to edit the name of the speaker and the text that was transcribed 
-	- If the checkox labeled "Change all Speaker 1" is checked, this will change all "Speaker 1" labeled timestamps to the name inputted 
+ - This allows you to edit the name of the speaker and the text that was transcribed 
+ - If the checkox labeled "Change all Speaker 1" is checked, this will change all "Speaker 1" labeled timestamps to the name inputted 
 	
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit3.png)
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit4.png)
 	
-	Notice that all the "Speaker 1" timestamps have now changed
-	- You can also update the transcription here. This example is updating the Object ID in the transcript
+Notice that all the "Speaker 1" timestamps have now changed
+ - You can also update the transcription here. This example is updating the Object ID in the transcript
 	
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit5.png)
 
@@ -168,16 +166,16 @@ To edit the transcript:
 
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit6.png)
 
-	- There are multiple options that can be selected here: 
-		- Just text
-			- Text only. No speakers ot timestamps will be added to the Word document
-		- With speakers 
-			- The speaker's name will be added to the Word document with the transcription
-			- If there are multple sections of the same speaker in the transcript in a row, they will be grouped together. 
-		- With timestamps 
-			- The timestamps will be added to the Word document, separating when words were spoken
-		- With speakers and timestamps 
-			- Both the timestamp and the speaker will be adde to the Word document
+- There are multiple options that can be selected here: 
+	- Just text
+		- Text only. No speakers ot timestamps will be added to the Word document
+	- With speakers 
+		- The speaker's name will be added to the Word document with the transcription
+		- If there are multple sections of the same speaker in the transcript in a row, they will be grouped together. 
+	- With timestamps 
+		- The timestamps will be added to the Word document, separating when words were spoken
+	- With speakers and timestamps 
+		- Both the timestamp and the speaker will be adde to the Word document
 			
 {:style="counter-reset:none"}
 1. After selecting an option, the transcript will auto popolate in the Word document 
