@@ -13,7 +13,7 @@ Be sure to welcome and introduce yourself and the event to contributors. Some ma
 
 "Welcome! As part of the **(EVENT TITLE)**, we are creating a digital community archive showcasing an important object and associated memories that will contribute to the history of the culture center. **Are you interested in contributing to the archive and do you have an object – a photo, letter, video, story, or memory – that you would like to share?**"
 
-1. Refer to [example flyer] and talk through options. If you are unsure, ask a coordinator for help. 
+- Refer to [example flyer] and talk through options. If you are unsure, ask a coordinator for help. 
 
 **If they have a contribution:**
 
@@ -30,7 +30,7 @@ Be sure to welcome and introduce yourself and the event to contributors. Some ma
 
 **If they DO NOT have a contribution:** 
 
-1. Thanks them for their time and give them a [flyer].
+- Thank them for their time and give them a [flyer].
 
 ## Sign-In
 
@@ -38,10 +38,10 @@ Every object contributed **will need their own entry in the sign-in form.** Cont
 
 #### Consent Types
 
-	- **Full participation:** Post their contributions, digitized images, and oral history interview to the community archiving website. 
-	- **No audio, full participation:** Post their contributions, digitized images, and oral history interview **TRANSCRIPTION**, not the actual audio recording, to the community archiving website.
-	- **Anonymous, full participation:** Post their contributions, digitized images, and oral history interview **TRANSCRIPTION**, not the actual audio recording, to the community archiving website, *not including personal information.*
-	- **Private, full participation:** We will **NOT** publish anything contribution to the website, but will keep their contact information for sending digital copies of the items contributed. 
+- **Full participation:** Post their contributions, digitized images, and oral history interview to the community archiving website. 
+- **No audio, full participation:** Post their contributions, digitized images, and oral history interview **TRANSCRIPTION**, not the actual audio recording, to the community archiving website.
+- **Anonymous, full participation:** Post their contributions, digitized images, and oral history interview **TRANSCRIPTION**, not the actual audio recording, to the community archiving website, *not including personal information.*
+- **Private, full participation:** We will **NOT** publish anything contribution to the website, but will keep their contact information for sending digital copies of the items contributed. 
 	
 Before a contributor moves to the form station, *tell each contributor that you will give them a flyer with contact information at the end.*
 	- The guide’s role here is to listen to the conversation between the contributor and the check-in volunteers, noting questions that may arise that could benefit from more clarification as they go through the process. The guide can also help the contributor fill out the form on the iPads.
@@ -55,9 +55,9 @@ Before a contributor moves to the form station, *tell each contributor that you 
 1. Once the appropriate number of forms is complete, direct the contributor to the volunteer(s) in charge of [Step 2](#step-2:-verify-sign-in) of the sign-in process. 
 
 The sign-in spreadsheet should have three tabs:
-	- Sign-In
-	- Verified Sign-In
-	- Assign ID
+- Sign-In
+- Verified Sign-In
+- Assign ID
 
 ### Step 2: Verify Sign-In
 
@@ -86,18 +86,19 @@ The purpose of this step is to make sure that the contributor does not need to m
 
 ![]({{site.url}}{{site.baseurl}}/assets/images/duringEvent/checkin/checkin1.png)
 
-	- Quickly verify that the contributor's name and title(s) of the object(s) matches the information in the "Verified Sign-In" tab. 
-		- Verify that an Object ID has already been created. The ID structure should be based on the date of the event and a sequential number (i.e. YYYY-MM-DD_nnnn). 
-		- Locate the corresponding Object IDs on the [sticker sheets]. **Each contributor will be assigned two identical Object ID stickers for each object.** 
-	- Verify the consent level in the "Assign ID" tab. 
-		- **If they would like to make a change to consent, do so in the "Assign ID" tab.** The "Verified Sign-In" tab should be a record of *original* consent, and the "Assign ID" tab should always be the final reference for permissions. 
-	- Let the contributor know that they will have a chance to change their consent at check-out. 
-	- Modify the Object ID stickers to reflect verified consent: 
-		- Full Participation: Leave the stickers alone; tell them you will edit their audio for clarity.
-		- No audio, full participation: **"NA"** on the stickers; tell them you will record them, but put only the transcript online. 
-		- Anonymous, full participation: **"ANON"** on the stickers; tell them you will keep their contanct information for sending them digital copies of their contributions, but will **NOT** include their information in the digital archive. 
-		- Private, full participation: **"PRIV"** on the stickers; tell them you will not publish anything that is provided, but will keep their contact information for sending digital copies of their contributions.
+- Quickly verify that the contributor's name and title(s) of the object(s) matches the information in the "Verified Sign-In" tab. 
+	- Verify that an Object ID has already been created. The ID structure should be based on the date of the event and a sequential number (i.e. YYYY-MM-DD_nnnn). 
+	- Locate the corresponding Object IDs on the [sticker sheets]. **Each contributor will be assigned two identical Object ID stickers for each object.** 
+- Verify the consent level in the "Assign ID" tab. 
+	- **If they would like to make a change to consent, do so in the "Assign ID" tab.** The "Verified Sign-In" tab should be a record of *original* consent, and the "Assign ID" tab should always be the final reference for permissions. 
+- Let the contributor know that they will have a chance to change their consent at check-out. 
+- Modify the Object ID stickers to reflect verified consent: 
+	- Full Participation: Leave the stickers alone; tell them you will edit their audio for clarity.
+	- No audio, full participation: **"NA"** on the stickers; tell them you will record them, but put only the transcript online. 
+	- Anonymous, full participation: **"ANON"** on the stickers; tell them you will keep their contanct information for sending them digital copies of their contributions, but will **NOT** include their information in the digital archive. 
+	- Private, full participation: **"PRIV"** on the stickers; tell them you will not publish anything that is provided, but will keep their contact information for sending digital copies of their contributions.
 
+{:style="counter-reset:none"}
 1. Write the first name of the participant and the title of the object (if they have more than one) for each identifier sticker.
 	- Below the consent note in the bottom-right, copy the first name and title given by the contributor in the spreadsheet.
 1. If they are contributing an Oral History, select an audio recorder for the contributor. 

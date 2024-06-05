@@ -26,7 +26,7 @@ The length of your Oral History Interviews will vary according to the objectives
 	
 	- Position the recording device so that it is between the interviewer and the contributor. **Make sure that the microphone is facing both the interviewer and the contributor.**
 	
-	![]{{site.url}}{{site.baseurl}}/assets/images/duringEvent/oralHistory/recorder2.jpg)
+	![]({{site.url}}{{site.baseurl}}/assets/images/duringEvent/oralHistory/recorder2.jpg)
 	
 1. To begin the interview, the interviewer should state their name and the contributor's Object ID. For example: 
 	- "My name is _________ and I am interviewing the community member who contributed **(Object ID)** as part of **(Event Name)**."
