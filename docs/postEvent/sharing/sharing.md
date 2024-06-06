@@ -68,7 +68,8 @@ Once these steps are complete, Outlook will create a draft and queue for each em
 
 This section covers how to send contributors their files without using a mail merge feature. 
 
-Without mail merge, this is a more tedious process because you will have to draft each email and send them individually. 	
+Without mail merge, this is a more tedious process because you will have to draft each email and send them individually.
+
 	- We have a template available for download [here][TemplateLink].
 	- To download this template, click the link and then click "View Raw." This will start the download process.
 	
