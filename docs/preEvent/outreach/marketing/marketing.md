@@ -17,8 +17,11 @@ For each of these modes of communication, we have found that a digital flyer tha
 Your flyer should include the following information, as well as any other relevant information: 
 
 1. Title of the Event
-1. Date, Time, and Location of the Event 
+{:style="counter-reset:none"}
+1. Date, Time, and Location of the Event
+{:style="counter-reset:none"} 
 1. Who/What is hosting the Event 
+{:style="counter-reset:none"}
 1. Brief Event Description (2-4 sentences maximum)
 	*The goal is to explain why the event is being hosted and what attendees can expect; save longer descriptions for social media, emails, etc.
 {:style="counter-reset:none"}
