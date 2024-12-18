@@ -1,13 +1,9 @@
-version: '2.2'
+# no version needed since 2020
 
 services:
   jekyll:
-    image: jekyll/jekyll:latest
-    command: >
-      sh -c "gem install jekyll-seo-tag jekyll-sitemap jemoji webrick &&
-             jekyll build &&
-             jekyll serve --watch --force_polling --verbose"
-    ports:
-      - 4000:4000
+    image: bretfisher/jekyll-serve
     volumes:
-      - .:/srv/jekyll
+      - .:/site
+    ports:
+      - '4000:4000'
