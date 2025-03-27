@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /quickstart
 ---
 
-# Quick Start Guide
+# Web Site Creation Quick Start Guide
 
 ## Before you get started
 {: .subheadline }
