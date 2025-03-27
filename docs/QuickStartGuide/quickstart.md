@@ -10,7 +10,7 @@ permalink: /quickstart
 ## Before you get started
 {: .subheadline }
 
-Check out our example site at [https://idahatiu.github.io](https://idahatiu.github.io), which has example items of several different types--photos, document scans, videos--so you don't have to start from scratch.
+Check out our example site at [https://digitalarcplatform.github.io/demo](https://digitalarcplatform.github.io/demo), which has example items of several different types--photos, document scans, videos--so you don't have to start from scratch.
 
 The 5 steps below will guide you through making a copy of our example site and customizing it for your community.
 
@@ -32,9 +32,10 @@ The 5 steps below will guide you through making a copy of our example site and c
 
 **Make a copy of our template community-archive site by following this video: [https://youtu.be/aDQZ1lcpMn0](https://youtu.be/aDQZ1lcpMn0){:target="_blank"}**
 
-1. Visit [`https://github.com/idahatiu/idahatiu.github.io`](https://github.com/idahatiu/idahatiu.github.io)
-2. Press the "Fork" button
-3. Rename your repository `yourusername.github.io` (where *yourusername* is the username you chose when you created your Github account)
+1. Visit [`https://github.com/DigitalArcPlatform/template`](https://github.com/DigitalArcPlatform/template)
+2. Press the "Use this template" button
+3. Choose "Create a new repository"
+4. Name your repository `yourusername.github.io` (where *yourusername* is the username you chose when you created your Github account)
 
 ## Step 3
 {: .subheadline }
@@ -43,7 +44,7 @@ The 5 steps below will guide you through making a copy of our example site and c
 
 The `_config.yml` file contains settings for exhibit info, font, and color choices that affect the entire web site.
 
-1. Select the `_config.yml` from the list of files in your repository.
+1. Find the `_config.yml` from the list of files in your repository.
 2. Click the pencil button to edit the file
    - Information about your community is on lines 42-63. To leave a line blank, put two quote marks together with no spaces, like so: `twitter: ""`
    - Choices for [colors]({{ site.baseurl }}/docs/colors/) and [fonts]({{ site.baseurl }}/docs/fonts/) are on lines 77-93.
