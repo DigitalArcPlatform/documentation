@@ -1,5 +1,5 @@
 ---
-title: Quick Start Guide
+title: Web Site Creation Quick Start Guide
 layout: default
 nav_order: 1
 permalink: /quickstart
@@ -44,11 +44,16 @@ The 5 steps below will guide you through making a copy of our example site and c
 
 The `_config.yml` file contains settings for exhibit info, font, and color choices that affect the entire web site.
 
-1. Find the `_config.yml` from the list of files in your repository.
-2. Click the pencil button to edit the file
-   - Information about your community is on lines 42-63. To leave a line blank, put two quote marks together with no spaces, like so: `twitter: ""`
-   - Choices for [colors]({{ site.baseurl }}/docs/colors/) and [fonts]({{ site.baseurl }}/docs/fonts/) are on lines 77-93.
-3. Scroll to the bottom and use the "commit" button (Github's version of a "save" button)
+1. Gather information about your community, that includes
+	- What you want to call the site
+	- Who the main contact person will be
+	- How do you want your site to look? We have several preset choices for [colors]({{ site.baseurl }}/docs/colors/) and [fonts]({{ site.baseurl }}/docs/fonts/)
+2. Open our "Configuration File Generator" at [https://digitalarcplatform.kalanicraig.com/MakeConfigFile/](https://digitalarcplatform.kalanicraig.com/MakeConfigFile/) and transfer your choices to this file.
+3. Open the file that you just downloaded, select the entire contents of the file and use the "copy" command to put that information into your clipboard.
+4. Find the `_config.yml` from the list of files in your repository. All of the main settings for your site are in this file.
+5. Press the "pencil" button or "edit" button.
+6. Select the entire contents of the _config.yml file and paste over it with the contents of the file you just downloaded.
+7. Scroll down and look for the green "commit" button
 
 ## Step 4
 {: .subheadline }
