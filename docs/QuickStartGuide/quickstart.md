@@ -17,7 +17,7 @@ The 5 steps below will guide you through making a copy of our example site and c
 ## Step 1
 {: .subheadline }
 
-**Create a new Github.com account by following this video: [https://youtu.be/plg5QomrHHg](https://youtu.be/plg5QomrHHg){:target="_blank"}**
+<!--**Create a new Github.com account by following this video: [https://youtu.be/plg5QomrHHg](https://youtu.be/plg5QomrHHg){:target="_blank"}**
 
 1. Your Github username should be the name people will search for to find your community. For instance, a community group called "New City Community Archive" would choose the username "newcitycommunityarchive"
 2. The "free" option will mean people can see, but not edit, the files that run your web site.
@@ -30,7 +30,7 @@ The 5 steps below will guide you through making a copy of our example site and c
 ## Step 2
 {: .subheadline }
 
-**Make a copy of our template community-archive site by following this video: [https://youtu.be/aDQZ1lcpMn0](https://youtu.be/aDQZ1lcpMn0){:target="_blank"}**
+<!--**Make a copy of our template community-archive site by following this video: [https://youtu.be/aDQZ1lcpMn0](https://youtu.be/aDQZ1lcpMn0){:target="_blank"}**-->
 
 1. Visit [`https://github.com/DigitalArcPlatform/template`](https://github.com/DigitalArcPlatform/template)
 2. Press the "Use this template" button
@@ -40,25 +40,27 @@ The 5 steps below will guide you through making a copy of our example site and c
 ## Step 3
 {: .subheadline }
 
-**Customize the `_config.yml` with your community information by following this video: [https://youtu.be/UR3RSXWGpJo](https://youtu.be/UR3RSXWGpJo){:target="_blank"}**
+<!--**Customize the `_config.yml` with your community information by following this video: [https://youtu.be/UR3RSXWGpJo](https://youtu.be/UR3RSXWGpJo){:target="_blank"}**-->
 
 The `_config.yml` file contains settings for exhibit info, font, and color choices that affect the entire web site.
 
 1. Gather information about your community, that includes
 	- What you want to call the site
 	- Who the main contact person will be
-	- How do you want your site to look? We have several preset choices for [colors]({{ site.baseurl }}/docs/colors/) and [fonts]({{ site.baseurl }}/docs/fonts/)
-2. Open our "Configuration File Generator" at [https://digitalarcplatform.kalanicraig.com/MakeConfigFile/](https://digitalarcplatform.kalanicraig.com/MakeConfigFile/) and transfer your choices to this file.
-3. Open the file that you just downloaded, select the entire contents of the file and use the "copy" command to put that information into your clipboard.
-4. Find the `_config.yml` from the list of files in your repository. All of the main settings for your site are in this file.
-5. Press the "pencil" button or "edit" button.
-6. Select the entire contents of the _config.yml file and paste over it with the contents of the file you just downloaded.
-7. Scroll down and look for the green "commit" button
+	- How do you want your site to look?
+		- [Choose your fonts and colors from a preset list]({{ site.baseurl }}/docs/publishSite/basics/typefaceColor/typefaceColor.html)
+1. Put these pieces of community info into our "Configuration File Generator" at [https://digitalarcplatform.kalanicraig.com/MakeConfigFile/](https://digitalarcplatform.kalanicraig.com/MakeConfigFile/)
+1. Open the file that you just downloaded, select the entire contents of the file and use the "copy" command to put that information into your clipboard.
+1. Find the "Code" navigation tab in your new Github repository.
+1. Find the `_config.yml` from the list of files in your repository. All of the main settings for your site are in this file.
+1. Press the "pencil" button or "edit" button.
+1. Select the entire contents of the _config.yml file and paste over it with the contents of the file you just downloaded.
+1. Scroll down and look for the green "commit" button. Press it to save your configuration file.
 
 ## Step 4
 {: .subheadline }
 
-**Add your first item by following this video: [https://youtu.be/LoFCewSXC7c](https://youtu.be/LoFCewSXC7c){:target="_blank"}**
+<!--**Add your first item by following this video: [https://youtu.be/LoFCewSXC7c](https://youtu.be/LoFCewSXC7c){:target="_blank"}**-->
 
 Each item in the collection has an item ID (no spaces or punctuation) with one or more files associated with it (e.g. `0001.md`).
 
@@ -71,7 +73,7 @@ Each item in the collection has an item ID (no spaces or punctuation) with one o
 ## Step 5
 {: .subheadline }
 
-**Publish your site using Github Pages by following this video: [https://youtu.be/MC7\_-Cx-i_E](https://youtu.be/MC7_-Cx-i_E){:target="_blank"}**
+<!--**Publish your site using Github Pages by following this video: [https://youtu.be/MC7\_-Cx-i_E](https://youtu.be/MC7_-Cx-i_E){:target="_blank"}**-->
 
 
 1. Find the "Settings" link on the top-right bar of your repository's info page

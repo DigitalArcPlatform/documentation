@@ -2,7 +2,7 @@
 title: What is Jekyll?
 layout: default
 nav_order: 2
-parent: Understanding web sites
+parent: Understanding Websites
 grand_parent: Publishing Your Site
 ---
 
