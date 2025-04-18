@@ -12,7 +12,7 @@ color_scheme: light
 # URL will usually be blank. Entering something here allows you to control whether links use a full URL or not
 url: 
 # Base URL will be blank if the documentation is not in a subfolder of your web site. If the documentation will be in a folder (site.com/documentation/) instead of in its own main site (site.github.io) add that folder name here with a slash / in front of it (e.g. /docs) but not after.
-baseurl: /NetCreateDocs
+baseurl: /documentation
 # This lets you specify where most images are stored without having to manually type each image url. Use ""{{site.url}}{{site.baseurl}}/filename.html" to link to files and "{{site.url}}{{site.baseurl}}{{site.imageurl}}/imagename.jpg" to link to images.
 imageurl: /assets/images
 gifurl: /assets/videos
