@@ -1,88 +1,42 @@
 ---
-title: Web Site Creation Quick Start Guide
+title: Quick Start Guide
 layout: default
 nav_order: 1
 permalink: /quickstart
 ---
 
-# Web Site Creation Quick Start Guide
+# Quick Start Guide for a Community Archive
 
-## Before you get started
-{: .subheadline }
+The community-archive process has lots of moving pieces. We'll outline the whole thing, start to finish, in really rough simple terms here so that the more detailed documentation that follows makes more sense.
 
-Check out our example site at [https://digitalarcplatform.github.io/demo](https://digitalarcplatform.github.io/demo), which has example items of several different types--photos, document scans, videos--so you don't have to start from scratch.
+## 1. Getting Started  (Pre-Event Planning)
 
-The 5 steps below will guide you through making a copy of our example site and customizing it for your community.
+Figuring out what your goals are for your community's archive--what your community's needs are, what history you have to preserve, and how you can all work together to plan a community-archiving event--is the biggest part of any community-archive project. A few questions will help you get started.
 
-## Step 1
-{: .subheadline }
+- Who is in your community?
+	- Who are your community organizers?
+	-  are their needs?
+	- What are they good at?
+- Where can you all host an event that gives you enough room to take photos of things that are important to the community and do interviews with community members about their experiences?
+- When can you hold your event and how will you let people know about it? Is there an existing event (street fair, homecoming, etc.) that brings your community together already? Who might volunteer to help?
 
-<!--**Create a new Github.com account by following this video: [https://youtu.be/plg5QomrHHg](https://youtu.be/plg5QomrHHg){:target="_blank"}**
+## 2. Doing Community Interviews (During the Event)
 
-1. Your Github username should be the name people will search for to find your community. For instance, a community group called "New City Community Archive" would choose the username "newcitycommunityarchive"
-2. The "free" option will mean people can see, but not edit, the files that run your web site.
+Once you've got a set of shared goals and an event date set, you'll need to think about how to photograph objects, record interviews, and then save those recordings and photos with all the info you need to make a web site. Having set stations that each contributor visits can help manage the chaos
+1. Check-in, where contributors meet a guide who will walk around with them as they do their interview and get photos of their object.
+1. Digitization and Photography, where volunteers help contributors take photos of objects or scans of paper documents and photos
+1. Oral History Interviews, where contributors do a quick interview about their object
+1. Checkout, where contributors can confirm they still want to be part of the community archive
 
-<!---
-1)The audio of the videos is mono and a bit annoying when listening through headphones.
--->
+## 3. Working with Community Objects and Interviews (Post-Event Clean-Up)
 
+Now that you have a boatload of photos and interviews in digital form, you'll want to make sure you have the right info about each object and can connect that object back to the person who brought it. That means
 
-## Step 2
-{: .subheadline }
+- naming files consistently
+- editing transcripts of the interviews to make sure people who struggle to hear can read the interviews
+- editing photos
+- sending community members the cleaned-up copies of their files
 
-<!--**Make a copy of our template community-archive site by following this video: [https://youtu.be/aDQZ1lcpMn0](https://youtu.be/aDQZ1lcpMn0){:target="_blank"}**-->
-
-1. Visit [`https://github.com/DigitalArcPlatform/template`](https://github.com/DigitalArcPlatform/template)
-2. Press the "Use this template" button
-3. Choose "Create a new repository"
-4. Name your repository `yourusername.github.io` (where *yourusername* is the username you chose when you created your Github account)
-
-## Step 3
-{: .subheadline }
-
-<!--**Customize the `_config.yml` with your community information by following this video: [https://youtu.be/UR3RSXWGpJo](https://youtu.be/UR3RSXWGpJo){:target="_blank"}**-->
-
-The `_config.yml` file contains settings for exhibit info, font, and color choices that affect the entire web site.
-
-1. Gather information about your community, that includes
-	- What you want to call the site
-	- Who the main contact person will be
-	- How do you want your site to look?
-		- [Choose your fonts and colors from a preset list]({{ site.baseurl }}/docs/publishSite/basics/typefaceColor/typefaceColor.html)
-1. Put these pieces of community info into our "Configuration File Generator" at [https://digitalarcplatform.kalanicraig.com/MakeConfigFile/](https://digitalarcplatform.kalanicraig.com/MakeConfigFile/)
-1. Open the file that you just downloaded, select the entire contents of the file and use the "copy" command to put that information into your clipboard.
-1. Find the "Code" navigation tab in your new Github repository.
-1. Find the `_config.yml` from the list of files in your repository. All of the main settings for your site are in this file.
-1. Press the "pencil" button or "edit" button.
-1. Select the entire contents of the _config.yml file and paste over it with the contents of the file you just downloaded.
-1. Scroll down and look for the green "commit" button. Press it to save your configuration file.
-
-## Step 4
-{: .subheadline }
-
-<!--**Add your first item by following this video: [https://youtu.be/LoFCewSXC7c](https://youtu.be/LoFCewSXC7c){:target="_blank"}**-->
-
-Each item in the collection has an item ID (no spaces or punctuation) with one or more files associated with it (e.g. `0001.md`).
-
-1. Open the `_items` folder and look at one of the example items. Get a feel for what you need to gather about each item.
-2. Each item should have its own unique filename.
-   - We like `YYYY-MM-DD-ItemNo` (so the 4th item collected on May 15, 2022, would be `2022-05-15-004`)
-3. Each item will have its own information file in the `_items` folder (2022-05-15-004.md) and a photo in the `/assets/items/` folder (2022-05-15-004.jpg or 2022-05-15-004.png).
-  - The file for each item in the `_items` folder has a bunch of information about each item in the first few lines. Each line has a field type (e.g. `author`), and then a colon, and then the info that goes in that field surrounded by double quotes (`author: "Drew H"`). You can get more information about what goes in these item fields in the [Metadata: Line by Line](https://community-archive.kalanicraig.com/docs#metadata-line-by-line) section of the [Theme Docs](https://community-archive.kalanicraig.com/docs).
-
-## Step 5
-{: .subheadline }
-
-<!--**Publish your site using Github Pages by following this video: [https://youtu.be/MC7\_-Cx-i_E](https://youtu.be/MC7_-Cx-i_E){:target="_blank"}**-->
+## 4. Turning Interviews and Objects into an Archive Online
 
 
-1. Find the "Settings" link on the top-right bar of your repository's info page
-2. Find the "Pages" link on the left-hand side of your repository's settings page
-3. Look for a text box with a green or blue background at the top that says "Your site is published" or "Your site is ready to be published"
-  - If you see a green box, you're ready to go. Click on the link!
-  - If you see a blue box, wait 5 minutes and reload the page. It should be green now, and you can click on the link.
-  - If you don't see either message, look for the drop-down menu that says "Branch", choose the "main" branch and press "Save" to publish your site in Github Pages.
-  
-<!---
-The publishing step needs a bit of more elaboration. I followed the steps to do it myself and when I saw the message “your website is ready to be published”, I was still looking for something like a “publish” button to click on, not knowing that all I needed to do is to wait for the page to gets published.
--->
