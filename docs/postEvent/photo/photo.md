@@ -199,7 +199,7 @@ The steps are as follows to download an image:
 
 1. Click on the three dots next to the file name
 1. Select "Download"
-1. Locate teh filde on your local computer. By default, this will be in your Downloads folder 
+1. Locate the file on your local computer. By default, this will be in your Downloads folder 
 
 ### How to Download a Folder of Images 
 
