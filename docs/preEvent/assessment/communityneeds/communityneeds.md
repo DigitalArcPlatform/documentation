@@ -12,7 +12,7 @@ Now that you and your community have decided to continue with a community archiv
 
 The first assessment gathers information about the type of stories your community would like to share and the objects they own and would like to contribute to the archive.  
 
-[Click here to view a sample community-needs survey](/documentation/assets/PDFs/PreEvent_SampleCommNeedsSurvey.pdf) 
+[Click here to view a sample community-needs survey](/assets/PDFs/PreEvent_SampleCommNeedsSurvey.pdf) 
 
 You can circulate this sample survey with your community. We recommend using similar questions when creating a survey for your community.  
 
