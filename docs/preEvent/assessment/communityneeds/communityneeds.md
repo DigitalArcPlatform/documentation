@@ -22,6 +22,6 @@ Once community members have completed this initial survey, you will better under
 
 The second assessment gathers information about the skills and availability of community members willing to help organize the event. This information will help you manage volunteers and help you make decisions about assignments for volunteers. You can send this survey at the same time as sending out the first survey, or you can wait until after the first survey and incorporate the results of the first survey into the volunteer survey.  
 
-[Click here to view a sample skills-and-availability survey](/documentation/assets/PDFs/PreEvent_SampleSkillsAvailabilitySurvey.pdf) 
+[Click here to view a sample skills-and-availability survey](/assets/PDFs/PreEvent_SampleSkillsAvailabilitySurvey.pdf) 
 
 Click on the following link for a sample survey you can circulate among members who have expressed interest in helping organize the event.  
