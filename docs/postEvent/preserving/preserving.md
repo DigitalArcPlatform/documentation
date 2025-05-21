@@ -15,10 +15,10 @@ For more on sending out these images, see [**Sharing Files**]({{site.url}}{{site
 
 ## Keeping the Originals 
 
-Before you begin sharing image/audio files or downscaling them for your website, ** be sure to keep copies of the originals. ** 
+Before you begin sharing image/audio files or downscaling them for your website, **be sure to keep copies of the originals.** 
 
 This can be either in a Google Drive, flash drive, or external hard drive depending on the amount and size of your files.
 
-When it comes time to edit or otherwise manipulate the files, be sure to copy the files first. ** The originals should stay intact. ** 
+When it comes time to edit or otherwise manipulate the files, be sure to copy the files first. **The originals should stay intact.** 
 
 
