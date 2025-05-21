@@ -62,7 +62,7 @@ This section covers the best practicies for transcribing audio files without the
 
 ### How to Transcribe an Audio File 
 
-This covers the best practices for transcribing an audio file manually. This is a tedious and time-consuming process, so do not be detoured by the process. 
+This covers the best practices for transcribing an audio file manually. This is a tedious and time-consuming process, so do not be deterred by the process. 
 
 Here are some notes for best practices: 
 
@@ -151,7 +151,7 @@ To edit the transcript:
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit2.png)
 
  - This allows you to edit the name of the speaker and the text that was transcribed 
- - If the checkox labeled "Change all Speaker 1" is checked, this will change all "Speaker 1" labeled timestamps to the name inputted 
+ - If the checkbox labeled "Change all Speaker 1" is checked, this will change all "Speaker 1" labeled timestamps to the name inputted 
 	
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit3.png)
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit4.png)
@@ -168,17 +168,17 @@ Notice that all the "Speaker 1" timestamps have now changed
 
 - There are multiple options that can be selected here: 
 	- Just text
-		- Text only. No speakers ot timestamps will be added to the Word document
+		- Text only. No speakers or timestamps will be added to the Word document
 	- With speakers 
 		- The speaker's name will be added to the Word document with the transcription
-		- If there are multple sections of the same speaker in the transcript in a row, they will be grouped together. 
+		- If there are multiple sections of the same speaker in the transcript in a row, they will be grouped together. 
 	- With timestamps 
 		- The timestamps will be added to the Word document, separating when words were spoken
 	- With speakers and timestamps 
-		- Both the timestamp and the speaker will be adde to the Word document
+		- Both the timestamp and the speaker will be added to the Word document
 			
 {:style="counter-reset:none"}
-1. After selecting an option, the transcript will auto popolate in the Word document 
+1. After selecting an option, the transcript will auto populate in the Word document 
 
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/transcription/edit7.png)
 
@@ -197,7 +197,7 @@ Some common errors the software makes include:
 
 *	Adding in punctuation based on breaks in the audio and tone of voice 
 *	Misspelling names and locations 
-*	Inserting the wrong Word
+*	Inserting the wrong word
 *	Many more 
 
 When cleaning a generated transcript: 
@@ -205,7 +205,7 @@ When cleaning a generated transcript:
 - Listen to the audio carefully and in small chunks to follow along and fix the errors easily 
 	- It is possible that a word or phrase was not recognized by the transcription software and is therefore not in the transcript 
 - Do not add in punctuation while editing in the side panel
-	- Add an remove punctuation once the transcript has been added to the document
+	- Add and remove punctuation once the transcript has been added to the document
 - Decide on whether to include pause-words such as "um" and "like" in the final transcript (see more [below](#what-to-include-in-a-transcription))
 - If another language is present, remember you have two options: 
 	- Upload the audio file in another document with the second language selected
