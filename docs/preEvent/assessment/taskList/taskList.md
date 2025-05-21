@@ -42,7 +42,7 @@ Below is a list of tasks leading up to your archiving event, so you can be fully
 - Confirm equipment and supplies 
 - Acquire any missing equipment or supplies 
 
- ### 1-2 days before 
+ ### 1-2 days before the event
 
 - Charge headphones
 - Switch out batteries in recorders 
