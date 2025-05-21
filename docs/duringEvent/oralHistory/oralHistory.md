@@ -20,7 +20,7 @@ The length of your Oral History Interviews will vary according to the objectives
 **NOTE:** Your audio recording equipment will likely vary depending on the size and scope of your event. Here, we have used a Sony PX series recording device as an example. 
 
 1. Power on your recording device using the button on the side
-	- To record, press the REC/PAUSE button, marked with a red circle. **Make sure the device has starting recording before beginning the interview.** You should see a red light and the recorder timer counting upwards.
+	- To record, press the REC/PAUSE button, marked with a red circle. **Make sure the device has started recording before beginning the interview.** You should see a red light and the recorder timer counting upwards.
 	
 	![]({{site.url}}{{site.baseurl}}/assets/images/duringEvent/oralHistory/recorder1.jpg)
 	
