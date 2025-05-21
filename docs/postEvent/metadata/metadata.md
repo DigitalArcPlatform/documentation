@@ -43,4 +43,4 @@ In the end, the categories will depend on the nature of the items photographed a
 
 The metadata for a specific item will, naturally, be particular to that item. This will include unique, indentifying details, and may include information related to the individual who submitted it. 
 
-** If a participant has opted not to have their name included, be sure that you do NOT include any personal data about the individual(s) who submitted the item. ** 
+**If a participant has opted not to have their name included, be sure that you do NOT include any personal data about the individual(s) who submitted the item.** 
