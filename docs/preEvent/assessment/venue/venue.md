@@ -9,7 +9,7 @@ grand_parent: Pre-Event Planning
 # Venue
 
 Now that you have an idea of the type of material you will be archiving and a general sense of the number of community members who can help throughout the event, the next steps are to find a venue that can support it. 
-This should happen early in the planning period. 
+This should happen **early** in the planning period. 
 
 Below are some considerations for choosing a place and date to host the archiving event:   
 
