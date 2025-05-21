@@ -41,3 +41,17 @@ Below is a list of tasks leading up to your archiving event, so you can be fully
 	- Create nametags for volunteers 
 	- Confirm equipment and supplies 
 	- Acquire any missing equipment or supplies 
+
+ ### 1-2 days before 
+
+	- Charge headphones
+	- Switch out batteries in recorders 
+	- Erase content on recorders 
+	- Charge iPads 
+	- Pack items for each station 
+	- Print oral history questions 
+	- Print checklist for each station 
+	- Print ID stickers  
+	- Print the volunteer schedule 
+	- Confirm any food deliveries
+
