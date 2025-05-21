@@ -8,7 +8,7 @@ grand_parent: Pre-Event Planning
 
 # Volunteers
 
-For a successfull community archive event, you will need a variety of volunteers to fulfill the roles necessary for directing contributors, digitizing their contributions, and conducting oral history interviews. We recommend recruiting volunteers for the following roles.
+For a successful community archive event, you will need a variety of volunteers to fulfill the roles necessary for directing contributors, digitizing their contributions, and conducting oral history interviews. We recommend recruiting volunteers for the following roles. Prior to assigning roles, be sure to send out a volunteer skills survey to assess potential volunteers' skill sets. This will help you decide what role suits them and your event best. 
 
 **Note:** The number of individuals you will need for each role will depend on the size and scope of your event. **Plan accordingly.**
 
