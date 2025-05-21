@@ -7,6 +7,21 @@ parent: During the Event
 
 # Check-In
 
+For the check-in station, you should have: 
+
+- [ ] Station Checklist
+- [ ] Clipboard(s)
+- [ ] Pens
+- [ ] Markers 
+- [ ] Object ID Stickers 
+- [ ] Index Cards (for stickers) 
+- [ ] AAA Batteries 
+- [ ] Table(s)
+- [ ] Power Cords/Other Chargers 
+- [ ] Laptop(s)
+- [ ] Scissors 
+- [ ] Surge Protectors 
+
 ## Welcome 
 
 Be sure to welcome and introduce yourself and the event to contributors. Some may be encountering you or your group for the first time and may not know the purpose of your event. Below is a script you can use or adapt to explain: 
