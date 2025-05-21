@@ -16,12 +16,30 @@ Contributors may also have objects which would require visits to multiple statio
 
 ## Video Digitization 
 
+For the video station, you should have: 
+
+- [ ] Station Checklist 
+- [ ] Power Cords/Other chargers 
+- [ ] External Hard Drive(s)
+- [ ] Ethernet Adapter(s)
+- [ ] USB Adapter(s) (USB-A to USB-C)
+- [ ] VHS/DVD Deck (+cables), MiniDV Deck, El Gato, or other video digitization device(s)
+
 Start here if the contributor has a video to contribute, even if they have other objects. 
 Once the contributor finishes the narration interview, the guide should check to see whether the video digitization has been completed.
 	- If it has NOT been completed, the guide should take the contributor to the next station (if applicable) while the digitization is in progress. 
 	- If it HAS been completed, the video should be returned to the contributor and the guide should confirm that the IDs match and accompany the contributor to the next station (if applicable). 
 	
 ## Photography / Born-Digital Photos / Oral History Accompaniment Photos & Images 
+
+For the photography station, you should have: 
+
+- [ ] Station Checklist 
+- [ ] Lightbox(es)
+- [ ] Lights 
+- [ ] Tape 
+- [ ] Scanning Stand(s)
+- [ ] Scissors 
 
 There are three types of photography you may encounter (in order of expected frequency): 
 
@@ -54,6 +72,9 @@ The photographer/guide should:
 [BDFormLink]: 
 
 ### Oral History Accompaniment Photos / Born-Digital Representative Images 
+
+- [ ] Station Checklist
+- [ ] Oral History Questions List 
 
 The guide should ask the contributor if they would like a portrait of themselves or a born-digital photo of a location, object, or other content relevant to their oral history. 
 
