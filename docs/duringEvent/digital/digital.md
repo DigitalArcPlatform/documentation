@@ -11,6 +11,7 @@ As part of your event planning, you will need to consider how many stations you 
 If your event is on the smaller side, you may need only 2 stations:
 - Artifacts (Text, Images, 3D Objects)
 - Video
+  
 If your event is larger, you may want to consider creating separate stations for Text, Images, and Objects as appropriate. 
 Contributors may also have objects which would require visits to multiple stations.
 
