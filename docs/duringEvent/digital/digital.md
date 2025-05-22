@@ -46,7 +46,15 @@ There are three types of photography you may encounter (in order of expected fre
 
 1. Photographing a physical object (letter, hat, etc.) 
 1. Transferring a born-digital photo from a phone or tablet 
-3. Photographing a contributor who has only an oral history to contribute (without an artifact) or selecting an existing image that represents the story to be shared 
+1. Photographing a contributor who has only an oral history to contribute (without an artifact) or selecting an existing image that represents the story to be shared
+
+**NOTE:** If you are using an iPhone to take photos, you will need to change the default file format for your camera. 
+
+1. Open your Settings app
+1. Go to Camera
+1. Under Formats, choose Most Compatible
+
+This will set your camera to save photos as JPEGs rather than HEICs. 
 
 ### Taking Artifact Photos 
 
