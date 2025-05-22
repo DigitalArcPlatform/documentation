@@ -14,7 +14,7 @@ This should happen **early** in the planning period.
 Below are some considerations for choosing a place and date to host the archiving event:   
 
 
-### Time of year and weather
+## Time of year and weather
 
 When choosing a date and location for your archiving event, you should consider typical weather conditions. 
 If a particular venue requires part of the setup to be outdoors, you will want to have a backup plan in the event of adverse weather conditions or have the necessary equipment (e.g., tents, heaters, etc.) to run part of the event outside. When possible, picking a date with typically pleasant weather conditions is highly recommended, but we understand it is not always possible. 
