@@ -11,11 +11,11 @@ This page and its sub-pages provide a step-by-step guide for running a community
 ## Stations and Roles
 The number of organizers needed per role/station will depend on the size of the community event and partner capacity. The following stations are listed in-order of the process. Contributors will visit each station. 
 
-1.	[Check-in](checkin) 
-2.	Digitization/Capture 
-3.	Interviews 
-4.	Check-out
-5.	Guides
+1.	[Check-in](checkin/checkin.md) 
+2.	[Digitization/Capture](digital/digital.md) 
+3.	[Interviews](oralHistory/oralHistory.md) 
+4.	[Check-out](checkout/checkout.d)
+5.	[Guides](guides/guides.md)
 
 ### Greeters (Check-In/Check-Out Stations) 
 Greeters will welcome contributors by introducing the event, helping contributors sign-in, and assigning a guide and identifiers. _For this role, the volunteer should be comfortable with interpersonal communication, comfortable using laptops, computers or tablets, and have experience with spreadsheets_. 
