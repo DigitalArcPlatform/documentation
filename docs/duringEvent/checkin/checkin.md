@@ -46,18 +46,54 @@ Every object contributed **will need their own entry in the sign-in form.** Cont
 Before a contributor moves to the form station, *tell each contributor that you will give them a flyer with contact information at the end.*
 	- The guide’s role here is to listen to the conversation between the contributor and the check-in volunteers, noting questions that may arise that could benefit from more clarification as they go through the process. The guide can also help the contributor fill out the form on the iPads.
 	
-### Step 1: Complete a Form for Each Object 
+### Step 1: Sign-In (Complete a Form for Each Object) 
 
 1. Direct the contributor to the appropriate device(s) to complete the sign-in form. This should take no longer than 5 minutes. 
 	- If the contributor has more than one object, **each object will need a separate form submitted.** 
 	- You may reference the sign-in form on your own device in case the contributor has questions.
 
-1. Once the appropriate number of forms is complete, direct the contributor to the volunteer(s) in charge of [Step 2](#step-2:-verify-sign-in) of the sign-in process. 
+1. Once the appropriate number of forms are complete, direct the contributor to the volunteer(s) in charge of [Step 2](#step-2:-verify-sign-in) of the sign-in process. 
+
+#### Step 1a: Preparing the Spreadsheet After Sign-In with First Contributor
 
 The sign-in spreadsheet should have three tabs:
+
 - Sign-In
 - Verified Sign-In
 - Assign ID
+
+Sign-in will mostly likely happen on-the-spot on event day. You may also encourage people to sign-in ahead of event day. In this case, you may have a mixture of existing entries and new ones happening real time. Whether you have existing entries or you are working with a newly submitted entry, the following steps need to be taken to initially prepare the spreadsheet for tracking community contributions 
+
+- Rename tab from “Form Responses 1” to “Sign-In”
+- Duplicate tab
+- Rename second tab “Verified Sign-In”
+- Review the information with the contributor; including contact information and levels of consent.  
+	- Make edits only in the “Verified Sign-In” tab
+- Duplicate the “Verified Sign-In” tab, once the information has been verified
+- Rename “Verified Sign-In” tab to “Assign ID”
+	- In “Assign ID,” you will add two columns:
+		- First to record object ID.
+  			- Select “Column A.”
+			- Select “Insert” in the top of google sheets menu => “Columns” => “Insert 1 Column Left”
+			- Rename this new column to “Object ID”
+			- Type, carefully, the object ID to your first contributor. For example, 2025-01-05-0001 into the spreadsheet call A2. 
+		- Last Column
+  			- Label the last column after the entry as “Notes.” Use this column to record key information about the contribution. For example:
+				- Contributor would like to schedule the oral history at another time. 
+				- Contributor has additional photos on a computer at home that relate to this story.
+
+#### Step 1b: Copying and Pasting Spreadsheet Information for Subsequent Contributors
+
+Now that you have the spreadsheet setup with all the needed tabs after checking-in your initial contributor, as new contributors sign-up, you will be copying and pasting information as follows:
+
+- Copy the contents for the next contributor from the “Sign-In” tab to the “Verified Sign-In” tab.
+- Review the information with next contributor. Make edits if needed.
+- Copy the contents for contributor from “Verified Sign-In” to the “Assign ID” tab.
+	- Remember to copy starting with the second column since the first column is a placeholder for Object ID.
+- Assign the Object ID, which should be the next sequential number unless you have multiple pairs of volunteers managing check-in. 
+	- Generate object IDs automatically by selecting cell A2 in Assign ID. On the bottom right of the selection rectangle, you will see a dot. Select the dot, hold and drag the rectangle down column A. That will generate the object IDs for you, sequentially.
+	- You should always verify that you are copying and pasting the information corresponding to the Object ID. If you are managing concurrent check-ins, you will likely need to jump around until you pinpoint the right row to copy and paste into. 
+
 
 ### Step 2: Verify Sign-In
 
