@@ -51,6 +51,13 @@ Be sure to welcome and introduce yourself and the event to contributors. Some ma
 
 Every object contributed **will need their own entry in the sign-in form.** Contributors may be asked to submit the sign-in form more than once. This is may be the most challenging part of the process especially if you have folks lined up to contribute their stories. We recommend at least two volunteers in the Check-In area; 1) one who works with the community contributors in filling out the form (step 1), and 2) one who works on verifying and assigning an object ID (steps 2 & 3). Depending on the size of the event, you may need more than 1 pairing of these roles.
 
+Sign-in will mostly likely happen on-the-spot on event day. You may also encourage people to sign-in ahead of event day. In this case, you may have a mixture of existing entries and new ones happening real time. 
+
+### Step 1a: Preparing the Spreadsheet After Sign-In
+Whether you have existing entries or you are working with a newly submitted entry, the following steps need to be taken to prepare the spreadsheet for tracking community contributions: 
+
+
+
 Questions may arise about consent. Here's a quick explanation of each: 
 
 #### Consent Types
@@ -65,7 +72,7 @@ Note that consent options can be tailored to your specific project. This is just
 Before a contributor moves to the form station, *tell each contributor that you will give them a flyer with contact information at the end.*
 	- The guide’s role here is to listen to the conversation between the contributor and the check-in volunteers, noting questions that may arise that could benefit from more clarification as they go through the process. The guide can also help the contributor fill out the form on the iPads.
 	
-### Step 1: Complete a Form for Each Object 
+### Step 1: Sign-In (Complete a Form for Each Object) 
 
 1. Direct the contributor to the appropriate device(s) to complete the sign-in form. This should take no longer than 5 minutes. 
 	- If the contributor has more than one object, **each object will need a separate form submitted.** 
