@@ -91,7 +91,9 @@ The purpose of this step is to make sure that the contributor does not need to m
 			
 	[ScreenRecording]: http://tiny.cc/2023CheckInTutorial
 	
-### Step 3: Assign ID and Recorder 
+### Step 3: Assign ID  
+
+1. Copy and paste the contents of the contributor's row/rows from the "Sign-In" tab to the "Verified Sign-In" tab. 
 
 1. Find the record in the spreadsheet-view of the sign-in form.
 	- Go to **Assign ID** tab
