@@ -9,6 +9,13 @@ has_children: true
 
 In order to quickly and easily facilitate your community archive event, there are a number of items you will need to make sure are in place. 
 
+## Cloud-Based, Shared Storage
+Whether specialized equipment like audio recorders or digital cameras are provided or your team uses personal smart phones to capture stories, your team will need to decide on a collaborative, cloud-based file-sharing solution like Google Drive or Microsoft One Drive. This will need to be in place ahead of the community archiving event. 
+
+There are several of cloud-based, collaborative file-sharing and file-management options like Backblaze, Dropbox, Google, and Microsoft. While each of these have Android and iPhone apps to make file management fairly easy on your mobile phone or tablet, some of these like Google or Dropbox are seamlessly integrated with uploading actions supported by phones or tablets. 
+
+Given Google’s ubiquity, familiarity and ease-of-use, [we provide suggestions for setting up a Google environment for file-sharing](googleFileSharing.md). 
+
 ## Sign-In Form 
 
 You will need some sort of form in order to collect information from the contributors about their items, contact information, and permission preference.
