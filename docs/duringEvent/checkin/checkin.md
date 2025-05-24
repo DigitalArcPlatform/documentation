@@ -26,16 +26,16 @@ For the check-in station, you should have:
 
 Be sure to welcome and introduce yourself and the event to contributors. Some may be encountering you or your group for the first time and may not know the purpose of your event. Below is a script you can use or adapt to explain: 
 
-"Welcome! As part of the **(EVENT TITLE)**, we are creating a digital community archive showcasing an important object and associated memories that will contribute to the history of the culture center. **Are you interested in contributing to the archive and do you have an object – a photo, letter, video, story, or memory – that you would like to share?**"
+"Welcome! As part of the **(EVENT TITLE)**, we are creating a digital community archive showcasing an important object and associated memories that will contribute to the community's. **Are you interested in contributing to the archive and do you have an object – a photo, letter, video, story, or memory – that you would like to share?**"
 
-- Refer to [example flyer] and talk through options. If you are unsure, ask a coordinator for help. 
+- Talk through options. You may not be able to digitize a VHS tape, but you can take a born-digital video. You may not be able to digitize an entire scrapbook so you will need to work with the community members on identifying aspects of the scrapbook that are most important to the story they plan to share. If you are unsure, ask a coordinator for help. 
 
 **If they have a contribution:**
 
-1. Ask to see their object to make sure you can capture it. This will depend on your [digitization and photography]({{site.url}}{{site.baseurl}}/docs/duringEvent/digital/digital.html) limitations.
-1. Go over the process with them. This will depend on your particular event, but be sure to explain what limitations there are, where to go, and how long the process will take. For instance:  
-	- "For video, the process should take about 30 minutes, of which only 10-15 minutes would actively involve you. You will work with the video digitizers to indicate what up-to-30 minute chunk to digitize and you will record a video narration that should last about 5 minutes."
-	- "For non-video items, the process should take about 10 minutes from start-to-finish for each item. After you complete check-in, you will go to the digitization station and then to the oral history interview station. The last stop is check-out. "
+1. Ask to see their object to make sure you can capture it. This will depend on your [digitization and photography]({{site.url}}{{site.baseurl}}/docs/duringEvent/digital/digital.html) abilities.
+1. Go over the process with them. This will depend on your particular event, but be sure to explain what is possible (e.g., short or long interviews), where to go, and how long the process will take. For instance:  
+	
+	- "The process should take about 15 minutes from start-to-finish for each item (assuming a focused oral history interview). After you complete check-in, you will go to the digitization station and then to the oral history interview station. The last stop is check-out.  "
 	
 1. Direct the contributor to [sign-in](#sign-in) **for each object.** 
 1. Introduce the appropriate guide to the contributor.
@@ -45,18 +45,22 @@ Be sure to welcome and introduce yourself and the event to contributors. Some ma
 
 **If they DO NOT have a contribution:** 
 
-- Thank them for their time and give them a [flyer].
+- Thank them for their time and provide contact information should they decide to contribute later.
 
 ## Sign-In
 
-Every object contributed **will need their own entry in the sign-in form.** Contributors may be asked to submit the sign-in form more than once. Questions may arise about consent. here's a quick explanation of each: 
+Every object contributed **will need their own entry in the sign-in form.** Contributors may be asked to submit the sign-in form more than once. This is may be the most challenging part of the process especially if you have folks lined up to contribute their stories. We recommend at least two volunteers in the Check-In area; 1) one who works with the community contributors in filling out the form (step 1), and 2) one who works on verifying and assigning an object ID (steps 2 & 3). Depending on the size of the event, you may need more than 1 pairing of these roles.
+
+Questions may arise about consent. Here's a quick explanation of each: 
 
 #### Consent Types
 
 - **Full participation:** Post their contributions, digitized images, and oral history interview to the community archiving website. 
 - **No audio, full participation:** Post their contributions, digitized images, and oral history interview **TRANSCRIPTION**, not the actual audio recording, to the community archiving website.
 - **Anonymous, full participation:** Post their contributions, digitized images, and oral history interview **TRANSCRIPTION**, not the actual audio recording, to the community archiving website, *not including personal information.*
-- **Private, full participation:** We will **NOT** publish anything contribution to the website, but will keep their contact information for sending digital copies of the items contributed. 
+- **Private, full participation:** We will **NOT** publish anything contribution to the website, but will keep their contact information for sending digital copies of the items contributed.
+
+Note that consent options can be tailored to your specific project. This is just one example. 
 	
 Before a contributor moves to the form station, *tell each contributor that you will give them a flyer with contact information at the end.*
 	- The guide’s role here is to listen to the conversation between the contributor and the check-in volunteers, noting questions that may arise that could benefit from more clarification as they go through the process. The guide can also help the contributor fill out the form on the iPads.
