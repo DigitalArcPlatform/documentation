@@ -19,6 +19,7 @@ For the check-in station, you should have:
 - [ ] Table(s)
 - [ ] Power Cords/Other Chargers 
 - [ ] Laptop(s)
+- [ ] Tablet(s)
 - [ ] Scissors 
 - [ ] Surge Protectors 
 
@@ -52,11 +53,6 @@ Be sure to welcome and introduce yourself and the event to contributors. Some ma
 Every object contributed **will need their own entry in the sign-in form.** Contributors may be asked to submit the sign-in form more than once. This is may be the most challenging part of the process especially if you have folks lined up to contribute their stories. We recommend at least two volunteers in the Check-In area; 1) one who works with the community contributors in filling out the form (step 1), and 2) one who works on verifying and assigning an object ID (steps 2 & 3). Depending on the size of the event, you may need more than 1 pairing of these roles.
 
 Sign-in will mostly likely happen on-the-spot on event day. You may also encourage people to sign-in ahead of event day. In this case, you may have a mixture of existing entries and new ones happening real time. 
-
-### Step 1a: Preparing the Spreadsheet After Sign-In
-Whether you have existing entries or you are working with a newly submitted entry, the following steps need to be taken to prepare the spreadsheet for tracking community contributions: 
-
-
 
 Questions may arise about consent. Here's a quick explanation of each: 
 
