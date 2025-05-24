@@ -87,7 +87,6 @@ The purpose of this step is to make sure that the contributor does not need to m
 		- Change of consent during verification or at check-out. 
 		- One entry depicts more than 1 item
 			- If this is the case, it will require a conversation. Sometimes it makes sense for items to be groups. Other times it may make more sense to have each items as a separate row in the "Verified Sign-In" tab. 
-			- See example below an accompanying [screen recording][ScreenRecording] for an example of one entry needing to be split into two entries in "Verified Sign-In."
 			- **Example:** Original submission contained two postcards as one entry. After discussion at check-in, it was decided that each postcard should have its own entry since they were addressed to different people with different messages. In “Verified Sign-In,” a second entry, copy-and-pasted from the original that was created, with minor changes to each entry: (to grandmother) and (to friend), to distinguish them.
 			
 	[ScreenRecording]: http://tiny.cc/2023CheckInTutorial
