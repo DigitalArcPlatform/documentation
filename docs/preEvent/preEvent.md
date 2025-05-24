@@ -20,7 +20,7 @@ Given Google’s ubiquity, familiarity and ease-of-use, [we provide suggestions 
 
 You will need some sort of form in order to collect information from the contributors about their items, contact information, and permission preference.
 
-For user-friendliness on both your and the contributors' ends, we recommend using Google Forms as it is an interface with which the general public is generally familiar and it allows you to export the responses to a spreadsheet. 
+For user-friendliness on both your and the contributors' ends, we recommend using Google Forms as it is an interface with which the public is generally familiar and it allows you to export the responses to a spreadsheet. 
 
 ## Object ID Stickers 
 
@@ -35,4 +35,4 @@ Hence 2024-03-21-0004 would correspond to the fourth item collected on March 21s
 
 You will likely want to prepare a surplus of these stickers so as to avoid any disruptions during the course of the event. 
 
-**NOTE:** These IDs will also be essential for assigning [file names]({{site.url}}{{site.baseurl}}/docs/postEvent/naming/naming.html) in the aftermath of the history gathering event. 
+**NOTE:** These IDs will also be essential for assigning [file names]({{site.url}}{{site.baseurl}}/docs/postEvent/naming/naming.html) in preparation for processing and publishing these files. 
