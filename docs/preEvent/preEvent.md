@@ -9,11 +9,18 @@ has_children: true
 
 In order to quickly and easily facilitate your community archive event, there are a number of items you will need to make sure are in place. 
 
+## Cloud-Based, Shared Storage
+Whether specialized equipment like audio recorders or digital cameras are provided or your team uses personal smart phones to capture stories, your team will need to decide on a collaborative, cloud-based file-sharing solution like Google Drive or Microsoft One Drive. This will need to be in place ahead of the community archiving event. 
+
+There are several of cloud-based, collaborative file-sharing and file-management options like Backblaze, Dropbox, Google, and Microsoft. While each of these have Android and iPhone apps to make file management fairly easy on your mobile phone or tablet, some of these like Google or Dropbox are seamlessly integrated with uploading actions supported by phones or tablets. 
+
+Given Google’s ubiquity, familiarity and ease-of-use, [we provide suggestions for setting up a Google environment for file-sharing](googleFileSharing.md). 
+
 ## Sign-In Form 
 
 You will need some sort of form in order to collect information from the contributors about their items, contact information, and permission preference.
 
-For user-friendliness on both your and the contributors' ends, we recommend using Google Forms as it is an interface with which the general public is generally familiar and it allows you to export the responses to a spreadsheet. 
+For user-friendliness on both your and the contributors' ends, we recommend using Google Forms as it is an interface with which the public is generally familiar and it allows you to export the responses to a spreadsheet. 
 
 ## Object ID Stickers 
 
@@ -28,4 +35,4 @@ Hence 2024-03-21-0004 would correspond to the fourth item collected on March 21s
 
 You will likely want to prepare a surplus of these stickers so as to avoid any disruptions during the course of the event. 
 
-**NOTE:** These IDs will also be essential for assigning [file names]({{site.url}}{{site.baseurl}}/docs/postEvent/naming/naming.html) in the aftermath of the history gathering event. 
+**NOTE:** These IDs will also be essential for assigning [file names]({{site.url}}{{site.baseurl}}/docs/postEvent/naming/naming.html) in preparation for processing and publishing these files. 
