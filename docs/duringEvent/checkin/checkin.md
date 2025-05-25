@@ -7,6 +7,7 @@ parent: During the Event
 
 # Check-In
 
+## Equipment Checklist
 For the check-in station, you should have: 
 
 - [ ] Station Checklist
@@ -48,7 +49,7 @@ Ask to see their object to make sure you can capture it. Talk through options. Y
 
 Every object contributed **will need their own entry in the sign-in form.** Contributors may be asked to submit the sign-in form more than once. Questions may arise about consent. here's a quick explanation of each: 
 
-#### Consent Types
+### Consent Types
 
 - **Full participation:** Post their contributions, digitized images, and oral history interview to the community archiving website. 
 - **No audio, full participation:** Post their contributions, digitized images, and oral history interview **TRANSCRIPTION**, not the actual audio recording, to the community archiving website.
@@ -67,7 +68,7 @@ The guide’s role here is to listen to the conversation between the contributor
 
 1. Once the appropriate number of forms are complete, direct the contributor to the volunteer(s) in charge of [Step 2](#step-2:-verify-sign-in) of the sign-in process. 
 
-#### Step 1a: Preparing the Spreadsheet After Sign-In with First Contributor
+### Step 1a: Preparing the Spreadsheet After Sign-In with First Contributor
 
 The sign-in spreadsheet should have three tabs:
 
@@ -98,7 +99,7 @@ Sign-in will mostly likely happen on-the-spot on event day. You may also encoura
 				- Contributor would like to schedule the oral history at another time. 
 				- Contributor has additional photos on a computer at home that relate to this story.
 
-#### Step 1b: Copying and Pasting Spreadsheet Information for Subsequent Contributors
+### Step 1b: Copying and Pasting Spreadsheet Information for Subsequent Contributors
 
 Now that you have the spreadsheet setup with all the needed tabs after checking-in your initial contributor, as new contributors sign-up, you will be copying and pasting information as follows:
 
@@ -157,7 +158,7 @@ The purpose of this step is to make sure that the contributor does not need to m
 
 **The contributor should not part with their objects and sticker(s) as they walk through the process other than when handing objects over for digitization.**
 
-#### Step 3a: Assigning an Audio Recorder (optional)
+### Step 3a: Assigning an Audio Recorder (optional)
 
 If you plan to use an audio recording device instead of a volunteer’s phone to record the interview/oral history:
 
