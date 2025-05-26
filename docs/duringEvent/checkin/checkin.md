@@ -68,7 +68,7 @@ The guide’s role here is to listen to the conversation between the contributor
 
 1. Once the appropriate number of forms are complete, direct the contributor to the volunteer(s) in charge of [Step 2](#step-2:-verify-sign-in) of the sign-in process. 
 
-### Step 1a: Preparing the Spreadsheet After Sign-In with First Contributor
+#### Step 1a: Preparing the Spreadsheet After Sign-In with First Contributor
 
 The sign-in spreadsheet should have three tabs:
 
@@ -99,7 +99,7 @@ Sign-in will mostly likely happen on-the-spot on event day. You may also encoura
 				- Contributor would like to schedule the oral history at another time. 
 				- Contributor has additional photos on a computer at home that relate to this story.
 
-### Step 1b: Copying and Pasting Spreadsheet Information for Subsequent Contributors
+#### Step 1b: Copying and Pasting Spreadsheet Information for Subsequent Contributors
 
 Now that you have the spreadsheet setup with all the needed tabs after checking-in your initial contributor, as new contributors sign-up, you will be copying and pasting information as follows:
 
@@ -111,8 +111,7 @@ Now that you have the spreadsheet setup with all the needed tabs after checking-
 - Assign the Object ID, which should be the next sequential number unless you have multiple pairs of volunteers managing check-in. 
 	- Generate object IDs automatically by selecting cell A2 in Assign ID. On the bottom right of the selection rectangle, you will see a dot. Select the dot, hold and drag the rectangle down column A. That will generate the object IDs for you, sequentially.
 	- You should always verify that you are copying and pasting the information corresponding to the Object ID. If you are managing concurrent check-ins, you will likely need to jump around until you pinpoint the right row to copy and paste into.
-
-We have provided a [50 second video](https://github.com/DigitalArcPlatform/documentation/blob/dev/assets/images/duringEvent/checkin/digitalarc_screenrecord_autoassigningids.mov) demonstrating the last few steps. 
+	- We have provided a [50 second video](https://github.com/DigitalArcPlatform/documentation/blob/dev/assets/images/duringEvent/checkin/digitalarc_screenrecord_autoassigningids.mov) demonstrating the last few steps. 
 
 ### Step 2: Verify Sign-In
 
