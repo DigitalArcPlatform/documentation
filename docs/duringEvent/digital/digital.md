@@ -11,10 +11,20 @@ As part of your event planning, you will need to consider how many stations you 
 If your event is on the smaller side, you may need only 2 stations:
 - Artifacts (Text, Images, 3D Objects)
 - Video
+  
 If your event is larger, you may want to consider creating separate stations for Text, Images, and Objects as appropriate. 
 Contributors may also have objects which would require visits to multiple stations.
 
 ## Video Digitization 
+
+For the video station, you should have: 
+
+- [ ] Station Checklist 
+- [ ] Power Cords/Other chargers 
+- [ ] External Hard Drive(s)
+- [ ] Ethernet Adapter(s)
+- [ ] USB Adapter(s) (USB-A to USB-C)
+- [ ] VHS/DVD Deck (+cables), MiniDV Deck, El Gato, or other video digitization device(s)
 
 Start here if the contributor has a video to contribute, even if they have other objects. 
 Once the contributor finishes the narration interview, the guide should check to see whether the video digitization has been completed.
@@ -23,11 +33,28 @@ Once the contributor finishes the narration interview, the guide should check to
 	
 ## Photography / Born-Digital Photos / Oral History Accompaniment Photos & Images 
 
+For the photography station, you should have: 
+
+- [ ] Station Checklist 
+- [ ] Lightbox(es)
+- [ ] Lights 
+- [ ] Tape 
+- [ ] Scanning Stand(s)
+- [ ] Scissors 
+
 There are three types of photography you may encounter (in order of expected frequency): 
 
 1. Photographing a physical object (letter, hat, etc.) 
 1. Transferring a born-digital photo from a phone or tablet 
-3. Photographing a contributor who has only an oral history to contribute (without an artifact) or selecting an existing image that represents the story to be shared 
+1. Photographing a contributor who has only an oral history to contribute (without an artifact) or selecting an existing image that represents the story to be shared
+
+**NOTE:** If you are using an iPhone to take photos, you will need to change the default file format for your camera. 
+
+1. Open your Settings app
+1. Go to Camera
+1. Under Formats, choose Most Compatible
+
+This will set your camera to save photos as JPEGs rather than HEICs. 
 
 ### Taking Artifact Photos 
 
@@ -54,6 +81,9 @@ The photographer/guide should:
 [BDFormLink]: 
 
 ### Oral History Accompaniment Photos / Born-Digital Representative Images 
+
+- [ ] Station Checklist
+- [ ] Oral History Questions List 
 
 The guide should ask the contributor if they would like a portrait of themselves or a born-digital photo of a location, object, or other content relevant to their oral history. 
 

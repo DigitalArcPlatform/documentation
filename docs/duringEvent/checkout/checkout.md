@@ -7,6 +7,22 @@ parent: During the Event
 
 # Check-out
 
+For the check-out station, you should have: 
+
+- [ ] Station Checklist 
+- [ ] Sharpie(s)
+- [ ] Pens
+- [ ] Pencil Boxes (for index card) 
+- [ ] USB Adapter(s) (USB-A to USB-C) 
+- [ ] Laptop(s)
+- [ ] Power Cords/Other chargers 
+- [ ] Headphones 
+- [ ] Alcohol Wipes (for headphones) 
+- [ ] USB Dongle(s)
+- [ ] Table(s)
+- [ ] Recorder(s)
+- [ ] Flyers
+
 This should be the final stop for contributors to your community archive. The role of the guide here is to make connections between questions voiced by the contributor at sign-in or throughout the process. The guide should also help the contributor make sure that they have **all** of their items and corresponding ID sticker. The guide will also hold the recorder until it's time to return it to the checkout volunteers. 
 
 The individual working the checkout station should: 
