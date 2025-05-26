@@ -79,9 +79,9 @@ The sign-in spreadsheet should have three tabs:
 Sign-in will mostly likely happen on-the-spot on event day. You may also encourage people to sign-in ahead of event day. In this case, you may have a mixture of existing entries and new ones happening real time. Whether you have existing entries or you are working with a newly submitted entry, **the following steps need to be taken to initially prepare the spreadsheet for tracking community contributions.** 
 
 - Rename tab from “Form Responses 1” to “Sign-In”
-![How to rename a Google sheets tab]({{ site.url }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_renamesignin.png)
+![How to rename a Google sheets tab]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_renamesignin.png)
 - Duplicate tab
-![How to duplicate a Google sheets tab]({{ site.url }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_duplicatetab.png)
+![How to duplicate a Google sheets tab]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_duplicatetab.png)
 - Rename second tab “Verified Sign-In”
 - Review the information with the contributor; including contact information and levels of consent.  
 	- Make edits only in the “Verified Sign-In” tab
@@ -91,7 +91,7 @@ Sign-in will mostly likely happen on-the-spot on event day. You may also encoura
 		- First to record object ID.
   			- Select “Column A.”
 			- Select “Insert” in the top of google sheets menu => “Columns” => “Insert 1 Column Left”
-     			![How to insert a Google sheets column]({{ site.url }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_insertIDcolumn.png)	
+     			![How to insert a Google sheets column]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_insertIDcolumn.png)	
 			- Rename this new column to “Object ID”
 			- Type, carefully, the object ID to your first contributor. For example, 2025-01-05-0001 into the spreadsheet call A2. 
 		- Last Column
@@ -104,14 +104,14 @@ Sign-in will mostly likely happen on-the-spot on event day. You may also encoura
 Now that you have the spreadsheet setup with all the needed tabs after checking-in your initial contributor, as new contributors sign-up, you will be copying and pasting information as follows:
 
 - Copy the contents for the next contributor from the “Sign-In” tab to the “Verified Sign-In” tab.
-![Example of a copy-paste into the Verified Sign-In tab]({{ site.url }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_verifiedsignin_example.png)
+![Example of a copy-paste into the Verified Sign-In tab]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_verifiedsignin_example.png)
 - Review the information with next contributor. Make edits if needed.
 - Copy the contents for contributor from “Verified Sign-In” to the “Assign ID” tab.
 	- Remember to copy starting with the second column since the first column is a placeholder for Object ID.
 - Assign the Object ID, which should be the next sequential number unless you have multiple pairs of volunteers managing check-in. 
 	- Generate object IDs automatically by selecting cell A2 in Assign ID. On the bottom right of the selection rectangle, you will see a dot. Select the dot, hold and drag the rectangle down column A. That will generate the object IDs for you, sequentially.
 	- You should always verify that you are copying and pasting the information corresponding to the Object ID. If you are managing concurrent check-ins, you will likely need to jump around until you pinpoint the right row to copy and paste into.
-	- We have provided a [50 second video]({{ site.url }}{{ site.gifurl }}/duringEvent/checkin/digitalarc_screenrecord_autoassigningids.mov) demonstrating the last few steps. 
+	- We have provided a [50 second video]({{ site.baseurl }}{{ site.gifurl }}/duringEvent/checkin/digitalarc_screenrecord_autoassigningids.mov) demonstrating the last few steps. 
 
 ### Step 2: Verify Sign-In
 
@@ -135,7 +135,7 @@ The purpose of this step is to make sure that the contributor does not need to m
 	- Copy and paste the contributor’s row or rows (all the contents of that row) from the “Verified Sign-In” tab to the “Assign ID” tab. 
 	- Generate the ID by drag the right corner of cell A2 down the column or manually enter the ID. Make sure to double check the ID and the information you are copying and pasting! 
 
-![]({{ site.url }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_assignid_example.png)
+![]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_assignid_example.png)
 
 2. Quickly verify the contributor’s name and title of object(s) matches the information in the “Verified Sign-In” tab.
 	- Verify that an Object ID has already been created in Column A. The ID structure is based on the date of the event + sequential number: YYYY-MM-DD-nnnn.
