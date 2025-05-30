@@ -2,7 +2,7 @@
 title: Equipment
 layout: default
 nav_order: 3
-parent: Assessment
+parent: Logistics
 grand_parent: Pre-Event Planning
 ---
 

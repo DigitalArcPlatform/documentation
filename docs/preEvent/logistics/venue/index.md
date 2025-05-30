@@ -2,7 +2,7 @@
 title: Venue
 layout: default
 nav_order: 1
-parent: Assessment
+parent: Logistics
 grand_parent: Pre-Event Planning
 ---
 

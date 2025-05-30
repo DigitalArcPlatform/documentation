@@ -1,5 +1,5 @@
 ---
-title: Day-Of Logistics
+title: Logistics
 layout: default
 nav_order: 3
 parent: Pre-Event Planning

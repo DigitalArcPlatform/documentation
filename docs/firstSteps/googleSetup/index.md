@@ -2,7 +2,7 @@
 title: Setting up Google for File Sharing and File Management
 layout: default
 nav_order: 2
-has_children: true
+parent: First Steps
 ---
 
 # Setting up Google for File Sharing and File Management
