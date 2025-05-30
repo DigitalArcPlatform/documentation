@@ -15,6 +15,7 @@ If your event is on the smaller side, you may need only 2 stations:
 If your event is larger, you may want to consider creating separate stations for Text, Images, and Objects as appropriate. 
 Contributors may also have objects which would require visits to multiple stations.
 
+<!--
 ## Video Digitization 
 
 For the video station, you should have: 
@@ -30,6 +31,7 @@ Start here if the contributor has a video to contribute, even if they have other
 Once the contributor finishes the narration interview, the guide should check to see whether the video digitization has been completed.
 	- If it has NOT been completed, the guide should take the contributor to the next station (if applicable) while the digitization is in progress. 
 	- If it HAS been completed, the video should be returned to the contributor and the guide should confirm that the IDs match and accompany the contributor to the next station (if applicable). 
+-->
 	
 ## Photography / Born-Digital Photos / Oral History Accompaniment Photos & Images 
 
