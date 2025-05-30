@@ -3,6 +3,7 @@ title: Uploading Photo Backups During The Event
 layout: default
 nav_order: 1
 parent: Digitization and Photography
+grand_parent: During the Event
 ---
 
 # Uploading Photo Backups During The Event
