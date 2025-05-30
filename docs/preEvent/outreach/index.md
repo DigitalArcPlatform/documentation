@@ -1,7 +1,7 @@
 ---
 title: Community Outreach
 layout: default
-nav_order: 2
+nav_order: 3
 parent: Pre-Event Planning
 has_children: true
 ---
