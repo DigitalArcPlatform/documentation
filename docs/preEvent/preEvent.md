@@ -14,7 +14,7 @@ Whether specialized equipment like audio recorders or digital cameras are provid
 
 There are several of cloud-based, collaborative file-sharing and file-management options like Backblaze, Dropbox, Google, and Microsoft. While each of these have Android and iPhone apps to make file management fairly easy on your mobile phone or tablet, some of these like Google or Dropbox are seamlessly integrated with uploading actions supported by phones or tablets. 
 
-Given Google’s ubiquity, familiarity and ease-of-use, [we provide suggestions for setting up a Google environment for file-sharing](googleFileSharing.md). 
+Given Google’s ubiquity, familiarity and ease-of-use, [we provide suggestions for setting up a Google environment for file-sharing]({{ site.baseurl }}/docs/preEvent/googleFileSharing.html). 
 
 ## Sign-In Form 
 

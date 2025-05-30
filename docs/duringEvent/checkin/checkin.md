@@ -111,7 +111,7 @@ Now that you have the spreadsheet setup with all the needed tabs after checking-
 - Assign the Object ID, which should be the next sequential number unless you have multiple pairs of volunteers managing check-in. 
 	- Generate object IDs automatically by selecting cell A2 in Assign ID. On the bottom right of the selection rectangle, you will see a dot. Select the dot, hold and drag the rectangle down column A. That will generate the object IDs for you, sequentially.
 	- You should always verify that you are copying and pasting the information corresponding to the Object ID. If you are managing concurrent check-ins, you will likely need to jump around until you pinpoint the right row to copy and paste into.
-	- We have provided a [50 second video]({{ site.baseurl }}{{ site.gifurl }}/duringEvent/checkin/digitalarc_screenrecord_autoassigningids.mov) demonstrating the last few steps. 
+	- We have provided a [50 second video]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenrecord_autoassigningids.mov) demonstrating the last few steps. 
 
 ### Step 2: Verify Sign-In
 
