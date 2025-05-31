@@ -1,12 +1,12 @@
 ---
-title: Uploading Photo Backups During The Event
+title: Uploading Photos During The Event
 layout: default
 nav_order: 1
 parent: Digitization and Photography
 grand_parent: During the Event
 ---
 
-# Uploading Photo Backups During The Event
+# Uploading Photos During The Event
 
 As time permits between photo shoots and/or the end of your event, **be sure to upload all photos** to your digital storage platform of choice. 
 
@@ -30,4 +30,20 @@ Additionally, if using a cell-phone camera, **make sure to track storage capacit
 
 ## Uploading photos to Google Drive on an Android Phone
 
-Android phones auto-backup to Google Drive, but the file names may need to be changed later.
+Uploading Android Photographs to Google Drive
+Open 02_Community Partners Stories folder and click the Photographs folder, or search for the folder in Google Drive.
+ In the “Photographs” folder, click the + (bottom right) to add images to this folder.
+
+
+After you have clicked the “+”, select “Upload”
+
+From here, there are a few ways you can select the image you will upload.
+Using the menu button in the top left corner, select “Recent,” if the upload does not default to this folder. From here, you should be able to select the image you are looking for.
+
+Depending on the model of Android you use, you may not have a “Recent” folder. If this is the case, in the same file explorer navigate to “Images” (in the above screenshot) and then select the folder titled “Camera”. From here, you can select the image.
+
+Note, you can select multiple images by clicking and holding “select”
+
+Once selected, your files should begin to upload automatically. 
+
+VERIFY that all the images uploaded in fully before you delete images from your phone, especially if you need to make space.

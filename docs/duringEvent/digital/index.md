@@ -25,7 +25,7 @@ For the video station, you should have:
 - [ ] External Hard Drive(s)
 - [ ] Ethernet Adapter(s)
 - [ ] USB Adapter(s) (USB-A to USB-C)
-- [ ] VHS/DVD Deck (+cables), MiniDV Deck, El Gato, or other video digitization device(s)
+<!-- - [ ] VHS/DVD Deck (+cables), MiniDV Deck, El Gato, or other video digitization device(s)-->
 
 Start here if the contributor has a video to contribute, even if they have other objects. 
 Once the contributor finishes the narration interview, the guide should check to see whether the video digitization has been completed.
@@ -60,8 +60,10 @@ This will set your camera to save photos as JPEGs rather than HEICs.
 
 ### Taking Artifact Photos 
 
-The guide should hand over **their sticker** along with the corresponding object (held by the contributor) to the photographer. The guide will prompt the contributor to hand the photographer the object which corresponds to the ID listed on the sticker. The guide should wait with the contributor while the object is being photographed. 
+The guide will hand over **their sticker** along with the corresponding object (held by the contributor) to the photographer. The guide will prompt the contributor to hand the photographer the object which corresponds to the ID listed on the sticker. The guide should wait with the contributor while the object is being photographed. 
+
 The photographer will: 
+
 1. Verify that the short-hand description on the Object ID sticker matches the object. 
 1. Take an initial photo with both the object and the Object ID sticker in frame. This will serve as a reference photo. 
 1. Place the Object ID sticker on the lightbox frame or near the text/image stand so that the sticker is not visible in subsequent photos. 
@@ -87,16 +89,16 @@ The photographer/guide should:
 - [ ] Station Checklist
 - [ ] Oral History Questions List 
 
-The guide should ask the contributor if they would like a portrait of themselves or a born-digital photo of a location, object, or other content relevant to their oral history. 
+The guide should ask the contributor if they would like a portrait of themselves or a born-digital photo of a location, object, or other representative image relevant to their oral history. 
 
 #### Select Born-Digital Image/Photo for Oral History 
 
 The guide should help the contributor to: 
 
 1. Select a born-digital photo from the contributor's photo library *OR* select a photo of a location, object, or other content relevant to their oral history. If the contributor selects this: 
-	- use the built-in brownser on the contributor's phone to search for an image **which is not copyrighted**.
-	- inform the contributor that you may have to change the photo if it is under copyright, but that they photo they choose will help you stay true to their original intent.
-	- press-and-hold the photo in question, and save it to the contributor's photo library. 
+	- Use the built-in brownser on the contributor's phone to search for an image **which is not copyrighted**.
+	- Inform the contributor that you may have to change the photo if it is under copyright, but that they photo they choose will help you stay true to their original intent.
+	- Press-and-hold the photo in question, and save it to the contributor's photo library. 
 	
 1. Help the contributor navigate to the [Born-Digital Photo Submission Form][BDFormLink].
 	- assist the contributor in entering their Object ID into the Object ID field 
