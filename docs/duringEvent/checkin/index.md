@@ -32,7 +32,7 @@ Be sure to welcome and introduce yourself and the event to contributors. Some ma
 
 **If they have a contribution:**
 
-Ask to see their object to make sure you can capture it. Talk through options. You may not be able to digitize a VHS tape, but you can take a born-digital video. You may not be able to digitize an entire scrapbook so you will need to work with the community members on identifying aspects of the scrapbook that are most important to the story they plan to share.
+Ask to see their object to make sure you can capture it. Talk through options. <!--You may not be able to digitize a VHS tape, but you can take a born-digital video. -->You may not be able to digitize an entire scrapbook so you will need to work with the community members on identifying aspects of the scrapbook that are most important to the story they plan to share.
    
 * "The process should take about 15 minutes from start-to-finish for each item (assuming a focused oral history interview). After you complete check-in, you will go to the digitization station and then to the oral history interview station. The last stop is check-out."
    
@@ -76,7 +76,7 @@ The sign-in spreadsheet should have three tabs:
 - Verified Sign-In
 - Assign ID
 
-Sign-in will mostly likely happen on-the-spot on event day. You may also encourage people to sign-in ahead of event day. In this case, you may have a mixture of existing entries and new ones happening real time. Whether you have existing entries or you are working with a newly submitted entry, **the following steps need to be taken to initially prepare the spreadsheet for tracking community contributions.** 
+Sign-in will mostly likely happen on-the-spot on event day. You may also encourage people to sign-in ahead of event day. In this case, you may have a mixture of existing entries and new ones happening in real time. Whether you have existing entries or you are working with a newly submitted entry, **the following steps need to be taken to initially prepare the spreadsheet for tracking community contributions.** 
 
 - Rename tab from “Form Responses 1” to “Sign-In”
 ![How to rename a Google sheets tab]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_renamesignin.png)
@@ -133,7 +133,7 @@ The purpose of this step is to make sure that the contributor does not need to m
 1. Find the record in the spreadsheet-view of the sign-in form.
 	- Go to **Assign ID** tab
 	- Copy and paste the contributor’s row or rows (all the contents of that row) from the “Verified Sign-In” tab to the “Assign ID” tab. 
-	- Generate the ID by drag the right corner of cell A2 down the column or manually enter the ID. Make sure to double check the ID and the information you are copying and pasting! 
+	- Generate the ID by dragging the right corner of cell A2 down the column or manually enter the ID. Make sure to double check the ID and the information you are copying and pasting! 
 
 ![]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_assignid_example.png)
 
@@ -161,4 +161,4 @@ The purpose of this step is to make sure that the contributor does not need to m
 
 If you plan to use an audio recording device instead of a volunteer’s phone to record the interview/oral history:
 
-1. Select an audio recorder for the contributor and had the recording device to the guide to carry.
+1. Select an audio recorder for the contributor and hand the recording device to the guide to carry.

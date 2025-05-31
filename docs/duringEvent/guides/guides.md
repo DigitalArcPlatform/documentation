@@ -9,9 +9,9 @@ parent: During the Event
 
 Guides will walk contributors through the process, from check-in through checkout. They will need to be familiar with the whole process and will have prompts for the different stations. For this role, the volunteer should be comfortable with interpersonal communication.
 
-Note that the order in which guides will visit the various stations will depend on:
+<!--Note that the order in which guides will visit the various stations will depend on:
 - Whether the contributor has a video/non-video object to digitize
-- If a video, the estimated length of the video
+- If a video, the estimated length of the video-->
 
 Guide will also be instrumental in helping contributors handle **born-digital files** (i.e. born-digital photos as objects, portraits, images from the internet as part of an oral history without accompanying artifact). For more on the digitization process, see [Digitization and Photography]({{site.url}}{{site.baseurl}}/docs/duringEvent/digital.html).
 
@@ -24,10 +24,10 @@ Below is a brief outline of the role of the Guide in the event process:
 1. Introduce yourself to the contributor. 
 1. Confirm whether the contributor brought an object to archive, or whether they came without an object would still like to participate.
 
-### Select Digitization Station Order 
+<!--### Select Digitization Station Order 
 
 1. If the contributor has a video whose length exceeds your intended duration, they should be guided to the Video Digitization Station first. 
-1. If the contributor does not have a video, or it is within your intended duration, visit the photography station first. 
+1. If the contributor does not have a video, or it is within your intended duration, visit the photography station first. -->
 
 ### Born-Digital or Oral-History-Only Considerations after the Check-In Station but Before the Photography Station
 
