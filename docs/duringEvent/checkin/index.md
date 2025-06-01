@@ -47,7 +47,7 @@ Ask to see their object to make sure you can capture it. Talk through options. <
 
 ## Sign-In
 
-Every object contributed **will need their own entry in the sign-in form.** Contributors may be asked to submit the sign-in form more than once. Questions may arise about consent. here's a quick explanation of each: 
+Every object contributed **will need its own entry in the sign-in form.** Contributors may be asked to submit the sign-in form more than once. Questions may arise about consent. here's a quick explanation of each: 
 
 ### Consent Types
 
@@ -56,7 +56,7 @@ Every object contributed **will need their own entry in the sign-in form.** Cont
 - **Anonymous, full participation:** Post their contributions, digitized images, and oral history interview **TRANSCRIPTION**, not the actual audio recording, to the community archiving website, *not including personal information.*
 - **Private, full participation:** We will **NOT** publish anything contribution to the website, but will keep their contact information for sending digital copies of the items contributed. 
 	
-Before a contributor moves to the form station, *tell each contributor that you will give them a flyer with contact information at the end.*
+Before a contributor moves to the next station, *tell each contributor that you will give them a flyer with contact information at the end.*
 
 The guide’s role here is to listen to the conversation between the contributor and the check-in volunteers, noting questions that may arise that could benefit from more clarification as they go through the process. The guide can also help the contributor fill out the form on the iPads.
 	

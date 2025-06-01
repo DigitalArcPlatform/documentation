@@ -89,9 +89,9 @@ These instructions use the iPhone’s default Voice Memo app.
 
 ## Uploading the Audio Recordings
 
-As time permits between oral historiesphoto shoots and/or at the end of the event, make sure to upload all the audio recordings you took to the “Interviews” Google folder (login gmail or gmail-affiliated credentials). Follow -the setup instructions to get Google Drive installed on your phone and ready to handle the transfer of the audio files.
+As time permits between oral histories, and/or at the end of the event, make sure to upload all the audio recordings you took to the “Interviews” Google folder (login gmail or gmail-affiliated credentials). Follow the setup instructions to get Google Drive installed on your phone and ready to handle the transfer of the audio files: http://tiny.cc/digitalarc-upload
 
-*Make sure to track storage on your phones.* Not all of us will have unlimited space on our phones so you may need to periodically stop in-between oral history interviews to upload audio files, even if you have a line of people waiting to be interviewed. You can explain to the contributor and the guide that you need a moment to upload. VERIFY that all the audio files uploaded in full before you delete recordingsimages from your phone, especially if you need to make space.
+*Make sure to track storage on your phones.* Not all of us will have unlimited space on our phones so you may need to periodically stop in-between oral history interviews to upload audio files, even if you have a line of people waiting to be interviewed. You can explain to the contributor and the guide that you need a moment to upload. VERIFY that all the audio files uploaded fully before you delete recordings from your phone, especially if you need to make space.
 
 *Make sure to track the battery usage on your phone.*
 

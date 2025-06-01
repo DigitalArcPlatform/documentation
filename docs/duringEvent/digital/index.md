@@ -67,7 +67,7 @@ The photographer will:
 1. Verify that the short-hand description on the Object ID sticker matches the object. 
 1. Take an initial photo with both the object and the Object ID sticker in frame. This will serve as a reference photo. 
 1. Place the Object ID sticker on the lightbox frame or near the text/image stand so that the sticker is not visible in subsequent photos. 
-1. Arrange and photograph the object from as many points as necessary without any interveneing photographs. 
+1. Arrange and photograph the object from as many points as necessary, without taking any non-related photos in between photos. 
 1. Remove the object and place it on an empty spot on the table with its corresponding sticker in front of it.
 1. Repeat Steps 1-4 for each object.
 1. Once all the photos have been taken, the guide will help the contributor to collect their objects and accompany them to the next station (if applicable). 
@@ -108,16 +108,14 @@ The guide should help the contributor to:
 
 #### Portrait Photos 
 
-If the contributor opts for a portrait of themselves, the photographer should take an initial photo of them with the Object ID sticker in frame to serve as a reference photo. 
-
-After taking the reference photo:
-
+If the contributor opts for a portrait of themselves, the photographer should
+1. Take an initial photo of the contributor with the Object ID sticker in frame. This serves as a reference photo. 
 1. Pass the Object ID sticker to the guide 
 1. Switch the camera to "portrait" mode
 1. Ask the subject to stand in front of a reasonably neutral or minimally cluttered background with shoulders slightly angled and head facing the camera. 
-1. Take 3-5 photos 
-1. Ask the contributor to select one photo, and delete the rest 
-1. Once finished, the guide should accompany the contributor to the [Oral History Station]({{site.url}}{{site.baseurl}}/docs/duringEvent/oralHistory/oralHistory.html)
+1. Take 3-5 photos
+1. Ask the contributor to select one photo. Delete the rest 
+1. Once the photography is complete, the guide should accompany the contributor to the [Oral History Station]({{site.url}}{{site.baseurl}}/docs/duringEvent/oralHistory/oralHistory.html)
 
 ### Uploading the Photos 
 
