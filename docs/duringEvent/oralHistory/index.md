@@ -97,27 +97,36 @@ As time permits between oral histories, and/or at the end of the event, make sur
 
 ### Uploading Android Audio Recordings to Google Drive
 
+1. Locate the intended Google Drive folder, preferably through the Google Drive app
+1. Press the "+" button at the bootom right of the screen.
+1. Select "upload."
+1. Using the filters at the top of the Android file browser, choose "Audio."
+	1. Alternatively, you can use the menu in the top left to select "Audio."
+1. You should now be able to see your audio recording.
+1. Select the recording and it will begin to upload automatically.
+
+
 ### Uploading iPhone Audio Recordings to Google Drive
 
 Uploading iPhone recordings to the proper Google Drivedrive destination is a multi-step process. 
 
 1. Locate Google Drive
-	a. Open Voice Memos app.
-	b. Tap on the recording you wish to upload (make sure the recording is named using the Object ID). 
-	c. Tap the three dots in the upper right corner of your recording. 
-	d. Select “Share.” 
-	e. Scroll until you see the icon for Google Drive. If it doesn’t appear, tap “More” and then scroll through all of your apps until you locate it.
+	1. Open Voice Memos app.
+	1. Tap on the recording you wish to upload (make sure the recording is named using the Object ID). 
+	1. Tap the three dots in the upper right corner of your recording. 
+	1. Select “Share.” 
+	1. Scroll until you see the icon for Google Drive. If it doesn’t appear, tap “More” and then scroll through all of your apps until you locate it.
 2. Create a Folder in Your Personal Google Drive
-	a. Select “Folder” at the bottom of your screen. Select “My Drive” and create a new folder by selecting the folder icon with a plus sign (+) on the top right. 
-	b. Label the folder with today’s date so you can temporarily save all audio recordings in this folder on your personal drive. 
-	c. Click “Create” to save the folder. 
-	d. When uploading your first recording, after you create the folder, you can select “Save here.”
-	e. Select “UPLOAD” and the file will be added to your personal Google Drive account.
+	1. Select “Folder” at the bottom of your screen. Select “My Drive” and create a new folder by selecting the folder icon with a plus sign (+) on the top right. 
+	1. Label the folder with today’s date so you can temporarily save all audio recordings in this folder on your personal drive. 
+	1. Click “Create” to save the folder. 
+	1. When uploading your first recording, after you create the folder, you can select “Save here.”
+	1. Select “UPLOAD” and the file will be added to your personal Google Drive account.
 3. Move Audio Recordings to the Project’s Google Drive
-	a. Now, we need to move the file from your personal Google Drive account to the shared folder for this workshop. Exit the Voice Memos app and return to the Google Drive app. 
-	b. Locate your audio recording in your personal Google Drive “My Drive” tab. You may need to search for your folder by using part of the name: “2025-05.”
-	c. Tap the three dots to the right of the file. Scroll down and tap the “Move” button. 
-	d. Tap the “Shared with me” button. 
-	e. Search or browse for the “02_Community Partners Stories” folder. Select the folder. 
-	f. Select “Interviews.”
-	g. Tap “Move here” on the bottom right of your screen.
+	1. Now, we need to move the file from your personal Google Drive account to the shared folder for this workshop. Exit the Voice Memos app and return to the Google Drive app. 
+	1. Locate your audio recording in your personal Google Drive “My Drive” tab. You may need to search for your folder by using part of the name: “2025-05.”
+	1. Tap the three dots to the right of the file. Scroll down and tap the “Move” button. 
+	1. Tap the “Shared with me” button. 
+	1. Search or browse for the “02_Community Partners Stories” folder. Select the folder. 
+	1. Select “Interviews.”
+	1. Tap “Move here” on the bottom right of your screen.
