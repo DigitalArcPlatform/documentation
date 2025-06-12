@@ -31,9 +31,10 @@ The 5 steps below will guide you through making a copy of our example site and c
 <!--**Make a copy of our template community-archive site by following this video: [https://youtu.be/aDQZ1lcpMn0](https://youtu.be/aDQZ1lcpMn0){:target="_blank"}**-->
 
 1. Visit [`https://github.com/DigitalArcPlatform/template`](https://github.com/DigitalArcPlatform/template)
-2. Press the "Use this template" button
-3. Choose "Create a new repository"
-4. Name your repository `yourusername.github.io` (where *yourusername* is the username you chose when you created your Github account)
+1. Press the "Use this template" button
+1. Choose "Create a new repository"
+1. Name your repository `yourusername.github.io` (where *yourusername* is the username you chose when you created your Github account)
+1. Set the new repository to be Private
 
 ## Step 3
 {: .subheadline }
@@ -46,7 +47,7 @@ The `_config.yml` file contains settings for exhibit info, font, and color choic
 	- What you want to call the site
 	- Who the main contact person will be
 	- How do you want your site to look?
-		- [Choose your fonts and colors from a preset list]({{ site.baseurl }}/docs/publishSite/basics/typefaceColor/typefaceColor.html)
+		- [Choose your fonts and colors from a preset list]({{ site.baseurl }}/docs/publishSite/basics/typefaceColor/)
 1. Put these pieces of community info into our "Configuration File Generator" at [https://digitalarcplatform.kalanicraig.com/MakeConfigFile/](https://digitalarcplatform.kalanicraig.com/MakeConfigFile/)
 1. Open the file that you just downloaded, select the entire contents of the file and use the "copy" command to put that information into your clipboard.
 1. Find the "Code" navigation tab in your new Github repository.
