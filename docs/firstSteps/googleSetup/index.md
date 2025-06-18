@@ -32,7 +32,7 @@ The average file size for a photo is 2 MB per image. Audio and video files will 
 #### Providing Access and Creating Work Spaces in Google Drive
 While sharing the login with more than one project leader is a good idea, we recommend that project leaders are assigned the highest level of restricted access (Editor) using their personal gmail or other email linked to a Google account. 
 
-![Screen shot of digitalarcplatform Google Drive illustrating how to share files and assign permissions](/assets/images/digitalarc_screenshot_google_drive_permissions.png)
+![Screen shot of digitalarcplatform Google Drive illustrating how to share files and assign permissions]({{site.url}}{{site.baseurl}}/assets/images/digitalarc_screenshot_google_drive_permissions.png)
 
 For a given project, you may create a folder for that project. Within that folder you may have additional folders allowing for different levels of participation. For example:
 
