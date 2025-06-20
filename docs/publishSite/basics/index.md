@@ -6,16 +6,31 @@ parent: Publishing Your Site
 has_children: true
 ---
 
-# The Basics
+# What will we do in this section?
 
 Creating a community-archive web site has lots of technical steps. This quick-start guide for web site creation is an overview that covers many of the eindividual steps in this section
 
 ## Before you get started
 {: .subheadline }
 
-Check out our example site at [https://digitalarcplatform.github.io/demo](https://digitalarcplatform.github.io/demo), which has example items of several different types--photos, document scans, videos--so you don't have to start from scratch.
+Get to know the files in our example site, which has example items of several different types--photos, document scans, videos--so you don't have to start from scratch.
 
-The 5 steps below will guide you through making a copy of our example site and customizing it for your community.
+- Sample site as site visitors see it: [https://digitalarcplatform.github.io/demo](https://digitalarcplatform.github.io/demo)
+- The files that make the samplesite run: [https://github.com/DigitalArcPlatform/demo](https://github.com/DigitalArcPlatform/demo)
+
+## Read an overview of the whole publishing process
+
+This page provides a very broad sense of how the individual step-by-step intructions in the "Publishing Your Site" section fit into the larger process.
+
+*If you're comfortable with GitHub already,* you can follow the 5 steps below to make a copy of our example site and customize a few things for your community.
+
+*If you're not comfortable with GitHub*, the rest of this "Publishing Your Site" section provides an overview of how your site will work, plus step-by-step details for each of the 5 steps here. Focus on Steps 1 and 2 in your first read through so that you can set up your Github account and use it to work with files.
+
+## Get to know your _config.yml file
+
+One file in your newly copied web sit controls a lot of the information on the site: `_config.yml`. You can generate one at [https://digitalarcplatform.kalanicraig.com/MakeConfigFile/](https://digitalarcplatform.kalanicraig.com/MakeConfigFile/)
+
+# A 5-step web-site creation overview
 
 ## Step 1
 {: .subheadline }

@@ -14,7 +14,7 @@ The main page visitors will encounter has several things that can be customized.
 
 ## Main Site Photo
 
-The photo that appears on the right side is the first thing you can change easily. To replace the placeholder photo with one that's specific to your community:
+The photo that appears on the right side is the first thing you can change easily. To replace the provided site-logo photo with one that's specific to your community:
 
 1. Choose a photo that represents your archive
 1. Rename that photo "site_logo"
@@ -25,6 +25,18 @@ The photo that appears on the right side is the first thing you can change easil
 1. Click on the 'assets/img' folder again.
 1. Use the "Add file" option to upload *your* site_logo.jpg file.
 ![image]({{ site.baseurl }}{{ site.imageurl }}/publishSite/textImage/github_screenshot_uploadfile.png)
+
+## Placeholder Photo for Interview-Only exhibit sections
+
+When a community contributor has an oral history or a story but no photo of an object, there's a photo placeholder. To replace the object-placeholder photo with one that's specific to your community:
+
+1. Choose a photo that represents your archive
+1. Rename that photo "placeholder"
+1. Find the 'assets/img' folder in your Github repository
+1. You'll see a "placeholder.png" file. Click on it to open it.
+1. Use the three-dot menu in the top right hand corner to delete the placeholder.png file
+1. Click on the 'assets/img' folder again.
+1. Use the "Add file" option to upload *your* placeholder image file.
 
 ## Main Site Description
 
