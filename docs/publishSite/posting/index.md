@@ -12,7 +12,7 @@ The item IDs you chose during the event are the single most important piece of p
 
 The item IDs assigned during the event are used to name two sets of files, each of which belongs in a specific folder:
 1. The first is a single text-only file that contains text-based information about each piece in your community archive. See ***Item Text Files*** below. These should be stored in the `_items` folder. If the item ID was `2025-05-31-001-photo`, this text file will be called `2025-05-31-001-photo.md` .
-1. The second are the photo or photos that were taken of the object. See ***Photo Files*** below. It's likely that you've named the photos already (see [Naming Files after the Event]({{ site.baseurl }}docs/postEvent/naming/)
+1. The second are the photo or photos that were taken of the object. See ***Photo Files*** below. It's likely that you've named the photos already (see [Naming Files after the Event]({{ site.baseurl }}/docs/postEvent/naming/)
 
 ## Create an Item Text File
 
@@ -21,7 +21,7 @@ The meta-data that you prepped using contributor sign of information in the post
 1. Use a word processor (Microsoft Word, Google Docs, Mac Pages, etc.) to edit the information in your item text file first. (See "Anatomy of an Item Text File" below for an in-depth guide)
 1. Open the `_items` folder in your Github repo.
 1. Press the "Add File" button and choose "Create New File"
-![How to Create New File in Github]({{ site.baseurl }}{{ site.imageurl }}/publishSite/basics/digitalarc_screenshot_renamesignin.png)
+![How to Create New File in Github]({{ site.baseurl }}{{ site.imageurl }}/publishSite/basics/github_screenshot_addnewfile.png)
 1. Find the "Name your file" field and enter the file name. (In our example, `2025-05-31-001-photo.md`)
 ![How to edit file names and contents in Github]({{ site.baseurl }}{{ site.imageurl }}/publishSite/basics/github_screenshot_editfilenamecontents.png)
 1. Find the "enter file contents here" field. Copy and paste the information from your word processor into that field 
