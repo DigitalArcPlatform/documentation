@@ -25,3 +25,12 @@ Should you wish to use a different naming system, it is important to keep the fo
 -	Are the filenames easily identifiable?
 -	Are they easily searchable?
 -	Are they easy for volunteers of different types to make sense of?
+
+## How to name photos:
+
+You may have one photo of an object or many photos. Naming the files correctly will help when you're ready to build your web site.
+
+For an item ID of `2025-05-31-001-photo`:
+
+	1. If there's only one photo, the photo name should be `2025-05-31-001-photo.jpg` or  `2025-05-31-001-photo.png`.
+	1. If there are multiple photos, use the base item ID and then use an underscore and then add numbers to the end of each photo, which allows you to control which order the photos is playing. For example, the first photo in the sequence would be named `2025-05-31-001-photo_01.png` and the second photo on the sequence would be named `2025-05-31-001-photo_02.png`. The zero before the number is one and two in these examples helps the computer sort them in order. The photo with the lowest number will be used as the featured photo on the page with the whole list of items.
