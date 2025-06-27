@@ -24,22 +24,24 @@ Additionally, if using a cell-phone camera, **make sure to track storage capacit
 ![image]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/digital/Photographs_iPhone_Folder.png)
 	2.	Select “Photos and Videos”
 	3.	Select “Recents”<br>
-	4.	Do a multiple select (click on photo, blue checkmark will appear)<br>
+	4.	Select one or more files (click on photo, blue checkmark will appear)<br>
 ![image]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/digital/Photographs_iPhone_MultiSelect.jpg)
 	5.	Select “Upload”<br>
 ![image]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/digital/Photographs_iPhone_Upload.png)
 	6.	Your images should now be visible in the shared “Photographs” folder.
-4.	VERIFY that all the images uploaded fully before you delete images from your phone, especially if you need to make space.
+
+**VERIFY that all the images uploaded fully before you delete images from your phone.**
 
 ## Uploading photos to Google Drive on an Android Phone
 
-1. Open 02_Community Partners Stories folder and click the Photographs folder, or search for the folder in Google Drive.
-2. In the “Photographs” folder, click the + (bottom right) to add images to this folder.
+1. Using the Google Drive app, navigate to the folder where you want to save the photo(s)
+2. Once in this folder, click the + in the bottom right to add images to this folder.
 ![image]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/digital/Photographs_Android_Folder.jpg)
 3. After you have clicked the “+”, select “Upload”<br>
 ![image]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/digital/Photographs_Android_Upload.jpg)
 4. From here, there are a few ways you can select the image you will upload.
 	1. Using the menu button in the top left corner, select “Recent,” if the upload does not default to this folder. From here, you should be able to select the image you are looking for.
+	
 	![image]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/digital/Photographs_Android_Recent.jpg)
 	2. Depending on the model of Android you use, you may not have a “Recent” folder. If this is the case, in the same file explorer navigate to “Images” (in the above screenshot) and then select the folder titled “Camera”. From here, you can select the image.
 ![image]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/digital/Photographs_Android_SelectImage.png)
@@ -47,4 +49,4 @@ Additionally, if using a cell-phone camera, **make sure to track storage capacit
 
 5. Once selected, your files should begin to upload automatically. 
 
-VERIFY that all the images uploaded fully before you delete images from your phone, especially if you need to make space.
+**VERIFY that all the images uploaded fully before you delete images from your phone.**
