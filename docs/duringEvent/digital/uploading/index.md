@@ -1,5 +1,5 @@
 ---
-title: Uploading Photos During The Event
+title: Uploading Your Files During the Event
 layout: default
 nav_order: 1
 parent: Digitization and Photography
@@ -50,3 +50,53 @@ Additionally, if using a cell-phone camera, **make sure to track storage capacit
 5. Once selected, your files should begin to upload automatically. 
 
 **VERIFY that all the images uploaded fully before you delete images from your phone.**
+
+# Uploading Audio During the Event 
+
+As time permits between oral histories and/or at the end of the event, ** make sure to upload all the audio recordings you took** to the folder that you have designated for these interviews. 
+
+**Make sure to track storage space on your phone.** Not everyone will have unlimited physical or cloud storage on their devices, so you may need to periodically stop in-between oral history interviews to upload audio files, even if you have people waiting to be interviewed. You can explain to the contributor and guide that you need a moment to upload the file(s). As always, **VERIFY that all the audio files uploaded in full** before you delete recordings from your phone, especially when freeing up space. 
+
+## Uploading Android Audio Recordings to Google Drive
+
+1. Using the Google Drive app, navigate to the folder where you want to save the file(s).
+
+1. Press the "+" icon in the bottom right of the screen.
+
+1. Select "Upload"
+
+1. Using the filters at the top of the Android file browser, select "Audio."
+
+	1. Alternatively, you can use the meny in the top left to select "Audio"
+	
+1. You should now be able to see your audio recording(s). Make sure that the files are named with the proper Object ID. 
+
+1. Select the recording(s) and it will begin to upload automatically. 
+
+## Uploading iPhone Audio Recordings to Google Drive 
+
+*Note: The process for uploading iPhone recordings requires several additional steps.*
+
+1. Locate Google Drive
+	1. Open the Voice Memos app.
+	1. Tap on the recording you wish to upload. Make sure the recording is named with the appropriate Object ID.
+	1. Tap the three dots in the upper right corner of your recording. 
+	1. Select "Share"
+	1. Scroll until you see the icon for Google Drive. If it does not appear, tap "More" and scroll through the listed apps until you locate it. 
+1. Create a Folder in your *personal* Google Drive
+	1. Select "Folder" at the bottom of your screen. Select "My Drive" and create a new folder by selecting the folder icon with a plus sign (+) on the top right. 
+		1. Label the folder with the current date so you can temporarily save all audio recordings in this folder. 
+		
+		1. Click "Create" to finalize the folder
+		1. When uploading your first reording, after you create the folder, you can select "Save here." 
+		
+		1. Select "Upload" and the file will be uploaded to your *personal* Google Drive account. 
+		
+1. Move Audio Recordings to the *Project* Google Drive
+	1. Open the Google Drive app.
+	1. Locate the audio recordings in your *personal* Google Drive using the "My Drive" tab.
+		1. You can also search for your folder by name using the search bar. 
+	1. Tap the three dots to the right of the file, then scroll down and tap "Move."
+	1. Tap the "Shared with me" button.
+	1. Search or browse for the *project's* folder that has been designated for audio recordings.
+	1. Tap "Move here" on the bottom right of your screen.
