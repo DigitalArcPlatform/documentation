@@ -60,17 +60,17 @@ As time permits between oral histories and/or at the end of the event, ** make s
 ## Uploading Android Audio Recordings to Google Drive
 
 1. Using the Google Drive app, navigate to the folder where you want to save the file(s).
-
+![]({{site.baseurl}}{{site.imageurl}}/duringEvent/digital/Photographs_Android_AudioFolder.jpg)
 1. Press the "+" icon in the bottom right of the screen.
-
+![]({{site.baseurl}}{{site.imageurl}}/duringEvent/digital/Photographs_Android_add.jpg)
 1. Select "Upload"
-
+![]({{site.baseurl}}{{site.imageurl}}/duringEvent/digital/Photographs_Android_UploadAudio.jpg)
 1. Using the filters at the top of the Android file browser, select "Audio."
-
+![]({{site.baseurl}}{{site.imageurl}}/duringEvent/digital/Photographs_Android_Recent2.jpg)
 	1. Alternatively, you can use the meny in the top left to select "Audio"
-	
+	![]({{site.baseurl}}{{site.imageurl}}/duringEvent/digital/Photographs_Android_Recent.jpg)
 1. You should now be able to see your audio recording(s). Make sure that the files are named with the proper Object ID. 
-
+![]({{site.baseurl}}{{site.imageurl}}/duringEvent/digital/Photographs_Android_AudioFile.jpg)
 1. Select the recording(s) and it will begin to upload automatically. 
 
 ## Uploading iPhone Audio Recordings to Google Drive 
@@ -82,16 +82,18 @@ As time permits between oral histories and/or at the end of the event, ** make s
 	1. Tap on the recording you wish to upload. Make sure the recording is named with the appropriate Object ID.
 	1. Tap the three dots in the upper right corner of your recording. 
 	1. Select "Share"
+![]({{site.baseurl}}{{site.imageurl}}/duringEvent/digital/Photographs_iPhone_Share.png)
 	1. Scroll until you see the icon for Google Drive. If it does not appear, tap "More" and scroll through the listed apps until you locate it. 
+![]({{site.baseurl}}{{site.imageurl}}/duringEvent/digital/Photographs_iPhone_More.png)
 1. Create a Folder in your *personal* Google Drive
 	1. Select "Folder" at the bottom of your screen. Select "My Drive" and create a new folder by selecting the folder icon with a plus sign (+) on the top right. 
 		1. Label the folder with the current date so you can temporarily save all audio recordings in this folder. 
-		
+![]({{site.baseurl}}{{site.imageurl}}/duringEvent/digital/Photographs_iPhone_createFolder.jpg)
 		1. Click "Create" to finalize the folder
 		1. When uploading your first reording, after you create the folder, you can select "Save here." 
-		
+![]({{site.baseurl}}{{site.imageurl}}/duringEvent/digital/Photographs_iPhone_saveHere.jpg)
 		1. Select "Upload" and the file will be uploaded to your *personal* Google Drive account. 
-		
+![]({{site.baseurl}}{{site.imageurl}}/duringEvent/digital/Photographs_iPhone_uploadAudio.jpg)
 1. Move Audio Recordings to the *Project* Google Drive
 	1. Open the Google Drive app.
 	1. Locate the audio recordings in your *personal* Google Drive using the "My Drive" tab.
