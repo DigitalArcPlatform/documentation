@@ -49,7 +49,7 @@ One file in your newly copied web sit controls a lot of the information on the s
 1. Press the "Use this template" button
 1. Choose "Create a new repository"
 1. Name your repository `yourusername.github.io` (where *yourusername* is the username you chose when you created your Github account)
-1. Set the new repository to be Private
+1. Set the new repository to be Public. *This doesn't mean everyone who sees your files can edit them.* It means that people can see both the pretty version of your website and the files that Github uses to build the pretty web site, but *only you or the people you give your log-in to can make changes.*
 
 ## Step 3
 {: .subheadline }
