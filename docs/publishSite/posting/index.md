@@ -39,7 +39,6 @@ format: document
 title: "ACLS Digital Justice Development Grant"
 contributor: "DigitalArc Platform Team"
 group: "IUB-OC"
-creator: "DigitalArc Platform Team"
 externalurl: https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024
 embedurl: 
 creationdate: 2024-05-22

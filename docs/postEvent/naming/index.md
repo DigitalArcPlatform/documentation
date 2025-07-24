@@ -33,4 +33,11 @@ You may have one photo of an object or many photos. Naming the files correctly w
 For an item ID of `2025-05-31-001-photo`:
 
 	1. If there's only one photo, the photo name should be `2025-05-31-001-photo.jpg` or  `2025-05-31-001-photo.png`.
-	1. If there are multiple photos, use the base item ID and then use an underscore and then add numbers to the end of each photo, which allows you to control which order the photos is playing. For example, the first photo in the sequence would be named `2025-05-31-001-photo_01.png` and the second photo on the sequence would be named `2025-05-31-001-photo_02.png`. The zero before the number is one and two in these examples helps the computer sort them in order. The photo with the lowest number will be used as the featured photo on the page with the whole list of items.
+	1. If there are multiple photos
+		1. use the base item ID as the first part of the photo name.
+		1. Then use an underscore.
+		1. Then add numbers to the end of each photo
+
+This allows you to control the order in which the photos displays. For example, the first photo in the sequence would be named `2025-05-31-001-photo_01.png` and the second photo on the sequence would be named `2025-05-31-001-photo_02.png`.
+
+The zero before the numbers "1" and "2" in these examples helps the computer sort them in order. The photo with the lowest number will be used as the featured photo on the page with the whole list of items.
