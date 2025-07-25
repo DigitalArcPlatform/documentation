@@ -64,12 +64,18 @@ The `_config.yml` file contains settings for exhibit info, font, and color choic
 	- How do you want your site to look?
 		- [Choose your fonts and colors from a preset list]({{ site.baseurl }}/docs/publishSite/basics/typefaceColor/)
 1. Put these pieces of community info into our "Configuration File Generator" at [https://digitalarcplatform.kalanicraig.com/MakeConfigFile/](https://digitalarcplatform.kalanicraig.com/MakeConfigFile/)
-1. Open the file that you just downloaded, select the entire contents of the file and use the "copy" command to put that information into your clipboard.
+
+Once you've downloaded your config file:
 1. Find the "Code" navigation tab in your new Github repository.
 1. Find the `_config.yml` from the list of files in your repository. All of the main settings for your site are in this file.
-1. Press the "pencil" button or "edit" button.
-1. Select the entire contents of the _config.yml file and paste over it with the contents of the file you just downloaded.
+1. Look for the pencil icon on the right-hand side of the page. Press it to enter "edit" mode.
+1. Select all of the contents of the _config.yml file in the Github editor.
+1. Open the config file you generated on our web site (You can use Word or Google docs or Notepad).
+1. Select all of the contents of the file and use the "Copy" command (CTRL-C on Windows or ⌘-C on Mac) to put that text into your clipboard.
+1. Switch back to the _config.yml file in Github.
+1. Replace the contents of the config file from our template repository with the contents of the downloaded config file by using the "Paste" command (CTRL-V on Windows or ⌘-V on Mac)
 1. Scroll down and look for the green "commit" button. Press it to save your configuration file.
+1. Press the green "Commit" button on the pop-up screen.
 
 ## Step 4
 {: .subheadline }
