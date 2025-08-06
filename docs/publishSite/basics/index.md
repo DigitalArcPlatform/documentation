@@ -18,6 +18,16 @@ Get to know the files in our example site, which has example items of several di
 - Sample site as site visitors see it: [https://digitalarcplatform.github.io/demo](https://digitalarcplatform.github.io/demo)
 - The files that make the samplesite run: [https://github.com/DigitalArcPlatform/demo](https://github.com/DigitalArcPlatform/demo)
 
+## Choose a username
+
+The username you choose will be used for two things:
+1. You'll use it to log in and make changes to your website
+2. Your audience will use a modified version of your username to get to your website.
+
+Your username should be the name people will search for to find your community. For instance, a community group called "New City Community Archive" would choose the username "newcitycommunityarchive".
+
+Audience members would then use https://newcitycommunityarchive.github.io to find your web site.
+
 ## Read an overview of the whole publishing process
 
 This page provides a very broad sense of how the individual step-by-step intructions in the "Publishing Your Site" section fit into the larger process.
@@ -48,7 +58,7 @@ One file in your newly copied web sit controls a lot of the information on the s
 1. Visit [`https://github.com/DigitalArcPlatform/template`](https://github.com/DigitalArcPlatform/template)
 1. Press the "Use this template" button
 1. Choose "Create a new repository"
-1. Name your repository `yourusername.github.io` (where *yourusername* is the username you chose when you created your Github account)
+1. Name your repository `yourusername.github.io` (where *yourusername* is the username you chose when you created your Github account). In our example, where the username is `newcitycommunityarchive`, you would name your repository `newcitycommunityarchive.github.io`.
 1. Set the new repository to be Public. *This doesn't mean everyone who sees your files can edit them.* It means that people can see both the pretty version of your website and the files that Github uses to build the pretty web site, but *only you or the people you give your log-in to can make changes.*
 
 ## Step 3
