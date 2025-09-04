@@ -1,0 +1,244 @@
+---
+layout: none
+permalink: /print/
+---
+
+{%- comment -%}
+PRINT COMPILER (index.md only, 3 levels by directory)
+
+Crawls:
+  docs/<top>/index.md              (depth 1)
+  docs/<top>/<second>/index.md     (depth 2)
+  docs/<top>/<second>/<third>/index.md (depth 3)
+
+- Uses nav_order to sort at each level.
+- Renders each section’s content ABOVE its children.
+- No duplicates (only index.md at each level is considered).
+- Works with site.pages or a 'docs' collection if you add one later.
+{%- endcomment -%}
+
+{%- assign collection_labels = site.collections | map: "label" -%}
+{%- if collection_labels contains "docs" -%}
+  {%- assign all_pages = site.collections["docs"].docs | where_exp: "d","d.output != false" -%}
+{%- else -%}
+  {%- assign all_pages = site.pages | where_exp: "d","d.output != false" -%}
+{%- endif -%}
+
+{%- comment -%}
+Build a normalized list of ONLY docs/**/index.md pages, capturing:
+  depth  = 1|2|3  (# of folders between 'docs/' and 'index.md')
+  top    = first folder after docs/
+  second = second folder (if depth >= 2)
+  third  = third folder (if depth >= 3)
+  ord    = nav_order (default 999999)
+  url    = page.url
+  ttl    = page.title
+{%- endcomment -%}
+{%- assign normalized = "" -%}
+{%- for d in all_pages -%}
+  {%- if d.path contains 'docs/' and d.path contains '/index.md' -%}
+    {%- assign rel = d.path | remove_first: 'docs/' -%}
+    {%- assign parts = rel | split: '/' -%}
+    {%- assign parts_size = parts | size -%}
+    {%- assign depth = parts_size | minus: 1 -%}
+
+    {%- if depth >= 1 and depth <= 3 -%}
+      {%- assign top    = parts[0] -%}
+      {%- assign second = '' -%}
+      {%- assign third  = '' -%}
+      {%- if depth >= 2 -%}{%- assign second = parts[1] -%}{%- endif -%}
+      {%- if depth >= 3 -%}{%- assign third  = parts[2] -%}{%- endif -%}
+      {%- assign ord = d.nav_order | default: 999999 -%}
+      {%- capture row -%}{{ depth }}|||{{ top }}|||{{ second }}|||{{ third }}|||{{ ord }}|||{{ d.url }}|||{{ d.title | strip }}{%- endcapture -%}
+      {%- assign normalized = normalized | append: row | append: "~~" -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign rows = normalized | split: "~~" | reject: "" -%}
+
+{%- comment -%}
+Helpers to gather sorted groups
+{%- endcomment -%}
+{%- assign top_items = "" -%}
+{%- for r in rows -%}
+  {%- assign c = r | split: "|||" -%}
+  {%- if c[0] == '1' -%}
+    {%- assign top_items = top_items | append: c[4] | append: "@@" | append: r | append: "~~" -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign top_items = top_items | split: "~~" | reject: "" | sort_natural -%}
+
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title | default: "Site" }} (Print Manual)</title>
+  <style>
+    @media print {
+      .page-break { page-break-before: always; }
+      a[href^="#"] { text-decoration: none; }
+    }
+    body { max-width: 900px; margin: 2rem auto; font: 16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+    .muted { color: #666; }
+    .toc h2 { margin-bottom: .25rem; }
+    .toc h3 { margin: 1rem 0 .25rem; }
+    .toc ol, .toc ul { margin: .25rem 0 .5rem 1.25rem; }
+    .toc a { text-decoration: none; }
+    .gp-title { margin-top: 2.5rem; }
+    .parent-title { margin-top: 1.75rem; }
+    .doc-title { margin-top: 1.25rem; }
+    hr.page-break { border: none; border-top: 1px solid #ddd; margin: 2rem 0; }
+  </style>
+</head>
+<body>
+
+<h1>{{ site.title | default: "Site" }} Printed Guide</h1>
+
+<p>This document was produced from online documentation that is regularly updated. For an up-to-date version, please visit <pre>digitalarcplatform.github.io/documentation</pre>
+
+<p class="muted">Generated {{ "now" | date: "%B %e, %Y" }}</p>
+
+<!-- ================== TABLE OF CONTENTS ================== -->
+<div class="toc">
+  <h2>Table of Contents</h2>
+
+  <ol>
+  {%- for ti in top_items -%}
+    {%- assign tb = ti | split: "@@" -%}
+    {%- assign trow = tb[1] -%}
+    {%- assign tcols = trow | split: "|||" -%}
+    {%- assign top_slug = tcols[1] -%}
+    {%- assign top_url  = tcols[5] -%}
+    {%- assign top_ttl  = tcols[6] -%}
+    {%- assign top_anchor = "gp-" | append: top_ttl | slugify -%}
+    <li>
+      <a href="#{{ top_anchor }}">{{ top_ttl }}</a>
+
+      {%- comment -%} Gather second-level index pages under this top folder {%- endcomment -%}
+      {%- assign seconds = "" -%}
+      {%- for r in rows -%}
+        {%- assign c = r | split: "|||" -%}
+        {%- if c[0] == '2' and c[1] == top_slug -%}
+          {%- assign seconds = seconds | append: c[4] | append: "@@" | append: r | append: "~~" -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- assign seconds = seconds | split: "~~" | reject: "" | sort_natural -%}
+
+      {%- if seconds != empty -%}
+      <ul>
+        {%- for si in seconds -%}
+          {%- assign sb = si | split: "@@" -%}
+          {%- assign srow = sb[1] -%}
+          {%- assign sc = srow | split: "|||" -%}
+          {%- assign sec_slug = sc[2] -%}
+          {%- assign sec_ttl  = sc[6] -%}
+          {%- assign sec_anchor = "p-" | append: top_ttl | append: "-" | append: sec_ttl | slugify -%}
+          <li>
+            <a href="#{{ sec_anchor }}">{{ sec_ttl }}</a>
+
+            {%- comment -%} Third-level index pages under this second folder {%- endcomment -%}
+            {%- assign thirds = "" -%}
+            {%- for r3 in rows -%}
+              {%- assign c3 = r3 | split: "|||" -%}
+              {%- if c3[0] == '3' and c3[1] == top_slug and c3[2] == sec_slug -%}
+                {%- assign thirds = thirds | append: c3[4] | append: "@@" | append: r3 | append: "~~" -%}
+              {%- endif -%}
+            {%- endfor -%}
+            {%- assign thirds = thirds | split: "~~" | reject: "" | sort_natural -%}
+
+            {%- if thirds != empty -%}
+            <ul>
+              {%- for th in thirds -%}
+                {%- assign tb3 = th | split: "@@" -%}
+                {%- assign trow3 = tb3[1] -%}
+                {%- assign tc3 = trow3 | split: "|||" -%}
+                {%- assign third_ttl = tc3[6] -%}
+                {%- assign third_anchor = "doc-" | append: tc3[5] | slugify -%}
+                <li><a href="#{{ third_anchor }}">{{ third_ttl }}</a></li>
+              {%- endfor -%}
+            </ul>
+            {%- endif -%}
+
+          </li>
+        {%- endfor -%}
+      </ul>
+      {%- endif -%}
+    </li>
+  {%- endfor -%}
+  </ol>
+</div>
+
+<hr class="page-break">
+
+<!-- ================== COMPILED CONTENT ================== -->
+{%- for ti in top_items -%}
+  {%- assign tb = ti | split: "@@" -%}
+  {%- assign trow = tb[1] -%}
+  {%- assign tcols = trow | split: "|||" -%}
+  {%- assign top_slug = tcols[1] -%}
+  {%- assign top_url  = tcols[5] -%}
+  {%- assign top_ttl  = tcols[6] -%}
+  {%- assign top_anchor = "gp-" | append: top_ttl | slugify -%}
+
+  <p id="{{ top_anchor }}" class="gp-title"><!--{{ top_ttl }}--></p>
+  {%- assign top_page = all_pages | where: "url", top_url | first -%}
+  {%- if top_page -%}
+    {{ top_page.content | markdownify }}
+  {%- endif -%}
+
+  {%- comment -%} Render second-level sections under this top folder {%- endcomment -%}
+  {%- assign seconds = "" -%}
+  {%- for r in rows -%}
+    {%- assign c = r | split: "|||" -%}
+    {%- if c[0] == '2' and c[1] == top_slug -%}
+      {%- assign seconds = seconds | append: c[4] | append: "@@" | append: r | append: "~~" -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign seconds = seconds | split: "~~" | reject: "" | sort_natural -%}
+
+  {%- for si in seconds -%}
+    {%- assign sb = si | split: "@@" -%}
+    {%- assign srow = sb[1] -%}
+    {%- assign sc = srow | split: "|||" -%}
+    {%- assign sec_slug = sc[2] -%}
+    {%- assign sec_url  = sc[5] -%}
+    {%- assign sec_ttl  = sc[6] -%}
+    {%- assign sec_anchor = "p-" | append: top_ttl | append: "-" | append: sec_ttl | slugify -%}
+    <p id="{{ sec_anchor }}" class="parent-title"><!--{{ sec_ttl }}--></p>
+
+    {%- assign sec_page = all_pages | where: "url", sec_url | first -%}
+    {%- if sec_page -%}
+      {{ sec_page.content | markdownify }}
+    {%- endif -%}
+
+    {%- comment -%} Third-level sections under this second folder {%- endcomment -%}
+    {%- assign thirds = "" -%}
+    {%- for r3 in rows -%}
+      {%- assign c3 = r3 | split: "|||" -%}
+      {%- if c3[0] == '3' and c3[1] == top_slug and c3[2] == sec_slug -%}
+        {%- assign thirds = thirds | append: c3[4] | append: "@@" | append: r3 | append: "~~" -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- assign thirds = thirds | split: "~~" | reject: "" | sort_natural -%}
+
+    {%- for th in thirds -%}
+      {%- assign tb3 = th | split: "@@" -%}
+      {%- assign trow3 = tb3[1] -%}
+      {%- assign tc3 = trow3 | split: "|||" -%}
+      {%- assign third_url  = tc3[5] -%}
+      {%- assign third_ttl  = tc3[6] -%}
+      {%- assign third_anchor = "doc-" | append: third_url | slugify -%}
+      <h4 id="{{ third_anchor }}" class="doc-title">{{ third_ttl }}</h4>
+      {%- assign third_page = all_pages | where: "url", third_url | first -%}
+      {%- if third_page -%}
+        {{ third_page.content | markdownify }}
+      {%- endif -%}
+    {%- endfor -%}
+
+  {%- endfor -%}
+
+  <hr class="page-break">
+{%- endfor -%}
+
+</body>
+</html>
