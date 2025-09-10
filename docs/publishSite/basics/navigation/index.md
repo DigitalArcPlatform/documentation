@@ -8,6 +8,10 @@ grand_parent: Publishing Your Site
 
 # Navigation Options
 
+There are two main pages in the DigitalArc template site that are visible to viewers. The files that control these pages are at https://github.com/DigitalArcPlatform/template/tree/main/pages. Those two pages are visible in the navigation for visitors to click on:
+- "Our Community" links to the `index.md` file. We used the name "index" because "index.html" is the most common placeholder file for default display if there is no other content in a folder.
+- "Our Collection" links to the `collection.md` file. That file automatically creates the digital-exhibit list of community-contributed objects that are created by uploading .md files to the _items folder and adding corresponding images to the `/assets/items/` folder.
+
 You can change the navigation-menu items that appear in the top navigation of your site. For example, if you want to link to an existing "About Us" page on another website, or link to a new page in your community archive, you can.
 
 ***Before you start***:1
