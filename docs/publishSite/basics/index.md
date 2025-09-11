@@ -98,7 +98,7 @@ Each item in the collection has an item ID (no spaces or punctuation) with one o
 2. Each item should have its own unique filename.
    - We like `YYYY-MM-DD-ItemNo` (so the 4th item collected on May 15, 2022, would be `2022-05-15-004`)
 3. Each item will have its own information file in the `_items` folder (2022-05-15-004.md) and a photo in the `/assets/items/` folder (2022-05-15-004.jpg or 2022-05-15-004.png).
-  - The file for each item in the `_items` folder has a bunch of information about each item in the first few lines. Each line has a field type (e.g. `author`), and then a colon, and then the info that goes in that field surrounded by double quotes (`author: "Drew H"`). You can get more information about what goes in these item fields in the [Metadata: Line by Line](https://community-archive.kalanicraig.com/docs#metadata-line-by-line) section of the [Theme Docs](https://community-archive.kalanicraig.com/docs).
+  - The file for each item in the `_items` folder has a bunch of information about each item in the first few lines. Each line has a field type (e.g. `author`), and then a colon, and then the info that goes in that field surrounded by double quotes (`author: "Drew H"`). You can get more information about what goes in these item fields in the [Metadata: Line by Line]({{ site.baseurl }}/postEvent/metadata/) section of this documentation.
 
 ## Step 5
 {: .subheadline }
@@ -112,7 +112,13 @@ Each item in the collection has an item ID (no spaces or punctuation) with one o
   - If you see a green box, you're ready to go. Click on the link!
   - If you see a blue box, wait 5 minutes and reload the page. It should be green now, and you can click on the link.
   - If you don't see either message, look for the drop-down menu that says "Branch", choose the "main" branch and press "Save" to publish your site in Github Pages.
-  
+4. Follow the publication process in real time by looking for the "Actions" tab (in the same line as the "Code" tab near the top of the Github page)
+	- Click on Actions.
+	- Find the "All Workflows" header.
+	- Each time you make a change to your site, you'll see a "workflow run" line for that change. To the left of the line for that workflow run, there's an icon.
+		- Green icons mean the publication step ran and everything should now be visible at your site's URL.
+		- Yellow icons mean the publication step is still running.
+		- Red icons mean the publication step ran into some issues. Visit the [Troubleshooting section of the documentation]({{ site.baseurl }}/troubleshooting/) for guidance on how to use the Actions tab to help figure out what's gone wrong.
 <!---
 The publishing step needs a bit of more elaboration. I followed the steps to do it myself and when I saw the message “your website is ready to be published”, I was still looking for something like a “publish” button to click on, not knowing that all I needed to do is to wait for the page to gets published.
 -->

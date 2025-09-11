@@ -33,10 +33,16 @@ Once you've got a set of shared goals and an event date set, you'll need to thin
 Now that you have a boatload of photos and interviews in digital form, you'll want to make sure you have the right info about each object and can connect that object back to the person who brought it. That means
 
 - naming files consistently
+- collecting and editing relevant information about the files ("metadata"")
 - editing transcripts of the interviews to make sure people who struggle to hear can read the interviews
 - editing photos
 - sending community members the cleaned-up copies of their files
 
 ## 4. Turning Interviews and Objects into an Archive Online
 
+With information about each object in hand, it's time to launch a website, which means
 
+- learning some basic terminology (static vs dynamic websites)
+- getting to know Github, a company that supports free website hosting, and Jekyll, the software that Github runs to make that hosting work
+- Doing setup work to get a new Github site configured right, so that your community name, colors, and other information are visible to web site visitors.
+- Using all of the information from step 3 to upload specifically formatted files to the right folders in your new Github account to create the digital exhibit of community-contributed objects
