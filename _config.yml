@@ -5,7 +5,8 @@ theme: just-the-docs
 url: https://digitalarcplatform.github.io/documentation
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  DigitalArc Home: https://digitalarcplatform.github.io
+  DigitalArc Demo: https://digitalarcplatform.github.io/demo/
 
 color_scheme: light
 

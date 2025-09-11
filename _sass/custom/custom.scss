@@ -1,0 +1,21 @@
+// custom SCSS (or CSS) goes here
+
+@if variable-exists(logo) {
+  .site-logo {
+	  @include mq(xs) {
+		width:25%;
+		height:25%;
+	  }    width: 100%;
+	  @include mq(md) {
+		width: 100%;
+		height: 100%;
+		padding-right: 5px;
+	  }
+    background-image: url($logo);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: contain;
+  }
+}
+
+
