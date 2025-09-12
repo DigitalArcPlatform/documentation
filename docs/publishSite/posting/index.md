@@ -12,11 +12,11 @@ The item IDs you chose during the event are the single most important piece of p
 
 The item IDs assigned during the event are used to name two sets of files, each of which belongs in a specific folder:
 1. The first is a single text-only file that contains text-based information about each piece in your community archive. See ***Item Text Files*** below. These should be stored in the `_items` folder. If the item ID was `2025-05-31-001-photo`, this text file will be called `2025-05-31-001-photo.md` .
-1. The second are the photo or photos that were taken of the object. See ***Photo Files*** below. It's likely that you've named the photos already (see [Naming Files after the Event]({{ site.baseurl }}/docs/postEvent/naming/)
+1. The second are the photo or photos that were taken of the object. See ***Photo Files*** below. It's likely that you've named the photos already (see [Naming Files after the Event]({{ site.baseurl }}/docs/postEvent/naming/))
 
 ## Create an Item Text File
 
-The meta-data that you prepped using contributor sign of information in the post processing phase will give you all of the information you need to fill out the text file.
+The meta-data that you prepped using contributor sign-up information in the post processing phase will give you all of the information you need to fill out the text file.
 
 1. Use a word processor (Microsoft Word, Google Docs, Mac Pages, etc.) to edit the information in your item text file first. (See "Anatomy of an Item Text File" below for an in-depth guide)
 1. Open the `_items` folder in your Github repo.
@@ -79,4 +79,8 @@ If you do have other information that you'd like to include, press "enter" or "r
 - `**bold**`
 - `*italic`
 - To make bullet points, put a hyphen and a space at the beginning of each line that should have a bullet point: `- bullet point text`
-- To make a numbered list, put a 1, a period and a space at the beginning of each line that should have a number, and the computer will auto-number the list for you: `1. number one. 1. number two.`
+- To make a numbered list, put a 1, a period and a space at the beginning of each line that should have a number, and the computer will auto-number the list for you:
+```
+1. number one.
+1. number two.
+```
