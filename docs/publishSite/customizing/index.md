@@ -11,7 +11,7 @@ has_children: true
 ## Customizing a color palette
 {: .subheadline}
 
-This theme uses 5 colors.
+This theme uses 5 colors:
 
 1. Main text color and nav-bar background color
 2. Link and highlight color
