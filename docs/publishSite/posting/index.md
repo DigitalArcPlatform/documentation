@@ -20,11 +20,11 @@ The meta-data that you prepped using contributor sign-up information in the post
 
 1. Use a word processor (Microsoft Word, Google Docs, Mac Pages, etc.) to edit the information in your item text file first. (See "Anatomy of an Item Text File" below for an in-depth guide)
 1. Open the `_items` folder in your Github repo.
-1. Press the "Add File" button and choose "Create New File"
+1. Press the "Add File" button and choose "Create New File".
 ![How to Create New File in Github]({{ site.baseurl }}{{ site.imageurl }}/publishSite/basics/github_screenshot_addnewfile.png)
 1. Find the "Name your file" field and enter the file name. (In our example, `2025-05-31-001-photo.md`)
 ![How to edit file names and contents in Github]({{ site.baseurl }}{{ site.imageurl }}/publishSite/basics/github_screenshot_editfilenamecontents.png)
-1. Find the "enter file contents here" field. Copy and paste the information from your word processor into that field 
+1. Find the "enter file contents here" field. Copy and paste the information from your word processor into that field. 
 1. Press the "Commit changes" button.
 1. In the pop-up window, press the "Commit changes" button again.
 
@@ -53,21 +53,21 @@ tags: [  ]
 
 ##### Three hyphens
 
-At the top of the example item text file, you'll see three hyphens `---` .  These tell the system that builds your website that there's *metadata* or information about an object that's used to build the web site, coming up. The first line of ever item file needs to be these three hyphens, without any extra spaces or characters after the hyphens.
+At the top of the example item text file, you'll see three hyphens `---` .  These tell the system that builds your website that there's *metadata*, or information about an object that's used to build the web site, coming up. The first line of every item file needs to be these three hyphens, without any extra spaces or characters after the hyphens.
 
 ##### Layout
 
-The next line is starts with "layout" and has the word "item" after the colon. This says, "Please use the layout that DigitalArc has customized to automatically display item photos, transcripts, and item info". This line is also helpful for understanding the other lines of metadata.
+The next line starts with "layout" and has the word "item" after the colon. This says, "Please use the layout that DigitalArc has customized to automatically display item photos, transcripts, and item info". This line is also helpful for understanding the other lines of metadata.
 
 ##### Other "variables"
 
-Each metadata line has a variable--"layout"--and a value for that variable. That is, the variable before the colon says "this is a placeholder"; whenever the web site system sees a reference to "layout", it will replace that reference with the actual value that comes after the colon ("item" in this case).
+Each metadata line has a variable--"layout"--and a value for that variable. That is, the variable before the colon says "this is a placeholder"; whenever the website system sees a reference to "layout", it will replace that reference with the actual value that comes after the colon ("item" in this case).
 
 The lines that follow these first three hyphens are variables and values that hold the object info that you prepped in post-processing, including things like "item name" and "contributor name".
 
 ##### Three more hyphens
 
-After the metadata, there's another set of three hypens. Like the hyphens that start each item file, these need to be on their online with no spaces before or after
+After the metadata, there's another set of three hypens to mark the end of the metadata. Like the hyphens that start each item file, these need to be on their own line with no spaces before or after
 
 ##### Adding more detail
 
