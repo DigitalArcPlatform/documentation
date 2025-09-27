@@ -10,6 +10,8 @@ grand_parent: Publishing Your Site
 
 The short version? ***Google Docs for programmers​***
 
+**First warning: don't pay attention to any scary GitHub YouTube videos.** We'll provide simpler ways to use GitHub that don't require you to be a programmer.
+
 Like Google Drive or iCloud, Github offers a free place to store files online and collaborate on their contents. The difference is that Github is especially good at storing the files that run computer-oriented projects, and at tracking the individual lines of a file, so that many people can make changes to single document and have all of their changes preserved.
 
 Github also offers a built-in place to built web sites using static-site content management systems like Jekyll (which is what we're using right now to make this documentation site).
