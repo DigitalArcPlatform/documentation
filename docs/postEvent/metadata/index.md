@@ -57,7 +57,7 @@ Rather than rejecting institutional frameworks entirely, community-generated met
 
 ### Sign-In Form 
 
-The best source for metadata about a photograph of an artifact or an oral history comes from the person contributing those objects and stories to your online community archive. If you used the [sign-up form](({{site.baseurl}}/docs/duringEvent/checkin/#sign-in/) as part of a community sharing-collecting event, you will have collected some metadata from the community contributor that you can bring over to the metadata spreadsheet:
+The best source for metadata about a photograph of an artifact or an oral history comes from the person contributing those objects and stories to your online community archive. If you used the [sign-up form]({{site.baseurl}}/docs/duringEvent/checkin/#sign-in/) as part of a community sharing-collecting event, you will have collected some metadata from the community contributor that you can bring over to the metadata spreadsheet:
 
 - Title
 - Description
