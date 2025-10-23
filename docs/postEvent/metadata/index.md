@@ -15,7 +15,7 @@ Meaningful metadata relies on a combination of “natural language” descriptio
 
 ## How do I create metadata with my community? 
 
-Community elements of metadata are important for describing things in “natural language” – colloquialisms, code-switching, cultural-specifics and more. Sometimes, “natural language” terms align with “controlled vocabularies,” which are library-focused tools like thesauri ([Getty Thesaurus of Art & Architecture](https://www.getty.edu/research/tools/vocabularies/aat/) , [Geonames]((https://www.geonames.org/), etc.)) or authority lists like [Library of Congress Subject Headings or Name Authority files](https://authorities.loc.gov/) that allows us to standardize how we describe items.  When possible, include both “natural language” and controlled language in your metadata creation practices.
+Community elements of metadata are important for describing things in “natural language” – colloquialisms, code-switching, cultural-specifics and more. Sometimes, “natural language” terms align with “controlled vocabularies,” which are library-focused tools like thesauri ([Getty Thesaurus of Art & Architecture](https://www.getty.edu/research/tools/vocabularies/aat/) , [Geonames](https://www.geonames.org/), etc.) or authority lists like [Library of Congress Subject Headings or Name Authority files](https://authorities.loc.gov/) that allows us to standardize how we describe items.  When possible, include both “natural language” and controlled language in your metadata creation practices.
 
 ### Community conversations about object descriptions
 Rather than rejecting institutional frameworks entirely, community-generated metadata offers another approach that rebalances authority, values lived experience, and creates a more liberatory, participatory archival process. This approach can be used alongside conventional standards when appropriate. Here’s a recommended community-centered process for collecting metadata collaboratively:  
@@ -192,7 +192,7 @@ categories: [ News Articles, Web Pages ] -- This metadata field controls the fil
 teammember:        -- If a team-member did considerable work prepping an item or helping a contributor, they can be credited here.
 
 
-## Example of Metadata Layour for Publishing 
+## Example of Metadata Layout for Publishing 
 
 Metadata starts and ends with a line that has three dashes and nothing else. (the dash next to the “zero” key on your keyboard). If something goes wrong with an item, the first thing to check is to make sure there’s no space after the three dashes. 
 
