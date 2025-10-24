@@ -95,6 +95,16 @@ In order to transcribe with Google Docs, you will need to use a Google Account. 
 
 3. Locate the audio file that you will be transcribing. Once you have found it, make sure the microphone in the Google Doc is turned on. It will appear red with a circle around it. 
 
+4. Place your phone, or whichever device you’re using for playback, near your laptop’s microphone and begin playing the audio. You should see words start to appear on the document.
+	*	A laptop’s microphone is typically near the device’s speakers. If you hover your phone around the center part of your laptop’s keyboard, this should be close enough for your microphone to capture the audio you are playing back. 
+5. To pause or stop the transcription process, stop the audio recording and click on the microphone in the Google Doc, it should change from red to black.
+
+
+Notice a few things: 
+
+*	This feature may not capture the entirety of the conversation. It may skip words or segments, so you will need to go back and manually add any missing text. 
+*	This option does not differentiate between speakers, so you will need to go back and distinguish between each speaker in the oral history. 
+
 
 ## Transcribing with Access to Transcription Software 
 
