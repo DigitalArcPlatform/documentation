@@ -9,9 +9,10 @@ parent: Post-Event Clean-Up
 
 This document walks through the best practices to transcribe the oral histories, stories, and memories collected during the day-of collection event. 
 
-This is broken down into four sections: 
+This is broken down into five sections: 
 1. How to [download](#how-to-download-an-audio-file) and [open](#how-to-open-an-audio-file) an audio file
-1. Transcribing [without](#transcribing-without-access-to-transcription-software) access to transcription software 
+1. Transcribing [without](#transcribing-without-access-to-transcription-software) access to transcription software
+1. Transcribing [with](#transcribing-with-google-docs) Google Docs
 1. Transcribing [with](#transcribing-with-access-to-transcription-software) access to transcription software (Otter.ai, Microsoft Word, notta.ai, etc.) 
 1. [What to include in the transcription](#what-to-include-in-a-transcription)
 
@@ -77,19 +78,21 @@ Here are some notes for best practices:
 ## Transcribing with Google Docs 
 
  
-This section covers how to use the Voice-to-Text function in Google Docs. 
+This section covers how to use the Voice-to-Text function in Google Docs. This includes: 
+
+*	[How to use Voice-to-Text](#how-to-use-voice-to-text)
 
 In order to transcribe with Google Docs, you will need to use a Google Account. If your community organization has a community Google Account, we recommend using this account, as you will likely store other files related to your digital archiving project in it.
 
 **Notes:**
 
-*	You will need to have the audio file of the oral history to play from a different device than the one you are using to transcribe. For example, if you recorded the oral history on your phone, play it back from there.  
+*	You will need to have the audio file of the oral history play from a different device than the one you are using to transcribe. For example, if you recorded the oral history on your phone, play it back from there.  
 *	To use this function, you need to have a clear audio recording that is mostly free of background noise. 
 *	Make sure the space in which you are transcribing is quiet, as this can impact the microphone’s ability to process the audio. 
 
 ### How to use Voice-to-Text
 
-1. Create a Google Doc for this audio in your Google Drive account. For steps on how to create a new Google Doc, you can follow [this link](https://support.google.com/docs/answer/7068618?hl=en&ref_topic=9045928). 
+1. Create a Google Doc for this audio recording in your Google Drive account. For steps on how to create a new Google Doc, you can follow [this link](https://support.google.com/docs/answer/7068618?hl=en&ref_topic=9045928). 
 
 2. You will need to activate the “Voice typing” feature within the document. For instructions on how to activate “Voice typing,” follow [this link](https://support.google.com/docs/answer/4492226?hl=en). Make sure to turn on the microphone.   
 
@@ -98,6 +101,7 @@ In order to transcribe with Google Docs, you will need to use a Google Account. 
 4. Place your phone, or whichever device you’re using for playback, near your laptop’s microphone and begin playing the audio. You should see words start to appear on the document.
 	*	A laptop’s microphone is typically near the device’s speakers. If you hover your phone around the center part of your laptop’s keyboard, this should be close enough for your microphone to capture the audio you are playing back. 
 5. To pause or stop the transcription process, stop the audio recording and click on the microphone in the Google Doc, it should change from red to black.
+6. To resume, turn the microphone back on in the Google doc and begin playing the audio again. Words should begin to appear on your computer screen again. 
 
 
 Notice a few things: 
