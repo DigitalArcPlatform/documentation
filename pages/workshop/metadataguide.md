@@ -1,11 +1,8 @@
 ---
-title: Creating Metadata
+title: Metadata Guide for Workshop Attendees
 layout: default
-nav_order: 4
-parent: Post-Event Clean-Up
+permalink: /workshop/metadataguide/
 ---
-
-# Background Information
 
 ## What is Metadata? Why is Metadata Important? 
 
@@ -61,7 +58,7 @@ Here's a recommended community-centered process for collecting metadata collabor
 
 ### Sign-In Form 
 
-If you used the [sign-up form]({{site.baseurl}}/docs/duringEvent/checkin/#sign-in/) as part of a community sharing-collecting event, you will have collected some metadata from the community contributor that you can bring over to the metadata spreadsheet:
+The best source for metadata about a photograph of an artifact or an oral history comes from the person contributing those objects and stories to your online community archive. If you used the [sign-up form]({{site.baseurl}}/docs/duringEvent/checkin/#sign-in/) as part of a community sharing-collecting event, you will have collected some metadata from the community contributor that you can bring over to the metadata spreadsheet:
 
 - Title
 - Description
@@ -69,7 +66,7 @@ If you used the [sign-up form]({{site.baseurl}}/docs/duringEvent/checkin/#sign-i
 
 ### Interview/Oral History 
 
-During the oral history in which community contributors may discuss the artifact photographed for the digital archive, you will gather other important bits of information:
+During the oral history in which community contributors may discuss the artifact photographed for the digital archive, you will gather other important bits of information: 
 
 - Date of the artifact
 - Creator of the artifact
@@ -88,13 +85,13 @@ If you have time, you may conduct additional research through reference services
 1. Google Sheets
 1. [Text Editor](https://workspace.google.com/marketplace/app/text_editor/591525900269?flow_type=2&pann=ogb) (note: must be installed)
 
-You can use other software products like Microsoft Excel, but accessing those products may require subscriptions (at a cost). You can also use plain text editors that are free with your computer like NotePad for Windows or TextEdit for Macs.  
+You can use other software products like Microsoft Excel, but we know that accessing those products may require subscriptions (at a cost). You can also use plain text editors that are free with your computer like NotePad for Windows or TextEdit for Macs.  
+
+We will be working within the Google ecosystem since Google's free account often comes with sufficient storage for starting a community archiving project. 
 
 ### Installing Text Editor App in Google Drive 
 
-If your community decided to use a shared Google account to collect and share information, , make sure you are logged into your community Google account before you install the Text Editor app.
-
-[More detailed instructions are provided by Google](https://support.google.com/marketplace/answer/6067029?hl=en&ref_topic=13988011&sjid=18440968682889867287-NC), but here are the basic steps: 
+If you have a community Google account setup, make sure you are logged into your community Google account before you install the Text Editor app. [More detailed instructions are provided by Google](https://support.google.com/marketplace/answer/6067029?hl=en&ref_topic=13988011&sjid=18440968682889867287-NC), but here are the basic steps: 
 
 1. Check to make sure you are logged into the proper Google account
 1. Visit: [workspace.google.com/marketplace](https://workspace.google.com/marketplace)
