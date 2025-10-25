@@ -14,13 +14,6 @@ The length of your Oral History Interviews will vary according to the objectives
 	- If no audio (NA): Audio will be used only for transcription purposes. Transcribe and **delete** the audio. 
 	- If anonymous (ANON): De-identify the interview before posting it, and the "contributor" information on the website will say "Anonymous Contributor"
 	- If personal use (PRIV): Do **NOT** use the interview on the community archive website. Send the contributor the recording along with the digitized object for their personal archives.
-
-#
-1. Suggestions for Facilitation
-	1. Get in pairs
-	1. Listen deeply, write down stories, ask clarifying questions
-	1. Treat storytelling as metadata
-	1. Record audio or video if that captures richer metadata than text alone
 	
 ## Interview Recording Protocol
 
@@ -50,7 +43,7 @@ Community archives rebalance authority, value lived experience, and create a mor
 
 Every digital archive object will have a web page. Remember that these interviews can help your community control how the community archive shows up in online searches. *We'll come back to this again, in the "Metadata" section of the post-event process.*
 
-1. Remember your collaborative set of oral history prompts and how they can help describe community contributions effectively:
+1. Remember your collaborative set of oral history prompts and how that can help describe community contributions effectively:
 	1. Title
 		1. Prompt: "What would you call this item?"
 		1. Intention: Community defined naming
