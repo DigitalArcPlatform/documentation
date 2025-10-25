@@ -9,12 +9,31 @@ parent: Post-Event Clean-Up
 
 This document walks through the best practices to transcribe the oral histories, stories, and memories collected during the day-of collection event. 
 
-This is broken down into five sections: 
+This is broken down into six sections: 
+1. Suggestions [before](#suggestions-before-you-begin) you begin
 1. How to [download](#how-to-download-an-audio-file) and [open](#how-to-open-an-audio-file) an audio file
 1. Transcribing [without](#transcribing-without-access-to-transcription-software) access to transcription software
 1. Transcribing [with](#transcribing-with-google-docs) Google Docs
 1. Transcribing [with](#transcribing-with-access-to-transcription-software) access to transcription software (Otter.ai, Microsoft Word, notta.ai, etc.) 
 1. [What to include in the transcription](#what-to-include-in-a-transcription)
+
+## Suggestions before you begin: 
+
+*	Determine what to include in the transcript
+	*	Will the transcript be a verbatim representation of the audio recording or will segments be omitted or paraphrased?
+	*	Will you preserve original grammar and spelling? 
+	*	Will you include false starts or repeated words? 
+*	Create a style guide that your community will follow. This will ensure consistency from one transcript to another. Here are some items to consider:
+	*	How to format the document 
+	*	Which punctuation to use and in which contexts 
+	*	How to note unintelligible language 
+	*	How to label the different speakers 
+	*	How to label non-verbal sounds, such as laughter or long pauses
+	*	Abbreviation of words 
+*	Establish a workflow for checking transcripts 
+	*	Who can assist when a segment is in another language or difficult to understand? 
+	*	Will anyone do a final review of the transcript for accuracy?
+
 
 ## How to Download and Open an Audio File 
 
@@ -250,7 +269,7 @@ When cleaning a generated transcript:
 
 ## What to Include in a Transcription
 
-This is a common question that we as a team at IDAH constantly struggle with. Do we include every “um” or “like” in the transcript for its full authenticity? Do we go through and correct the grammar? Do we remove the duplicated words? The answer to these and similar questions, unfortunately, is that it is up to you, your team, and the overarching goals of your community archive. 
+This is a common question that we as a team struggle with. Do we include every “um” or “like” in the transcript for its full authenticity? Do we go through and correct the grammar? Do we remove the duplicated words? The answer to these and similar questions, unfortunately, is that it is up to you, your community, and the overarching goals of your community archive. 
 
 ### For Returning Files to Contributors 
 
@@ -282,7 +301,7 @@ Or:
 - Removing repeated words 
 - Removing pause-words such as "um" and "like"
 
-When preparing transcripts for uploading, think of someone reading them like they would read a book or a published newspaper interview: 
+When preparing transcripts for upload, think of someone reading them like they would read a book or a published newspaper interview: 
 
 - What information would they need to read in the transcript in order to get the best picture of what was talked about? 
 - What would you and your team include from the transcript so the reader could feel like they were listening to the recording and not just reading it?
