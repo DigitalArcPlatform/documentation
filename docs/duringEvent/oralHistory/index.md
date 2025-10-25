@@ -15,6 +15,13 @@ The length of your Oral History Interviews will vary according to the objectives
 	- If anonymous (ANON): De-identify the interview before posting it, and the "contributor" information on the website will say "Anonymous Contributor"
 	- If personal use (PRIV): Do **NOT** use the interview on the community archive website. Send the contributor the recording along with the digitized object for their personal archives.
 
+#
+1. Suggestions for Facilitation
+	1. Get in pairs
+	1. Listen deeply, write down stories, ask clarifying questions
+	1. Treat storytelling as metadata
+	1. Record audio or video if that captures richer metadata than text alone
+	
 ## Interview Recording Protocol
 
 Once you have selected your recording device (see below), the actual contents of your recording will follow a standard set of questions. 
@@ -36,6 +43,38 @@ Once you have selected your recording device (see below), the actual contents of
 	- Why is this memory significant to you?
 	- How does this memory relate to your identity? 
 	- Is there anything I didn't ask that you would like to talk about? 
+	
+### Remember Your Intentions
+
+Community archives rebalance authority, value lived experience, and create a more liberatory, participatory archival process. Considering how your community stories will be represented ahead of time can help you craft an oral-history interview approach that better represents community values in the final digital archive.
+
+Every digital archive object will have a web page. Remember that these interviews can help your community control how the community archive shows up in online searches. *We'll come back to this again, in the "Metadata" section of the post-event process.*
+
+1. Remember your collaborative set of oral history prompts and how they can help describe community contributions effectively:
+	1. Title
+		1. Prompt: "What would you call this item?"
+		1. Intention: Community defined naming
+	1. Description 
+		1. Prompt: "Tell us the story behind this."
+		1. Intention: Centering personal meaning 
+	1. Date
+		1. Prompt: "When was this from? Approximate is okay."
+		1. Intention: Valuing memory over precision
+	1. People
+		1. Prompt: "Who is in this photo/story?"
+		1. Intention: Naming and honoring individuals
+	1. Place
+		1. Prompt: "Where did this take place?"
+		1. Intention: Grounding materials in place 
+	1. Emotions/Significance
+		1. Prompt: "How does this item make you feel?"
+		1. Intention: Centering effect and cultural value
+	1. Permissions
+		1. Prompt: "How should this item be used/shared?"
+		1. Intention: Honoring agency and consent
+	1. Tags/Keywords
+		1. Prompt: "What words would help people find this?"
+		1. Intention: Enabling community-generated vocabularies 
 
 ## Audio Recording Device Options
 
