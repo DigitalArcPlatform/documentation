@@ -27,8 +27,7 @@ You can edit photos without downloading any external software, such as Photoshop
 *Use a naming convention (such as YYYY-MM-DD-####) and consider automating this process.
 *Blur out sensitive material such as mailing or email addresses.
 *Remember what folder you save it in.
-*Rotate the photo to make horizon lines and other straight lines straighter and to gently crop it.
-| *Don't use filters.
+*Rotate the photo to make horizon lines and other straight lines straighter and to gently crop it. | *Don't use filters.
 *Don't save as HEIC or PDF.
 *Don’t edit, crop, or blur out the image so much that it becomes misleading.
 *Don’t use photos from the internet or other sources that do not come from you, your collaborators, or the participants in the history harvests.
