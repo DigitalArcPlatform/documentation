@@ -17,7 +17,9 @@ The length of your Oral History Interviews will vary according to the objectives
 	
 ## Interview Recording Protocol
 
-Once you have selected your recording device (see below), the actual contents of your recording will follow a standard set of questions. 
+Once you have selected your recording device (see below), the actual contents of your recording will follow a standard set of questions.
+
+***For interviewers:** Consider writing down timestamps (in the context of the interview, rather than using clock time) during the interview, to highlight moments that have a particularly great story, or where the transcription might be difficult to transcribe. (Suggestion courtesy of S. Love, Gary, IN.)*
 
 1. To begin the interview, the interviewer should state their name and the contributor's Object ID. For example: 
 	- "My name is _________ and I am interviewing the community member who contributed **(Object ID)** as part of **(Event Name)**."
