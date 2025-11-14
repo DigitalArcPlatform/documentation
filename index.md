@@ -71,9 +71,9 @@ Helpers to gather sorted groups
     {%- assign top_slug = tcols[1] -%}
     {%- assign top_url  = tcols[5] -%}
     {%- assign top_ttl  = tcols[6] -%}
-    {%- assign top_anchor = "gp-" | append: top_ttl | slugify -%}
     <li>
-      <a href="#{{ top_anchor }}">{{ top_ttl }}</a>
+      <!-- TOP LEVEL LINKS TO PAGE URL -->
+      <a href="{{ top_url | relative_url }}">{{ top_ttl }}</a>
 
       {%- comment -%} Gather second-level index pages under this top folder {%- endcomment -%}
       {%- assign seconds = "" -%}
@@ -92,10 +92,11 @@ Helpers to gather sorted groups
           {%- assign srow = sb[1] -%}
           {%- assign sc = srow | split: "|||" -%}
           {%- assign sec_slug = sc[2] -%}
+          {%- assign sec_url  = sc[5] -%}
           {%- assign sec_ttl  = sc[6] -%}
-          {%- assign sec_anchor = "p-" | append: top_ttl | append: "-" | append: sec_ttl | slugify -%}
           <li>
-            <a href="#{{ sec_anchor }}">{{ sec_ttl }}</a>
+            <!-- SECOND LEVEL LINKS TO PAGE URL -->
+            <a href="{{ sec_url | relative_url }}">{{ sec_ttl }}</a>
 
             {%- comment -%} Third-level index pages under this second folder {%- endcomment -%}
             {%- assign thirds = "" -%}
@@ -113,9 +114,10 @@ Helpers to gather sorted groups
                 {%- assign tb3 = th | split: "@@" -%}
                 {%- assign trow3 = tb3[1] -%}
                 {%- assign tc3 = trow3 | split: "|||" -%}
+                {%- assign third_url = tc3[5] -%}
                 {%- assign third_ttl = tc3[6] -%}
-                {%- assign third_anchor = "doc-" | append: tc3[5] | slugify -%}
-                <li><a href="#{{ third_anchor }}">{{ third_ttl }}</a></li>
+                <!-- THIRD LEVEL LINKS TO PAGE URL -->
+                <li><a href="{{ third_url | relative_url }}">{{ third_ttl }}</a></li>
               {%- endfor -%}
             </ul>
             {%- endif -%}
@@ -128,3 +130,4 @@ Helpers to gather sorted groups
   {%- endfor -%}
   </ol>
 </div>
+
