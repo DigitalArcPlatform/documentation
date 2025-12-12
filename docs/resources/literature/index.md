@@ -12,63 +12,64 @@ This section is meant to provide summaries of some foundational literature and t
 
 ## Readings
 
-### Wingo, Rebecca S., et al.** Digital Community Engagement: Partnering Communities with the Academy. University of Cincinnati Press, 2020: [https://ucincinnatipress.uc.edu/9781947602519/digital-community-engagement/](https://ucincinnatipress.uc.edu/9781947602519/digital-community-engagement/).
+### Wingo, Rebecca S., et al. Digital Community Engagement: Partnering Communities with the Academy. University of Cincinnati Press, 2020: [https://ucincinnatipress.uc.edu/9781947602519/digital-community-engagement/](https://ucincinnatipress.uc.edu/9781947602519/digital-community-engagement/).
 
-DiCE Chapter 1  
+#### DiCE Chapter 1  
 
 **Forner, Karlyn et al.** “Learn from the Past, Organize for the Future.” Digital Community Engagement: Partnering Communities with the Academy, 2020, [https://doi.org/10.34314/wingodigital.00002]( https://doi.org/10.34314/wingodigital.00002).  
 
 This opening chapter focuses on the history and development of the Student Nonviolent Coordinating Committee (SNCC) Digital Gateway project and the collaboration between the committee and Duke University. As part of this collaboration, both the university and the activist partners clearly laid out their respective obligations and values, as well as addressed questions of ownership and governance. In particular, this chapter emphasizes the importance of allowing activist partners to engage in both the daily tasks of project creation and the larger development of it. 
 
-DiCE Chapter 2  
+#### DiCE Chapter 2  
 
 **Hubbard, Melissa.** “Archival Resistance to Structural Racism: A People’s Archive of Police Violence in Cleveland.” Digital Community Engagement: Partnering Communities with the Academy, 2020, [https://doi.org/10.34314/wingodigital.00003](https://doi.org/10.34314/wingodigital.00003).  
 
 Chapter 2 describes the creation of A People’s Archive of Police Violence in Cleveland (PAPVC), a digital archive which documents the history of police violence from the perspective of the citizens of Cleveland, Ohio. Specifically, this chapter addresses questions about the relationship between archival collections, dominant narratives, and counter-stories, proposing that archives built through relationships and ethics of care at the community level limit the possibilities of “archival amnesty” and promote deeper thinking about the role that large institutions play in the creation of archives. This chapter concludes with a discussion of the role that archives such as PAPVC can play at the individual community level, the institutional level, and at the national level. 
 
-DiCE Chapter 3  
+#### DiCE Chapter 3  
 
 **Anderson, Marvin, and Rebecca Wingo.** “Harvesting History, Remembering Rondo.” Digital Community Engagement: Partnering Communities with the Academy, 2020, [https://doi.org/10.34314/wingodigital.00004](https://doi.org/10.34314/wingodigital.00004).  
 
 Chapter 3 surveys the collaboration between Marvin R. Anderson, former State Law Librarian of the Minnesota Supreme Court, and Rebecca S. Wingo, an Assistant Professor of History at the University of Cincinnati, in producing the Remembering Rondo: A History Harvest project, an account of the Rondo community before it was destroyed by freeway construction. This chapter carefully details how Wingo was able to orchestrate a history harvest event for the deracinated Rondo community of St. Paul. There is particular emphasis placed on how Wingo organized her students into teams with teams with specific tasks & objectives over the course of the event, as well as how she reached and engaged with members of the Rondo community. The chapter concludes with a look at the projects which followed from Remembering Rondo, namely ReConnect Rondo, a bridge over the freeway that initially destroyed Rondo, and the Rondo Commemorative Plaza. 
 
-DiCE Chapter 4 
+#### DiCE Chapter 4 
 
 **Brock, Julia, et al.** “‘Send Out a Little Light’ The Antioch A.M.E. Digital Archive.” Digital Community Engagement: Partnering Communities with the Academy, 2020, [https://doi.org/10.34314/wingodigital.00005](https://doi.org/10.34314/wingodigital.00005).  
 
 Chapter 4 documents the process of creating the Antioch A.M.E Digital Archive, a collection of records pertaining to the Antioch A.M.E. church initially founded in Decatur, Georgia, but now located in Stone Mountain. Even more so than the previous chapter, this account closely describes how this church’s community reached out to the Center for Public History at the University of West Georgia, and how this led to a highly productive relationship between historians and community members. In particular, this chapter addresses scenarios in which community partners were wary of the project or raised questions about ownership, and how both groups reached agreements and navigated subsequent points of disagreement. The conclusion of this chapter looks at the role that flexibility and friendliness, particularly in communication structure, contributed to the success of the overall project. 
 
-DiCE Chapter 5  
+#### DiCE Chapter 5  
 
 **Sullivan, Amy C.** “Seen and Heard: Using DiCE to Reconnect Communities and Enrich History Pedagogy.” Digital Community Engagement: Partnering Communities with the Academy, edited by Rebecca Wingo, Jason Heppler, and Paul Schadewald, University of Cincinnati Press, 2020. [https://doi.org/10.34314/wingodigital.00006](https://doi.org/10.34314/wingodigital.00006)  
 
 Historian Amy C. Sullivan mobilizes history harvests to mediate healing with survivors of two different kinds of traumatic events. Her two groups of participants—one composed of survivors of self-harm in the 80s and 90s, and the other of survivors of a mass murder in the 70s—engage in oral history methods and ethics to add their narratives to the historical record. Sullivan foregrounds the pedagogical, ethical, and healing possibilities of Digital Community Engagement. 
 
-DiCE Chapter 6  
+#### DiCE Chapter 6  
 
 **Collier, Patrick, and James J. Connolly.** “Everyday Life in Middletown: The Archive as Community.” Digital Community Engagement: Partnering Communities with the Academy, edited by Rebecca Wingo, Jason Heppler, and Paul Schadewald, University of Cincinnati Press, 2020. [https://doi.org/10.34314/wingodigital.00007](https://doi.org/10.34314/wingodigital.00007)  
 
 Chapter 6 explains how diary writing captures crucial details about ordinary life, making it an ideal strategy for the Everyday Life in Middletown community archive. Based on a collaborative model of engagement, the project calls on fifty-four volunteers to submit diary entries to a public platform, which are then analyzed publicly for a blog and also for scholarly research. The authors argue that this method works around the "observer/observed dynamic" that characterizes anthropological or historical study. 
 
-DiCE Chapter 7  
+#### DiCE Chapter 7  
 
 **Schuette, Allison, Megan Telligman, and Liz Wuerffel.** “Mobilizing Digital Stories: Collaborating to Educate and Engage a Local Public in Realities of Homelessness.” Digital Community Engagement: Partnering Communities with the Academy, edited 	by Rebecca Wingo, Jason Heppler, and Paul Schadewald, University of Cincinnati Press, 2020. [https://doi.org/10.34314/wingodigital.00008](https://doi.org/10.34314/wingodigital.00008)  
 
 To address the challenges of the proportionally small homeless community of Porter County, Indiana, the authors of Chapter 7 developed a traveling exhibition and digital story collection, publishing interviews with homeless women. The two platforms expanded viewership for the exhibition content.  Organizers and participants co-created the content through a methodology that prioritizes listening while interviewing, editing, and facilitating conversations with homeless individuals. 
 
-DiCE Chapter 8  
+#### DiCE Chapter 8  
 
 **Beaujot, Ariel.** “Hear, Here: Digital History and Community Engagement Activating Social Change.” Digital Community Engagement: Partnering Communities with the 	Academy, edited by Rebecca Wingo, Jason Heppler, and Paul Schadewald, University of Cincinnati Press, 2020. [https://doi.org/10.34314/wingodigital.00009](https://doi.org/10.34314/wingodigital.00009)  
 
 Creators of this community engagement project used toll-free phone technology, a website, and student volunteers to collaboratively re-write their town’s stories. Called Hear, Here, it took the team four years to collect 69 stories about locally meaningful places and monuments in an 8-block downtown area. Author Ariel Beaujot found that this system instigates and supports debate, which has led to some social changes in the town of La Crosse, Wisconsin. 
 
-DiCE Chapter 9  
+#### DiCE Chapter 9  
 
 **Thompson, Aubrey, and Ildi Carlisle-Cummins.** “You Can’t Make Ketchup Without Smashing a Few Tomatoes: Reflections on a University-Community Partnership.” Digital Community Engagement: Partnering Communities with the Academy, edited by Rebecca Wingo, Jason Heppler, and Paul Schadewald, University of Cincinnati 	Press, 2020. [https://doi.org/10.34314/wingodigital.00010](https://doi.org/10.34314/wingodigital.00010)  
 
 Colleagues Aubrey Thompson and Ildi Carlisle-Cummins have created a podcast that challenges their own institution, UC Davis, through research and activism. They discovered that their land-grant university was responsible for slashing agricultural jobs for corporate benefit by inventing a tomato harvester. This chapter exposes how universities can deprive their own communities, and the podcast brings this reality to light to engage the broader community in dialogue. 
 
 
+## Further Readings
 
 **Sutton, Jazma.** “’Go to the Attics, the Closets, and the Basements’: Black Women’s Intergenerational Practices of Memory Keeping in Oxford, Ohio.” Genealogy, 	vol. 8, no. 3, 2024. [https://doi.org/10.3390/genealogy8030102](https://doi.org/10.3390/genealogy8030102).  
 
@@ -101,7 +102,7 @@ Based on research on and experience with activism, Kuo and Lee offer strategies 
 
 This page narrates the mission, method, and publications of the UCLA Community Archives Lab. It focuses on the relationship between institutions and independent, community-based archival workers to find ethical ways for institutions to investigate the archives of these memory organizations. 
 
-Community Archiving: A tool for transgenerational learning. Activist Handbook, 2022, [https://activisthandbook.org/organising/community-archiving](https://activisthandbook.org/organising/community-archiving). Accessed May 8, 2025. 
+**Community Archiving: A tool for transgenerational learning.** Activist Handbook, 2022, [https://activisthandbook.org/organising/community-archiving](https://activisthandbook.org/organising/community-archiving). Accessed May 8, 2025. 
 
 Calling the toolkit “the Wikipedia for activists,” this page summarizes the ethics of community archiving and an overview of its steps. Its accessible writing style and introductory scope serves an audience not already familiar with independent community archiving. Throughout, the Handbook signals how the archiving process functions differently depending on the project, and its steps accommodate this flexibility.  
 
@@ -128,6 +129,6 @@ Celebrating 50 years at IU in 2023, the cultural center La Casa archived its mem
 
 This recording of the keynote address for the International Federation for Public History follows the development of the Remembering Rondo project after its completion in 2017. The first 40 minutes of this video contain a talk given by both Dr. Rebecca S. Wingo and Mr. Marvin Anderson, who speak on both the process of the project's initial creation and significance, as well as address practical & ethical concerns about the long-term hosting and management of a shared digital resource. The remainder of the video is devoted to a Q&A for Dr. Wingo & Mr. Anderson in which the audience poses questions about the intersectionality of Remembering Rondo and plans for future expansion of the project. 
 
-**“Remembering Rondo  |  A History Harvest.”** A Partnership Between Rondo Avenue, Inc. And Macalester College, [https://omeka.macalester.edu/rondo](https://omeka.macalester.edu/rondo). 
+**“Remembering Rondo  \|  A History Harvest.”** A Partnership Between Rondo Avenue, Inc. And Macalester College, [https://omeka.macalester.edu/rondo](https://omeka.macalester.edu/rondo). 
 
 Built using Omeka, this website hosts the current version of the Remembering Rondo history harvest. It features the ability to search through items, individual persons, and entire exhibits by using metadata tags. This site features a wide variety of historical items such as newspapers & photographs, as well as interviews with Rondo residents. 
