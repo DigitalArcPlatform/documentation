@@ -1,6 +1,7 @@
 ---
 title: Metadata Guide for Workshop Attendees
 layout: default
+nav_order: 9
 permalink: /workshop/metadataguide/
 ---
 
