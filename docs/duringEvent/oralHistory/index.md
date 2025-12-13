@@ -14,6 +14,10 @@ The length of your Oral History Interviews will vary according to the objectives
 	- If no audio (NA): Audio will be used only for transcription purposes. Transcribe and **delete** the audio. 
 	- If anonymous (ANON): De-identify the interview before posting it, and the "contributor" information on the website will say "Anonymous Contributor"
 	- If personal use (PRIV): Do **NOT** use the interview on the community archive website. Send the contributor the recording along with the digitized object for their personal archives.
+
+## Story-telling as Metadata
+
+Before you begin gathering oral histories, it is worth sitting down with community members and being intentional about the kinds of questions you intend to ask. This is because the information you gain from these oral history interviews will be a *major* source for your eventual [metadata]({{site.baseurl}}/docs/postEvent/metadata/#community-conversations-about-object-descriptions). Be sure to customize your interview questions to reflect the values and priorities of your community.  
 	
 ## Interview Recording Protocol
 

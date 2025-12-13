@@ -12,7 +12,7 @@ Now that you and your community have decided to continue with a community archiv
 
 The first assessment gathers information about the type of stories your community would like to share and the objects they own and would like to contribute to the archive.  
 
-[Click here to view a sample community-needs survey](/assets/PDFs/PreEvent_SampleCommNeedsSurvey.pdf) 
+[Click here to view a sample community-needs survey]({{site.baseurl}}/assets/PDFs/PreEvent_SampleCommNeedsSurvey.pdf) 
 
 You can circulate this sample survey with your community. We recommend using similar questions when creating a survey for your community.  
 
@@ -61,6 +61,6 @@ Every digital archive object will have a web page. Prepping in advance for some 
 
 The second assessment gathers information about the skills and availability of community members willing to help organize the event. This information will help you manage volunteers and help you make decisions about assignments for volunteers. You can send this survey at the same time as sending out the first survey, or you can wait until after the first survey and incorporate the results of the first survey into the volunteer survey.  
 
-[Click here to view a sample skills-and-availability survey](/assets/PDFs/PreEvent_SampleSkillsAvailabilitySurvey.pdf) 
+[Click here to view a sample skills-and-availability survey]({{site.baseurl}}/assets/PDFs/PreEvent_SampleSkillsAvailabilitySurvey.pdf) 
 
 Click on the following link for a sample survey you can circulate among members who have expressed interest in helping organize the event.  
