@@ -5,6 +5,31 @@ nav_order: 3
 parent: Post-Event Clean-Up
 ---
 
+# Resources & Best Practices for Photography Cleanup
+
+Photos and other forms of visual culture (a broad category that encompasses images, art, objects, and other everyday visuals) contain a lot of information. For memory preservation, archivists try to retain as much of that visual information as possible, and photography is one tool for doing so. Summarized below, these fundamental photo editing and naming techniques will help you to make your digital archive legible to future generations and people outside of your community.
+
+**TIP:** Think of yourself as a photojournalist who is communicating information through photography, not an artist who is expressing herself.
+
+**You can edit photos** without downloading any external software, such as Photoshop. These external links explain how to edit photos:
+
+-	Photo editing: [Apple iPhone](https://support.apple.com/guide/iphone/edit-photos-and-videos-iphb08064d57/ios) 
+-	Cropping: [Apple iPhone](https://support.apple.com/guide/iphone/crop-rotate-flip-straighten-photos-videos-iph0f3ebb1dd/26/ios/26)
+-	Photo editing: [Apple Macbook](https://support.apple.com/guide/photos/editing-basics-pht304c2ace6/mac)
+-	Photo editing: [Android](https://popsa.com/perspectives/android-photo-editing-post-processing-guide/)
+-	Cropping: [Android](https://www.samsung.com/au/support/mobile-devices/quick-crop/?srsltid=AfmBOopoEMOvccDGRSrfhYSCh_iqPak23uI_9-jxLn55XpdoglQwEd6o)
+-	Photo editing: [Windows computer](https://support.microsoft.com/en-us/windows/edit-photos-and-videos-in-windows-a3a6e711-1b70-250a-93fa-ef99048a2c86)
+
+| Photo Editing Dos | Photo Editing Don'ts |
+| ----------- | ----------- |
+| Crop your image to focus on the subject, edit out distracting objects, but use your best judgment | Don't use filters      |
+| Save as .jpg or .png   | Don't save as .HEIC or .PDF        |
+| Use a naming convention, such as YYYY-MM-DD-#### and consider automating this process | Don't edit, crop, or blur out the image so much that it becomes misleading |
+| Blur out sensitive material such as mailing or email addresses | Don't use photos from the internet or other sources that do not come from you, your collaborators, or the participants in the history harvests |
+| Remember what folder you save it in | Don't disrupt the aspect ratio; that is, don't stretch or shrink your image, which is sometimes mistaken for cropping |
+| If you are taking a photo of a scrapbook page, capture the whole page in your photo to show the arrangement of photos as they appear in the historical document, rather than making individual photo files for each of the photos on the page | Don't undo assemblages of photographs made in photo albums or recipe books, for example |
+
+**Tip** Remember that every detail in a photograph or a photo of an object—the framing, subject, any signs of damage, use of color, posing, etc.—opens new avenues for asking questions that lead to remembering the past and/or research. Your aim should not be to make the photos “beautiful,” but rather to honor their complexities by striving for objectivity in your editing. Always use your best judgment and remember that your approach for editing your archive can also be analyzed, not just the photograph itself. 
 
 # Resources & Best Practices for Photography Cleanup
 
