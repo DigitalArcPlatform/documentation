@@ -5,8 +5,33 @@ nav_order: 3
 parent: Post-Event Clean-Up
 ---
 
+# Resources & Best Practices for Photography Cleanup 
 
-# Resources & Best Practices for Photography Cleanup
+Photos and other forms of visual culture (objects of a variety of media in our society) carry a lot of information. For memory preservation, archivists try to retain as much of that visual information as possible, and photography is one tool for doing so. Summarized below, these fundamental techniques will help you to make your digital archive legible to future generations and people outside of your community. 
+
+__TIP:__ Think of yourself as a photojournalist who is communicating information through photography, not an artist who is expressing herself. 
+
+You can edit photos without downloading any external software, such as Photoshop. These external links explain how to edit photos: 
+
+* Photo editing: [Apple iPhone]([url](https://support.apple.com/guide/iphone/edit-photos-and-videos-iphb08064d57/ios))
+    * Cropping: [Apple iPhone]([url](https://support.apple.com/guide/iphone/crop-rotate-flip-straighten-photos-videos-iph0f3ebb1dd/26/ios/26))
+    * Photo editing: [Apple Macbook]([url](https://support.apple.com/guide/photos/editing-basics-pht304c2ace6/mac))
+*Photo editing: [Android]([url](https://www.samsung.com/us/support/answer/ANS10003229/)) 
+    * Cropping: [Android]([url](https://www.samsung.com/au/support/mobile-devices/quick-crop/?srsltid=AfmBOopoEMOvccDGRSrfhYSCh_iqPak23uI_9-jxLn55XpdoglQwEd6o)) 
+* Photo editing: [Windows computer]([url](https://support.microsoft.com/en-us/windows/edit-photos-and-videos-in-windows-a3a6e711-1b70-250a-93fa-ef99048a2c86))
+
+| Photo Editing Dos | Photo Editing Don'ts |
+|---|---|
+| Crop your image to focus on the subject, edit out distracting objects, but use your best judgment. | Don’t edit, crop, or blur out the image so much that it becomes misleading. |
+| Save as .jpg or .png. | Don't save as HEIC or PDF. |
+| Use a naming convention (such as YYYY-MM-DD-####) and consider automating this process. | Don’t use photos from the internet or other sources that do not come from you, your collaborators, or the participants in the history harvests. |
+| Blur out sensitive material such as mailing or email addresses. | Don't use filters. |
+| Remember what folder you save it in. | Don’t disrupt the aspect ratio. |
+| Rotate the photo to make horizon lines and other straight lines straighter and to gently crop it. | That is, don’t stretch or shrink your image; sometimes this is mistaken for cropping. |
+
+Remember that every detail in a photograph or a photo of an object—the framing, subject, any signs of damage, use of color, posing, etc.—opens new avenues for asking questions that lead to remembering the past and/or research. Your aim should not be to make the photos “beautiful,” but rather to honor their complexities by striving for objectivity in your editing. Always use your best judgment and remember that your approach for editing your archive can also be analyzed, not just the photograph itself.  
+
+# Step-by-Step Instructions
 
 This document walks through the best practices for editing and cleaning photographs that were collected during the day-of collection event.  
 
