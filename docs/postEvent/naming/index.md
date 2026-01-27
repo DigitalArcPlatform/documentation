@@ -32,12 +32,35 @@ You may have one photo of an object or many photos. Naming the files correctly w
 
 For an item ID of `2025-05-31-001-photo`:
 
-	1. If there's only one photo, the photo name should be `2025-05-31-001-photo.jpg` or  `2025-05-31-001-photo.png`.
-	1. If there are multiple photos
-		1. use the base item ID as the first part of the photo name.
-		1. Then use an underscore.
-		1. Then add numbers to the end of each photo
+1. If there's only one photo, the photo name should be `2025-05-31-001-photo.jpg` or  `2025-05-31-001-photo.png`.
+1. If there are multiple photos
+	1. use the base item ID as the first part of the photo name.
+	1. Then use an underscore.
+	1. Then add numbers to the end of each photo
 
 This allows you to control the order in which the photos displays. For example, the first photo in the sequence would be named `2025-05-31-001-photo_01.png` and the second photo on the sequence would be named `2025-05-31-001-photo_02.png`.
 
 The zero before the numbers "1" and "2" in these examples helps the computer sort them in order. The photo with the lowest number will be used as the featured photo on the page with the whole list of items.
+
+## The Importance of Proper File Names 
+
+Not only does having a coherent scheme for your file names make it easier to organize, it is actually a critical part of how the DigitalArc system works. The names that you assign your files **must** match with the names that you assign your [metadata](https://digitalarcplatform.github.io/documentation/docs/publishSite/posting/) markdown files once you upload both of them to GitHub.
+
+For example, the following pair of files will work correctly because they match *exactly*:
+
+![Correct Markdown File]({{site.baseurl}}{{site.imageurl}}/postEvent/naming/correct_md_1.png)
+![Correct Image File]({{site.baseurl}}{{site.imageurl}}/postEvent/naming/correct_image_1.png)
+
+However, even small discrepancies will cause the item not to render correctly, such as in the following pair:
+
+![Correct Markdown File]({{site.baseurl}}{{site.imageurl}}/postEvent/naming/correct_md_1.png)
+![Incorrect Image File]({{site.baseurl}}{{site.imageurl}}/postEvent/naming/incorrect_image_1.png)
+
+Notice that the image file contains one less 0 than the markdown file. In other cases, the file names may look superficially similar, but will be interpreted by GitHub Pages quite differently: 
+
+![Correct Markdown File]({{site.baseurl}}{{site.imageurl}}/postEvent/naming/correct_md_1.png)
+![Incorrect Image File]({{site.baseurl}}{{site.imageurl}}/postEvent/naming/incorrect_image_2.png)
+
+Even though the characters though all the date and item information is correct, the markdown file uses dashes to separate the information, while the image uses underscores. 
+
+The key takeaway is that *your files must match character for character*, otherwise your items will not display properly. 
