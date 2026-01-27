@@ -44,7 +44,7 @@ The zero before the numbers "1" and "2" in these examples helps the computer sor
 
 ## The Importance of Proper File Names 
 
-Not only does having a coherent scheme for your file names make it easier to organize, it is actually a critical part of how the DigitalArc system works. The names that you assign your files **must** match with the names that you assign your [metadata](https://digitalarcplatform.github.io/documentation/docs/publishSite/posting/) markdown files once you upload both of them to GitHub.
+Not only does having a coherent scheme for your file names make it easier to organize, it is actually a critical part of how the DigitalArc system works. The names that you assign your files **must** match with the names that you assign your [metadata]({{site.baseurl}}/docs/publishSite/posting/) markdown files once you upload both of them to GitHub.
 
 For example, the following pair of files will work correctly because they match *exactly*:
 
