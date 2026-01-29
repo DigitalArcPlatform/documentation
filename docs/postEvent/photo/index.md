@@ -13,12 +13,12 @@ Photos and other forms of visual culture (objects of a variety of media in our s
 
 You can edit photos without downloading any external software, such as Photoshop. These external links explain how to edit photos: 
 
-	* Photo Editing: [Apple iPhone]([url](https://support.apple.com/guide/iphone/edit-photos-and-videos-iphb08064d57/ios))
-	* Cropping: [Apple iPhone]([url](https://support.apple.com/guide/iphone/crop-rotate-flip-straighten-photos-videos-iph0f3ebb1dd/26/ios/26))
-	* Photo Editing: [Apple Macbook]([url](https://support.apple.com/guide/photos/editing-basics-pht304c2ace6/mac))
-	* Photo Editing: [Android]([url](https://www.samsung.com/us/support/answer/ANS10003229/)) 
-	* Cropping: [Android]([url](https://www.samsung.com/au/support/mobile-devices/quick-crop/?srsltid=AfmBOopoEMOvccDGRSrfhYSCh_iqPak23uI_9-jxLn55XpdoglQwEd6o)) 
-	* Photo Editing: [Windows]([url](https://support.microsoft.com/en-us/windows/edit-photos-and-videos-in-windows-a3a6e711-1b70-250a-93fa-ef99048a2c86))
+	- Photo Editing: [Apple iPhone](https://support.apple.com/guide/iphone/edit-photos-and-videos-iphb08064d57/ios)
+	- Cropping: [Apple iPhone](https://support.apple.com/guide/iphone/crop-rotate-flip-straighten-photos-videos-iph0f3ebb1dd/26/ios/26)
+	- Photo Editing: [Apple Macbook](https://support.apple.com/guide/photos/editing-basics-pht304c2ace6/mac)
+	- Photo Editing: [Android](https://www.samsung.com/us/support/answer/ANS10003229/)
+	- Cropping: [Android](https://www.samsung.com/au/support/mobile-devices/quick-crop/?srsltid=AfmBOopoEMOvccDGRSrfhYSCh_iqPak23uI_9-jxLn55XpdoglQwEd6o)
+	- Photo Editing: [Windows](https://support.microsoft.com/en-us/windows/edit-photos-and-videos-in-windows-a3a6e711-1b70-250a-93fa-ef99048a2c86)
 
 | Photo Editing Dos | Photo Editing Don'ts |
 |---|---|
