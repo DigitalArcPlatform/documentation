@@ -11,7 +11,7 @@ has_children: true
 The item IDs you chose during the event are the single most important piece of prep work for posting items.
 
 The item IDs assigned during the event are used to name two sets of files, each of which belongs in a specific folder:
-1. The first is a single text-only file that contains text-based information about each piece in your community archive. See [Anatomy of a Text File]({{site.baseurl}}/docs/publishSite/posting/#anatomy-of-a-text-file/) below. These should be stored in the `_items` folder. If the item ID was `2025-05-31-001-photo`, this text file will be called `2025-05-31-001-photo.md` .
+1. The first is a single text-only file that contains text-based information about each piece in your community archive. See [Anatomy of a Text File]({{site.baseurl}}/docs/publishSite/posting/#anatomy-of-a-text-file) below. These should be stored in the `_items` folder. If the item ID was `2025-05-31-001-photo`, this text file will be called `2025-05-31-001-photo.md` .
 1. The second are the photo or photos that were taken of the object. It's likely that you've named the photos already (see [Naming Files after the Event]({{site.baseurl}}/docs/postEvent/naming/))
 
 For specific information on posting your images, transcripts, etc., see [Photos]({{site.baseurl}}/docs/publishSite/posting/photo/), [Audio]({{site.baseurl}}/docs/publishSite/posting/audio/), or [Video]({{site.baseurl}}/docs/publishSite/posting/video/)
