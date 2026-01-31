@@ -18,6 +18,8 @@ For specific information on posting your images, transcripts, etc., see [Photos]
 
 ## Create an Item Text File
 
+**Before you delete the sample items, make your first item .md file or else the `_items` folder will disappear.**
+
 The meta-data that you prepped using contributor sign-up information in the post processing phase will give you all of the information you need to fill out the text file.
 
 1. Use a word processor (Microsoft Word, Google Docs, Mac Pages, etc.) to edit the information in your item text file first. (See "Anatomy of an Item Text File" below for an in-depth guide)

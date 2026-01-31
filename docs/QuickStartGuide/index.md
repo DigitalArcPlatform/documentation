@@ -48,4 +48,6 @@ With information about each object in hand, it's time to launch a website, which
 - Doing setup work to get a new Github site configured right, so that your community name, colors, and other information are visible to web site visitors.
 - Using all of the information from step 3 to upload specifically formatted files to the right folders in your new Github account to create the digital exhibit of community-contributed objects
 
+**Before you delete the sample items, make your first item .md file or else the `_items` folder will disappear.**
+
 Since this is one of the more technical steps, we’ve got a guide just for this section that’s a little more detailed. [Click here to read it]({{site.baseurl}}/docs/QuickStartGuide/cheatSheet/).
