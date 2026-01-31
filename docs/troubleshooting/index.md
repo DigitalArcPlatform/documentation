@@ -126,8 +126,8 @@ There are two ways to create a new folder in Github:
 - In the file name field, type the name that you want your new folder to have, followed by a forward slash `/`
 	- e.g. `newFolder/`
 - Then, create a placeholder file in order to prevent the folder from being empty
-	-e.g. `placeholder.md`
-		- *Be sure to commit changes*
+	- e.g. `placeholder.md`
+	- *Be sure to commit changes*
 - Now, you can populate the folder with the files that you intend
 - **Only after you have put your own files in** can you delete the placeholder file
 
