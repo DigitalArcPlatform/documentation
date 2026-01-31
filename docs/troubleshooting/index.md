@@ -94,7 +94,6 @@ Items are sorted by alphanumeric order based on the .md file name: Numbers befor
 Numbers will sort by alphabet, so "1" will be immediately followed by "10", where "01" will sort before "02", and so on to "10". Adding the extra zero before the 1 will let you sort numbers in order up to 99. If you have 100 objects, you'll want two zeroes before single-digit numbers and one zero before double-digit numbers.
 
 
-
 # There are Weird Characters interspersed in my text.
 
 Several kinds of characters can create issues.
@@ -104,4 +103,31 @@ Several kinds of characters can create issues.
 - Note that markdown is sensitive to certain characters, in particular: `:`, `#`, `*`, `-`, and `` ` ``. If you have recently made a change involving any of these characters, make sure that this is intended and, if so, that you have properly escaped the character with either a backtick `` ` `` or backslash `\`. 
 
 - Curvy quotes and curvy apostrophes need to be replaced with straight double quotes and single apostrophes.
+
+# I Accidentally Deleted a Folder in Github/How Do I Create a New Folder in Github?
+
+Unlike your local operating system, Github will not let you create empty folders; **any time that a folder is empty, Github will automatically prune it.** In order to create a new folder, there must be a file in it. 
+
+There are two ways to create a new folder in Github:
+
+## First Way
+
+- Create a new folder with your desired name on your local machine
+- Go to Github and navigate to the folder one level above where you want this folder to be located 
+- Click on the menu in the top right, and choose "Upload files"
+- Drag and drop the folder from your local machine into the upload field
+	- *Be sure to commit changes* 
+	- This will upload the entire folder and its contents to your Github repository 
+
+## Second Way
+
+- Go to the folder in which you want to create a subfolder
+- Create a new file
+- In the file name field, type the name that you want your new folder to have, followed by a forward slash `/`
+	- e.g. `newFolder/`
+- Then, create a placeholder file in order to prevent the folder from being empty
+	-e.g. `placeholder.md`
+		- *Be sure to commit changes*
+- Now, you can populate the folder with the files that you intend
+- **Only after you have put your own files in** can you delete the placeholder file
 
