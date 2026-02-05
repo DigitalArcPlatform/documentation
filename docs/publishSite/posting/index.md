@@ -53,8 +53,7 @@ tags: [  ]
 ---
 ```
 
-[Get a blank template of the item-page markdown by clicking here]({{site.baseurl}}/assets
-/exampleitemmarkdown.txt)
+[Get a blank template of the item-page markdown by clicking here]({{site.baseurl}}/assets/exampleitemmarkdown.txt)
 
 #### Explanation of each part of the example
 
