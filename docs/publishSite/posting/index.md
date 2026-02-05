@@ -32,6 +32,13 @@ The meta-data that you prepped using contributor sign-up information in the post
 1. Press the "Commit changes" button.
 1. In the pop-up window, press the "Commit changes" button again.
 
+## <i class="fa-solid fa-triangle-exclamation"></i> **Caution: computers are picky**
+
+As you look through these examples, you'll see colons `:`, spaces ` `, and quotes `"` used to divide information that's important to you from information the computer uses to format your pages. **Check each of these things for each line of information in this part of your file**
+- Colons should always be followed by a single space.
+- If there's a quote around a piece of information that's after a colon and its corresponding space, keep the quote. If not, don't use a quote.
+- There should not be spaces at the end of these lines.
+
 ### Anatomy of an Item Text File
 
 #### Example
@@ -54,14 +61,6 @@ tags: [  ]
 ```
 
 [Get a blank template of the item-page markdown by clicking here]({{site.baseurl}}/assets/exampleitemmarkdown.txt)
-
-#### Caution: computers are picky
-
-As you look through these examples, you'll see colons `:`, spaces ` `, and quotes `"` used to divide information that's important to you from information the computer uses to format your pages.
-
-Colons should always be followed by a single space.
-
-If there's a quote around a piece of information that's after a colon and its corresponding space, keep the quote. If not, don't use a quote.
 
 #### Explanation of each part of the example
 
