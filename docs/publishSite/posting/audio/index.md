@@ -10,7 +10,7 @@ grand_parent: Publishing Your Site
 
 If you plan to include audio interviews with a contribution in your collection, the process is very similar to naming and uploading photos.
 
-***Before you start***: Make sure your audio and transcript files are named properly first.
+***Before you start***: Make sure your audio and transcript files are named properly first. Both audio files (.mp3) and transcript files (with the word "_Transcript" in the file name) are stored in the "assets/transcripts" folder.
 
 - The audio file needs to be named `itemnumber.mp3`.
 - If there's an accompanying transcript, it should be a Word doc file (with a `.docx` extension) and should be named `itemnumber_Transcript.docx`.
