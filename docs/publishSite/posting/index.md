@@ -79,6 +79,17 @@ Each metadata line has a variable--"layout"--and a value for that variable. That
 
 The lines that follow these first three hyphens are variables and values that hold the object info that you prepped in post-processing, including things like "item name" and "contributor name".
 
+##### Categories and Tags
+
+Categories control the filter buttons that show up on the main collections page (see [https://digitalarcplatform.github.io/demo/collection](example)). ***The square brackets that show up here only occur once, regardless of how many categories you list.*** Here's an example of the `category` line with one, two, and three categories.
+
+- Single category: `categories: [ News Articles ]`
+- Two categories: `categories: [ News Articles, Web Pages ]`
+- Three categories: `categories: [ News Articles, Web Pages, Books ]`
+
+As of [version 1.0.2 (February 2026),](https://github.com/kalanicraig/digitalarcplatform/releases/tag/v1.0.2), tags are not yet used.
+
+
 ##### Three more hyphens
 
 After the metadata, there's another set of three hypens to mark the end of the metadata. Like the hyphens that start each item file, these need to be on their own line with no spaces before or after
