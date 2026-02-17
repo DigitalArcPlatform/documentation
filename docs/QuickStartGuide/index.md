@@ -10,6 +10,8 @@ permalink: /quickstart
 
 The community-archive process has lots of moving pieces. We'll outline the whole thing, start to finish, in really rough simple terms here so that the more detailed documentation that follows makes more sense.
 
+Looking for a printable version of the full process? [Click Here]({{site.url}}{{site.baseurl}}/print/)
+
 ## 1. Getting Started  (Pre-Event Planning)
 
 Figuring out what your goals are for your community's archive--what your community's needs are, what history you have to preserve, and how you can all work together to plan a community-archiving event--is the biggest part of any community-archive project. A few questions will help you get started.
