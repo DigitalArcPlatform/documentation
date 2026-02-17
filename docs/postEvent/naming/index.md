@@ -61,6 +61,8 @@ Notice that the image file contains one less 0 than the markdown file. In other 
 ![Correct Markdown File]({{site.baseurl}}{{site.imageurl}}/postEvent/naming/correct_md_1.png)
 ![Incorrect Image File]({{site.baseurl}}{{site.imageurl}}/postEvent/naming/incorrect_image_2.png)
 
-Even though the characters though all the date and item information is correct, the markdown file uses dashes to separate the information, while the image uses underscores. 
+Even though the characters though all the date and item information is correct, the markdown file uses dashes to separate the information, while the image uses underscores.
+
+If you have letters as part of your naming convention, be aware that *DigitalArc is case sensitive.* If you have discrepancies in the capitalization of your files, your item will not display correctly! 
 
 The key takeaway is that *your files must match character for character*, otherwise your items will not display properly. 
