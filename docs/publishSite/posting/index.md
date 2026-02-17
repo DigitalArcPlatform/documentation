@@ -8,10 +8,12 @@ has_children: true
 
 # Posting Items
 
+## A Quick Overview
+
 The item IDs you chose during the event are the single most important piece of prep work for posting items.
 
 The item IDs assigned during the event are used to name two sets of files, each of which belongs in a specific folder:
-1. The first is a single text-only file that contains text-based information about each piece in your community archive. See [Anatomy of an Item Text File]({{site.baseurl}}/docs/publishSite/posting/#anatomy-of-an-item-text-file/) below. These should be stored in the `_items` folder. If the item ID was `2025-05-31-001-photo`, this text file will be called `2025-05-31-001-photo.md` .
+1. The first is a single text-only file that contains text-based information about each piece in your community archive. See [Anatomy of an Item Text File]({{site.baseurl}}/docs/publishSite/posting/#anatomy-of-an-item-text-file) below. These should be stored in the `_items` folder. If the item ID was `2025-05-31-001-photo`, this text file will be called `2025-05-31-001-photo.md` .
 1. The second are the photo or photos that were taken of the object. It's likely that you've named the photos already (see [Naming Files after the Event]({{site.baseurl}}/docs/postEvent/naming/))
 
 For specific information on posting your images, transcripts, etc., see [Photos]({{site.baseurl}}/docs/publishSite/posting/photo/), [Audio]({{site.baseurl}}/docs/publishSite/posting/audio/), or [Video]({{site.baseurl}}/docs/publishSite/posting/video/)
@@ -32,7 +34,7 @@ The meta-data that you prepped using contributor sign-up information in the post
 1. Press the "Commit changes" button.
 1. In the pop-up window, press the "Commit changes" button again.
 
-## <i class="fa-solid fa-triangle-exclamation"></i> **Caution: computers are picky**
+## <i class="fa-solid fa-triangle-exclamation"></i> **Caution: Computers Are Picky**
 
 As you look through these examples, you'll see colons `:`, spaces, and quotes `"` used to divide information that's important to you from information the computer uses to format your pages. **Check each of these things for each line of information in this part of your file**
 - Colons should always be followed by a single space.
