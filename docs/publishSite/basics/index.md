@@ -20,7 +20,7 @@ Get to know the files in our example site, which has example items of several di
 
 ## Choose a username
 
-The username you choose will be used for two things:
+The Github username you choose will be used for two things:
 1. You'll use it to log in and make changes to your website
 2. Your audience will use a modified version of your username to get to your website.
 
@@ -45,7 +45,7 @@ One file in your newly copied web sit controls a lot of the information on the s
 ## Step 1
 {: .subheadline }
 
-**Create a new Github.com account**
+**Create a new Github.com account by following the directions [here](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)**
 
 1. Your Github username should be the name people will search for to find your community. For instance, a community group called "New City Community Archive" would choose the username "newcitycommunityarchive"
 2. The "free" option will mean people can see, but not edit, the files that run your web site.
