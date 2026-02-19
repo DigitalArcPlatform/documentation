@@ -8,7 +8,12 @@ grand_parent: Publishing Your Site
 
 # Video
 
-You can automatically link to a YouTube video if you know the YouTube video's URL.
+## Uploading to YouTube
+
+Uploading and maintaining videos in your Github repository or Google Drive can be challenging due to filesize constraints. We recommend [uploading to YouTube](https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform%3DDesktop) so that you can automatically link to the video through the video's URL.
+
+
+## Linking to Your Video
 
 To get the link to a YouTube video:
 

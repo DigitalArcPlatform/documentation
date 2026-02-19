@@ -10,7 +10,7 @@ grand_parent: Publishing Your Site
 
 Once an Item Text File exists, you can add photos to match.
 
-***Before you start***: Make sure your photo files are [named properly first]({{ site.baseurl }}//docs/postEvent/naming/#how-to-name-photos). It's hard to rename photos using Github's web-based editing system.
+***Before you start***: Make sure your photo files are [named properly first]({{site.baseurl}}/docs/postEvent/naming/#how-to-name-photos) and are saved to your computer; *you cannot upload directly from Google Drive or other file hosting services*. It's hard to rename photos using Github's web-based editing system.
 
 1. Open the `assets` folder in your Github repo.
 1. Open the `items` folder in that `assets` folder.

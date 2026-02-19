@@ -10,7 +10,7 @@ grand_parent: Publishing Your Site
 
 If you plan to include audio interviews with a contribution in your collection, the process is very similar to naming and uploading photos.
 
-***Before you start***: Make sure your audio and transcript files are named properly first. Both audio files (.mp3) and transcript files (with the word "_Transcript" in the file name) are stored in the "assets/transcripts" folder.
+***Before you start***: Make sure your audio and transcript files are [named properly first]({{site.baseurl}}/docs/postEvent/naming/) and are saved to your computer; *you cannot upload directly from Google Drive or other file hosting services*. Both audio files (.mp3) and transcript files (with the word "_Transcript" in the file name) are stored in the "assets/transcripts" folder.
 
 - The audio file needs to be named `itemnumber.mp3`.
   - **NOTE:** Currently, DigitalArc only accepts audio files in `.mp3`; if your audio is not formatted as `.mp3`, you will need to [convert it]({{site.url}}{{site.baseurl}}/docs/troubleshooting/#my-audio-isnt-in-a-supported-format-what-should-i-do) to `.mp3` before uploading.

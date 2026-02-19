@@ -18,6 +18,8 @@ The item IDs assigned during the event are used to name two sets of files, each 
 
 For specific information on posting your images, transcripts, etc., see [Photos]({{site.baseurl}}/docs/publishSite/posting/photo/), [Audio]({{site.baseurl}}/docs/publishSite/posting/audio/), or [Video]({{site.baseurl}}/docs/publishSite/posting/video/)
 
+- **NOTE:** For all of these, you will need to have the files on your local computer. *You cannot upload to Github directly from Google Drive or other file hosting services*.
+
 ## Create an Item Text File
 
 **Before you delete the sample items, make your first item .md file or else the `_items` folder will disappear.**
