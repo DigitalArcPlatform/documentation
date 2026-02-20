@@ -16,6 +16,6 @@ Skip to our [Expert-Mode setup instructions]({{site.baseurl}}/docs/publishSite/b
 
 ## If you're not comfortable with GitHub or are new to technology
 
-Proceed through the individual sections listed below in "Publishing Your Site" table of contents (or the left-hand navigation links underneath "Publishing Your Site") one by one.
+Proceed through the individual sections listed below in "Setting Up Your Site" table of contents (or the links in the left-hand navigation area underneath the "Setting Up Your Site" link) one by one.
 
 Each of these steps will break creating a website at Github into smaller, more manageable activities.
