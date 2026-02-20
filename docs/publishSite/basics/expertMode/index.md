@@ -1,7 +1,7 @@
 ---
 title: Expert-Mode Quick Account Setup
 layout: default
-nav_order: 6
+nav_order: 7
 parent: Setting Up Your Site
 grand_parent: Publishing Your Site
 ---
