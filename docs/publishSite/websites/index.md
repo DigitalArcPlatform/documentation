@@ -1,5 +1,5 @@
 ---
-title: Understanding Websites
+title: Understanding The Tech Behind Your Site
 layout: default
 nav_order: 1
 parent: Publishing Your Site

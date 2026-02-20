@@ -1,8 +1,8 @@
 ---
 title: Text and Images on the Home Page
 layout: default
-nav_order: 2
-parent: The Basics
+nav_order: 3
+parent: Setting Up Your Site
 grand_parent: Publishing Your Site
 ---
 

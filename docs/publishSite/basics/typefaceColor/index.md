@@ -1,8 +1,8 @@
 ---
 title: Typeface and Colors
 layout: default
-nav_order: 3
-parent: The Basics
+nav_order: 4
+parent: Setting Up Your Site
 grand_parent: Publishing Your Site
 ---
 

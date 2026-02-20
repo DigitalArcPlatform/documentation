@@ -1,8 +1,8 @@
 ---
 title: Site Name and Authors
 layout: default
-nav_order: 1
-parent: The Basics
+nav_order: 2
+parent: Setting Up Your Site
 grand_parent: Publishing Your Site
 ---
 
