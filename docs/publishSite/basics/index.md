@@ -8,7 +8,13 @@ has_children: true
 
 # What will we do in this section?
 
-Creating a community-archive web site has lots of technical steps. This quick-start guide for web site creation is an overview that covers many of the eindividual steps in this section
+Creating a community-archive web site has lots of technical steps.
+
+This section covers the individual steps you'll need to take to
+- Create a Github account
+- Configure your Github account properly
+- Create and configure a project repository, or storage space, for your community-archive files
+- Add item information, photos and other parts of your oral histories (like audio files and transcripts)
 
 ## If you're comfortable with GitHub and technology in general
 
