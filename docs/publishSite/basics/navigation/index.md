@@ -1,8 +1,8 @@
 ---
 title: Navigation Options
 layout: default
-nav_order: 4
-parent: The Basics
+nav_order: 5
+parent: Setting Up Your Site
 grand_parent: Publishing Your Site
 ---
 
