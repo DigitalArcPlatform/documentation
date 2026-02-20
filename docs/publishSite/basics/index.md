@@ -12,7 +12,7 @@ Creating a community-archive web site has lots of technical steps. This quick-st
 
 ## If you're comfortable with GitHub and technology in general
 
-Skip to our ({{site.baseurl}}/docs/publishSite/basics/expertMode/)[Expert-Mode setup instructions]. Follow those 5 condensed steps to make a copy of our example site and customize a few things for your community.
+Skip to our [Expert-Mode setup instructions]({{site.baseurl}}/docs/publishSite/basics/expertMode/). Follow those 5 condensed steps to make a copy of our example site and customize a few things for your community.
 
 ## If you're not comfortable with GitHub or are new to technology
 
