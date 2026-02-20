@@ -10,12 +10,12 @@ has_children: true
 
 Creating a community-archive web site has lots of technical steps. This quick-start guide for web site creation is an overview that covers many of the eindividual steps in this section
 
-## Read an overview of the whole publishing process
+## If you're comfortable with GitHub and technology in general
 
-This page provides a very broad sense of how the individual step-by-step intructions in the "Publishing Your Site" section fit into the larger process.
+Skip to our ({{site.baseurl}}/docs/publishSite/basics/expertMode/)[Expert-Mode setup instructions]. Follow those 5 condensed steps to make a copy of our example site and customize a few things for your community.
 
-*If you're comfortable with GitHub and technology in general,* you can skip to our Expert-Mode setup instructions. Follow those 5 condensed steps to make a copy of our example site and customize a few things for your community.
+## If you're not comfortable with GitHub or are new to technology
 
-*If you're not comfortable with GitHub*, proceed through the individual sections in this "Publishing Your Site" section one by one. Each one will provide step-by-step details that break each of the 5 steps here into smaller, more manageable activities.
+Proceed through the individual sections listed below in "Publishing Your Site" table of contents (or the left-hand navigation links underneath "Publishing Your Site") one by one.
 
-
+Each of these steps will break creating a website at Github into smaller, more manageable activities.
