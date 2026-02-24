@@ -82,28 +82,10 @@ If the interview/oral history is not focused on an artifact, but rather focused 
 ### Follow-Up Research 
 
 If you have time, you may conduct additional research through reference services available at your local public library or history center.  Your local college or university may also hold related archives.  
-
-## What Apps do I need to create and manage metadata? 
-
-1. Google Sheets
-1. [Text Editor](https://workspace.google.com/marketplace/app/text_editor/591525900269?flow_type=2&pann=ogb) (note: must be installed)
-
-You can use other software products like Microsoft Excel, but accessing those products may require subscriptions (at a cost). You can also use plain text editors that are free with your computer like NotePad for Windows or TextEdit for Macs.  
-
-### Installing Text Editor App in Google Drive 
-
-If your community decided to use a shared Google account to collect and share information, , make sure you are logged into your community Google account before you install the Text Editor app.
-
-[More detailed instructions are provided by Google](https://support.google.com/marketplace/answer/6067029?hl=en&ref_topic=13988011&sjid=18440968682889867287-NC), but here are the basic steps: 
-
-1. Check to make sure you are logged into the proper Google account
-1. Visit: [workspace.google.com/marketplace](https://workspace.google.com/marketplace)
-1. Search for "text editor." This will return a number of results. We recommend installing:
-	1. [Text Editor](https://workspace.google.com/u/1/marketplace/app/text_editor/591525900269?flow_type=2) (free but with advertisements, large user pool)
 	
 ## Keeping Track of your Metadata
 
-By far, the easiest way to keep track of your metadata before setting up your site is to use spreadsheet software such as Excel or Google Sheets, depending on your specific data collection procedures. 
+By far, the easiest way to keep track of your metadata before setting up your site is to use spreadsheet software such as Microsoft Excel or Google Sheets. Using spreadsheets can streamline the metadata capture process. It also helps to examine all the metadata you have collected for each contribution, especially when considering category labels for grouping contributions thematically. 
 
 ### DigitalArc Spreadsheet Template
 
@@ -147,6 +129,8 @@ If a participant has opted not to have their name included, be sure that you do 
 ## Preparing Your Metadata Before Making Your Website
 
 While you don't need to start building your site yet, it helps to understand how to format the information above into a structure that will make building your site easier. We'll cover how to use these metadata fields to actually build a web site in the section on [Posting Items]({{site.baseurl}}/docs/publishSite/posting/) when you're ready to [Publish Your Site]({{site.baseurl}}/docs/publishSite/). 
+
+The [spreadsheet template](https://docs.google.com/spreadsheets/d/1H6viuRVnWmd_lhztZM7qOB4xDMjyXVSAhLQMjmWaRUo/edit?usp=sharing) contains a tab called "Copy and Paste for Markdown." It is one example of how you can use simple spreadsheet formulas to format the metadata that gets you one step closer to [Posting Items]({{site.baseurl}}/docs/publishSite/posting/) using Markdown in GitHub. A description of the formula can be found in the "Instructions" tab of the spreadsheet template.   
 
 ### Special Characters in Metadata
 
@@ -244,11 +228,8 @@ teammember:
 1. Add metadata to your spreadsheet 
 1. Determine metadata categories and update them on the metadata spreadsheet 
 
-### Step 2: From Spreadsheet to Plain Text Document 
-
-1. If you haven't already done so, install the Text Editor app in your community's Google Drive 
-1. Create plain text metadata documents *per item* following the example layout above 
-
-### Step 3: Create an Item Text File in GitHub
+### Step 2: Create an Item Text File in GitHub
 
 1. See [Posting Items]({{site.baseurl}}/docs/publishSite/posting/) documentation
+
+
