@@ -38,7 +38,8 @@ DigitalArc offers the following services:
 - OneDrive 
 - Apple
 - Microsoft
-- Backblaze (independent company option) 
+- Backblaze (independent company option)
+  
 **Note**: You can use systems like Wasabi, Cyberduck, and Rclone to transport your media from your hard drive (computers, CDs, etc) or do it manually.  
 
 ### Encryption 
