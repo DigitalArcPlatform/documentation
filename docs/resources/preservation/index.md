@@ -45,6 +45,9 @@ DigitalArc offers the following services:
 ### Encryption 
 Encrypted data means data that has been scrambled to avoid its legibility for potential hackers or scammers. This step is recommended before moving your data to the Cloud if you do not intend to access that data frequently. Encryption services include Restic, Kopia, and Rclone. 
 
+### Archiving Your Website
+Like photo albums, newspaper clippings, diary entries, and other archivable analog materials, websites are also worth archiving digitally. We recommend using the Wayback Machine managed by Internet Archive to do so. Learn more [here]([url](https://help.archive.org/help/wayback-machine-general-information/)).
+
 ## Physical media 
 
 ### Storage 
