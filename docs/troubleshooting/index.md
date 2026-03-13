@@ -5,7 +5,7 @@ nav_order: 7
 has_children: true
 ---
 
-# General Tips
+# Troubleshooting & General Tips
 
 1. When trying to identify what has gone wrong with your website, work backwards from the last change that you made.
 1. Keep the "Code" tab open in one browser window where you're making edits, the "Actions" tab open in a second window so you can see the results of your edits, and the public-facing website ([yourusername].github.io) open in a third window so you can see what users will see.

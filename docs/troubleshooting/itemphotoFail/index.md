@@ -5,6 +5,8 @@ nav_order: 3
 parent: Troubleshooting
 ---
 
+# The Photo of My Item Isn't Rendering As Intended
+
 Check to make sure you have consistent naming in the .md file and the photo file. It's easy to put a hyphen in one file name and an underscore in another:
 
 	File-name.md

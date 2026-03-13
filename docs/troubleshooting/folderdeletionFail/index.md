@@ -5,6 +5,8 @@ nav_order: 6
 parent: Troubleshooting
 ---
 
+# I Accidentally Deleted a Folder in Github and Can't Recreate It
+
 Unlike your local operating system, Github deletes empty folders.
 
 **Any time that a folder is empty, Github will automatically prune it.** In order to create a new folder, there must be a file in it. 

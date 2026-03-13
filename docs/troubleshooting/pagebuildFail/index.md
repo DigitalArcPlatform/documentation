@@ -1,9 +1,11 @@
 ---
-title: "Github Pages Fails to Build Your Site"
+title: "Github Pages is Failing to Build My Site"
 layout: default
 nav_order: 1
 parent: Troubleshooting
 ---
+
+# Github Pages Fails to Build Your Site
 
 There are generally a few things that can result in publishing errors.
 

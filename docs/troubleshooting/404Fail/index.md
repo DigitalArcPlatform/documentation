@@ -5,6 +5,8 @@ nav_order: 4
 parent: Troubleshooting
 ---
 
+# There's a 404 Error Where a Page Should Be
+
 Error 404 means that, as far as your web browser is concerned, the page you are looking for does not exist. Often even minor details can cause this to happen. If you have recently edited a page which now 404s, try the following: 
 
 1. Check to confirm that the YML header for that page is still properly formed.
