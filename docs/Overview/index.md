@@ -1,9 +1,9 @@
 ---
-title: Quick Start Guide
+title: Overview
 layout: default
 nav_order: 1
 has_children: true
-permalink: /quickstart
+permalink: /overview
 ---
 
 # Quick Start Guide for a Community Archive

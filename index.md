@@ -4,9 +4,13 @@ layout: home
 nav_order: 1
 ---
 
-# Archiving Out of the Box
+# Archiving "Out of the Box"
 
-Our DigitalArc toolkit provides an easy-to-edit template for community-storytelling and archiving projects, from pre-event planning through storytelling collection to publishing a digital archive of the event
+There are lots of options for communities who have history to preserve but don't have a formal organization that can pay to collect community histories and then put them online. These community archives can be big and public--whole cities, and centuries worth of memories meant for everyone to see--or small, family archives meant for sharing with smaller circles of close relatives.
+
+Many of the resources out there for community-archiving projects focus on partnering with universities or libraries to handle technical questions.
+
+The DigitalArc "out of the box" toolkit starts much earlier--with community needs and event planning--and goes all the way through the process of preserving community histories in digital form on a community-owned, free website. Your community can use this toolkit as a flexible template for free community-storytelling and archiving projects that will last, starting wherever you need, whether you need pre-event planning, storytelling collection, publishing a digital archive, or all of the above.
 
 <!-- ================== TABLE OF CONTENTS ================== -->
 {%- assign collection_labels = site.collections | map: "label" -%}

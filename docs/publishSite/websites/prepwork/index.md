@@ -1,15 +1,16 @@
 ---
-title: Digital Archiving Cheat Sheet
+title: Prep Work Before You Start the Web Site Creation Process
 layout: default
-nav_order: 1
-parent: Quick Start Guide
+nav_order: 3
+parent: Understanding The Tech Behind Your Site
 ---
 
-# Digital Archiving Cheat Sheet
+# Prep Work Before You Start the Web Site Creation Process
 
-## Before You Begin
+It helps to get a few files named and formatted correctly before you start. Some of this is covered in the Post-Event Clean-Up section but we'll go over it here in shorter form again to make things easier.
 
-- Choose 2-3 objects that you would like to publish on your site
+- Choose 2-3 sample objects that you would like to publish on your site
+- If you don't have audio recordings and photos that go with those objects, spend a few minutes prepping audio and photos.
 
 ## Naming Conventions
 
