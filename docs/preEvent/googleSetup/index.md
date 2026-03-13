@@ -5,8 +5,17 @@ nav_order: 2
 parent: Pre-Event Planning
 ---
 
-# Setting up Google for File Sharing and File Management
+# Why Do You Need File Sharing?
 
+Storing meeting notes, files, photos, audio transcripts, event-planning logistics can be overwhelming.
+
+A file-sharing setup that lets many people take notes and refer to those notes, or see shared files, is one of the best ways to help a team manage a big community-archiving event.
+
+Google Docs and Spreadsheets are one of the easiest ways to manage shared files across many different computers and phones.
+
+Here, we run through a basic setup process that you can follow to create a shared account that many people can access for planning and storage purposes
+
+# Setting up Google for File Sharing and File Management
 
 Given Google’s ubiquity, familiarity and ease-of-use, we provide suggestions for setting up a Google environment for file-management and sharing. *We recognize that this is just one way to setup file-sharing*. There are any number of ways of facilitating this, but the goals are the same:
 
