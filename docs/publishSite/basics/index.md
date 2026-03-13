@@ -30,10 +30,6 @@ Each of these steps will break creating a website at Github into smaller, more m
 
 As you work through these steps, you might get lost in Github's user interface. These three strategies will help you learn Github as you create your site and make changes to it.
 
-1. ***<> Code*** Think of this "Code" tab (top left, underneath the little Github cat icon) as the "Home" button for the files that make your site work.
-2. ***Actions*** Think of this "Actions" tab as a status update. Each time you make a change to one of the files in the "Code" tab, a workflow will run that processes those changes and turns them into pretty web pages. The Actions tab has a running list of whether that workflow has completed. A yellow icon means the workflow is still running, so your changes aren't public yet.
-3. Our [***troubleshooting*** documentation page.]({{site.baseurl}}/docs/troubleshooting/) There are several common things that people run into when they're first using Github. If you get lost, if your site isn't publishing as you expected, or if the Actions tab shows you a red-icon "build failed" message, check for one of these common issues.
-
-
-
-
+1. The ***<> Code*** tab (left side of the navigation bar underneath the little Github cat icon). Think of this "Code" tab  as the "Home" button for the files that make your site work.
+2. ***Actions*** tab (middle of the navigation bar underneath the little Github cat icon). Think of this "Actions" tab as a status update. Each time you make a change to one of the files in the "Code" tab, a workflow will run that processes those changes and turns them into pretty web pages. The Actions tab has a running list of whether that workflow has completed. A yellow icon means the workflow is still running, so your changes aren't public yet.
+3. Our [***troubleshooting*** documentation page]({{site.baseurl}}/docs/troubleshooting/) (in the left-hand navigation of this documentation site). There are several common things that people run into when they're first using Github. If you get lost, if your site isn't publishing as you expected, or if the Actions tab shows you a red-icon "build failed" message, check for one of these common issues.
