@@ -11,7 +11,11 @@ As a general rule, when trying to identify what has gone wrong with your website
 
 # Github Pages Fails to Build Your Site 
 
-Red icons mean the publication step ran into some issues. There are a few things you can do to make error checkign easier.
+The "Actions" tab has a running log of how the changes you've made to your files match up with what is published for users to see. Each change you make creates a "workflow" run, or a series of processes that interprets your metadata and images as web pages.
+
+A green icon means the workflow run was successful. A yellow icon means the workflow run is still going. A red icon mean the publication step ran into some issues.
+
+There are a few things you can do to make error checking easier.
 
 1. While you're learning, *commit changes to 1 file at a time* and check the Actions tab to make sure your changes successfully published.
 1. Open up the error reporting completely to see if a specific file is named as a problem.
@@ -19,8 +23,11 @@ Red icons mean the publication step ran into some issues. There are a few things
 There are generally a few things that can result in publishing errors.
 
 1. Repository name is different from username
-1. One of the required 3-hyphen lines is missing
-1. There's an extra quote or colon in the "front matter" metadata
+1. One of the required 3-hyphen lines, at the beginning or the end of the metadata that's at the beginning of each file is missing. If you see a table at the top of the page content when you view it in the "Code" tab, that means your file is properly formatted. If you can actually see the three hyphens, look closely at the metadata to make sure it's properly formatted.
+    1. No missing hyphen
+    2. No spaces before or after the hyphens
+    3. No line return before the first set of 3 hyphens 
+1. There's an extra quote or colon in the "front matter" metadata that is between the three hyphens.
 
 ## Repository Name is Different from Username
 
