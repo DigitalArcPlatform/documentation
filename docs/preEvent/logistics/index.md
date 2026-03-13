@@ -1,7 +1,7 @@
 ---
 title: Logistics
 layout: default
-nav_order: 2
+nav_order: 4
 parent: Pre-Event Planning
 has_children: true
 ---
