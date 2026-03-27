@@ -1,7 +1,7 @@
 ---
 title: Volunteers
 layout: default
-nav_order: 2
+nav_order: 3
 parent: Logistics
 grand_parent: Pre-Event Planning
 ---
