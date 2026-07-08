@@ -86,7 +86,7 @@ This covers the best practices for transcribing an audio file manually. This is 
 
 Here are some notes for best practices: 
 
-*	Listen to the audio file a few seconds at a time to transcribe. Do not try to transcript larger chunks at one time.
+*	Listen to the audio file a few seconds at a time to transcribe. Do not try to transcribe larger chunks at one time.
 *	Replay sections as needed for clarity 
 	*	Some audio players allow for audio to be slowed down. If a section is going too fast, this is an option.
 *	Adjust the volume level as needed for audio levels. Depending on the quality of the oral history interview, the audio recording may be louder or quieter than normal.
