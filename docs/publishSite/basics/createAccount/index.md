@@ -49,7 +49,7 @@ Your new "repository" or "place where all your files are stored" `_config.yml` f
 
 The next few sections of documentation will cover each one of these things one by one, but reading through this first before you start trying to make changes will help you get your bearings.
 
-***If you get lost look for the `Code` button toward the ***
+***If you get lost look for the `<> Code` button toward the top bar while in your repository. ***
 
 ## # Get to know your _config.yml file
 
