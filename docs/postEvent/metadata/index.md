@@ -180,7 +180,7 @@ If the community is using full metadata, this item type should be based on Libra
 
 ## Example of Metadata Layout for Publishing 
 
-Metadata starts and ends with a line that has three dashes and nothing else. (the dash next to the "zero" key on your keyboard). If something goes wrong with an item, the first thing to check is to make sure there's no space after the three dashes. 
+Metadata starts and ends with a line that has three dashes and nothing else (the dash next to the "zero" key on your keyboard). If something goes wrong with an item, the first thing to check is to make sure there's no space after the three dashes. 
 
 Each item on your site will need the following information at minimum: 
 
