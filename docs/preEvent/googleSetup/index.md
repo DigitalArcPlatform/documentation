@@ -11,7 +11,7 @@ Storing meeting notes, files, photos, audio transcripts, event-planning logistic
 
 A file-sharing setup that lets many people take notes and refer to those notes, or see shared files, is one of the best ways to help a team manage a big community-archiving event.
 
-Google Docs and Spreadsheets are two of the easiest ways to manage shared files across many different computers and phones.
+Google Docs and Spreadsheets are two of the easiest systems to manage shared files across many different computers and phones.
 
 Here, we run through a basic setup process that you can follow to create a shared account that many people can access for planning and storage purposes
 
