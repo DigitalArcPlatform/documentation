@@ -11,7 +11,7 @@ parent: Post-Event Clean-Up
 
 Metadata is often described as "data about data," but that definition is not super helpful!  Instead, think of metadata as a consistent way to describe and provide context for a particular item. In the case of community archiving, these items would be photographs of artifacts and recorded oral histories or interviews with community members. At a minimum, when this information is known, metadata reflects information about the item (i.e., description, subjects covered, etc.), when the item was created, and who created it. 
 
-Meaningful metadata relies on a combination of "natural language" descriptions that reflect community-focused language and "controlled vocabularies", which are structured sets of descriptions set up by large organizations to make search terms standard across many web sites.
+Meaningful metadata relies on a combination of "natural language" descriptions that reflect community-focused language and "controlled vocabularies", which are structured sets of descriptions set up by large organizations to make search terms standard across many websites.
 
 ***The best source for metadata community contributions to your archive will come directly from the person making that contribution.***
 
