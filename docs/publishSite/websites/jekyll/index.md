@@ -34,7 +34,7 @@ Static site generators, like Jekyll, often use text-based formatting and design 
 
 #### Pros and Cons of Dynamic Sites
 
-Because a web site visitor triggers the generation of a page when they visit, it can be easier for a web site administrator to manage very large sites with hundreds of thousands of pages of content--like newspapers or university web sites.
+Because a web site visitor triggers the generation of a page when they visit, it can be easier for a web site administrator to manage very large sites with hundreds of thousands of pages of content--like newspapers or university websites.
 
 Dynamic sites are subject to hacking, though. If a hostile computer user finds their way into the database or design settings of a dynamic web site, they can change things, add viruses, or break the whole site. Large companies with lots of resources can afford to spend the time and money to constantly monitor dynamic sites for intruders with bad intent.
 
