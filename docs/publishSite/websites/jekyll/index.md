@@ -46,6 +46,6 @@ Unless you have lots of time and money to check on your site daily, static sites
 
 If you don't have thousands of pages of content, static sites are almost as easy to update and change.
 
-Dynamic sites are also often more costly than static sites to maintain because dynamic sites require several different kinds of web services integrated together, to function properly, while dynamic sites only require a single, simplified kind of web service.
+Dynamic sites are also often more costly than static sites to maintain because dynamic sites require several different kinds of web services integrated together, to function properly, while static sites only require a single, simplified kind of web service.
 
 For people who want easy site maintenance and are willing to learn a few basic skills, static sites are much easier in the long run.
