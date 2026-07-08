@@ -16,7 +16,7 @@ A green icon means the workflow run was successful. A yellow icon means the work
 
 There are a few things you can do to make error checking easier.
 
-1. While you're learning, *commit changes to 1 file at a time* and check the Actions tab to make sure your changes successfully published.
+1. While you're learning, *commit changes to 1 file at a time* and check the Actions tab to make sure your changes have successfully published.
 1. Open up the error reporting completely to see if a specific file is named as a problem.
 
 As always, *before manipulating/editing your files, be sure to make a backup!*
