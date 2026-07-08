@@ -14,7 +14,7 @@ The short version? ***Google Docs for programmers​***
 
 Like Google Drive or iCloud, Github offers a free place to store files online and collaborate on their contents. The difference is that Github is especially good at storing the files that run computer-oriented projects, and at tracking the individual lines of a file, so that many people can make changes to single document and have all of their changes preserved.
 
-Github also offers a built-in place to built web sites using static-site content management systems like Jekyll (which is what we're using right now to make this documentation site).
+Github also offers a built-in place to built websites using static-site content management systems like Jekyll (which is what we're using right now to make this documentation site).
 
 GitHub allows for:
 - Tiny revisions made by lots of people to keep things from breaking
@@ -26,7 +26,7 @@ GitHub allows for:
 
 ## Programmer vocabulary that will help
 
-- *Commit* instead of *Save*. saving is saving a whole document all at once
+- *Commit* instead of *Save*. "Saving" means saving a whole document all at once.
 - *Commits*: each set of saved changes by each individual person. Lets you see and undo only one small change at a time.​
 - *Branch* instead of *Version*. Branches can contain different versions of the same file simultaneously, which allows GitHub to highlight conflicts and help you resolve them.
 
