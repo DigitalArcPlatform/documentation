@@ -82,6 +82,7 @@ Each item in the collection has an item ID (no spaces or punctuation) with one o
   - If you see a green box, you're ready to go. Click on the link!
   - If you see a blue box, wait 5 minutes and reload the page. It should be green now, and you can click on the link.
   - If you don't see either message, look for the drop-down menu that says "Branch", choose the "main" branch and press "Save" to publish your site in Github Pages.
+  - Make sure that when you’re choosing the “main” branch, the “/root” folder is also selected.
 4. Follow the publication process in real time by looking for the "Actions" tab (in the same line as the "Code" tab near the top of the Github page)
 	- Click on Actions.
 	- Find the "All Workflows" header.
