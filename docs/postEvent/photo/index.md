@@ -26,8 +26,8 @@ You can edit photos without downloading any external software, such as Photoshop
 | Save as .jpg or .png. | Don't save as HEIC or PDF. |
 | Use a naming convention (such as YYYY-MM-DD-####) and consider automating this process. | Don’t use photos from the internet or other sources that do not come from you, your collaborators, or the participants in the history harvests. |
 | Blur out sensitive material such as mailing or email addresses. | Don't use filters. |
-| Remember what folder you save it in. | Don’t disrupt the aspect ratio. |
-| Rotate the photo to make horizon lines and other straight lines straighter and to gently crop it. | That is, don’t stretch or shrink your image; sometimes this is mistaken for cropping. |
+| Remember what folder you save it in. | Don’t disrupt the aspect ratio. That is, don’t stretch or shrink your image; sometimes this is mistaken for cropping. |
+| Rotate the photo to make horizon lines and other straight lines straighter and to gently crop it. |  |
 
 Remember that every detail in a photograph or a photo of an object—the framing, subject, any signs of damage, use of color, posing, etc.—opens new avenues for asking questions that lead to remembering the past and/or research. Your aim should not be to make the photos “beautiful,” but rather to honor their complexities by striving for objectivity in your editing. Always use your best judgment and remember that your approach for editing your archive can also be analyzed, not just the photograph itself.  
 
