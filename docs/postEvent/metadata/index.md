@@ -151,7 +151,7 @@ The DigitalArc web site is able to process the following metadata fields. The bo
 
 **title:** "ACLS Digital Justice Development Grant" -- The title of the item 
 
-**author:** "Michelle Dalmau, Kalani Craig, Vanessa Elias, Jazma Sutton" -- This can be blank. It's used only if the item is a written/audio/video contribution and author and creator are different than the person who contributed the item.
+**author:** "Michelle Dalmau, Kalani Craig, Vanessa Elias, Jazma Sutton" -- This can be blank. It's used only if the item is a written/audio/video contribution. Author and creator are *different* from the person who contributed the item.
 
 **contributor:** "Michelle Dalmau, Kalani Craig, Vanessa Elias, Jazma Sutton" -- The person or people who contributed the item to the collection. 
 
@@ -165,7 +165,7 @@ The DigitalArc web site is able to process the following metadata fields. The bo
 
 **creationdate:** "May 22, 2024" -- When was the item created? Dates can be exact, as they are in this example, or approximate like "circa 1985" or 1980s.
 
-**type:** Website -- The information listed in "type," if used on the web site, will serve as a filter based on item types when searching or browsing your digital archive.. Type could be format-specific like: image, audio, video or genre-specific like: photographs, journals/diaries, recipes, interviews, etc. You can reference controlled lists from the [Library of Congress](https://www.loc.gov/aba/publications/FreeLCGFT/GENRE-FORM.pdf) or [Dublin Core Type vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/). You can also create a community-specific list of types that you tailor for your content and manage for consistency. 
+**type:** Website -- The information listed in "type," if used on the website, will serve as a filter based on item types when searching or browsing your digital archive. Type could be format-specific like: image, audio, video or genre-specific like: photographs, journals/diaries, recipes, interviews, etc. You can reference controlled lists from the [Library of Congress](https://www.loc.gov/aba/publications/FreeLCGFT/GENRE-FORM.pdf) or [Dublin Core Type vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/). You can also create a community-specific list of types that you tailor for your content and manage for consistency. 
 
 If the community is using full metadata, this item type should be based on Library of Congress item types, which is more specific than the format metadata field above. 
 
