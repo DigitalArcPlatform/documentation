@@ -20,9 +20,9 @@ To make the *static* part of "static-site CMS" easier to understand, it helps to
 
 Some web pages are built on demand. That is, when you click on a link, a series of computer programs and different computers work together in real time to combine content, design and computer code. This web page is created on the fly and sent specifically to the site visitor who requested it.
 
-Dynamic CMSs makes it more efficient for web developers to re-use and quickly update the parts of a web page that are common across a whole web site--navigation bars, logos, headers and footers--without generating every single page on the site from scratch each time something changes.
+Dynamic CMSs make it more efficient for web developers to re-use and quickly update the parts of a web page that are common across a whole web site--navigation bars, logos, headers and footers--without generating every single page on the site from scratch each time something changes.
 
-Dynamic CMSs also come with form-based writing and design tools--that is, you can point and click to make text bold instead of using complex HTML.
+Dynamic CMSs also come with form-based writing and design tools (e.g. Wordpress, Drupal, etc.) --that is, you can point and click to make text bold instead of using complex HTML.
 
 ### Static sites
 
