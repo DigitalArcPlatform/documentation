@@ -9,7 +9,7 @@ parent: Advanced Docs
 
 ## Creating a .csv File 
 
-Before you start, it will be easier to create a csv file for the mail merge process. For this example, we will be using Microsoft Excel on a Microsoft365 Account.
+Before you start, it will be easier to create a .csv file for the mail merge process. For this example, we will be using Microsoft Excel on a Microsoft365 Account.
 
 **Note:** If you are not using a software with mail merge, you can ignore this section. 
 
