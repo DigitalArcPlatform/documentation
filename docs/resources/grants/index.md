@@ -29,7 +29,7 @@ Keep these keywords handy—they will help you narrow your search. The next deci
 City councils typically have some local grant funding and staff that can connect grantseekers with pools of money. Search for your city’s council plus “grants” in Google to get started. Or, if you already have a contact in local government, ask them directly. Local grants are often hyper-specific, reducing competition, and/or offer less money than state and national grants. You should also check with the city’s historical office and the city development group. Finally, your keywords for searching local grants can be more specific to your community (such as Calumet region history in addition to Black history).  
 
 ### State Grants 
-Government and private institutions tend to have larger financial resources than local government does and therefore apply to large-scale projects. Check with your state's humanities council and financially successful corporations such as the Lilly (whose endowment allocates money for donations).  
+Government and private institutions tend to have larger financial resources than local governments do and therefore apply to large-scale projects. Check with your state's humanities council and financially successful corporations such as Eli Lilly & Co. (whose endowment allocates money for donations).  
 
 ### National Grants  
 These grants offer the most money and therefore can be more competitive and labor-intensive in the application and project follow-through than are niche, local grants. These are often directed toward filmmakers due to the time and financial cost of producing movies.  
