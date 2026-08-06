@@ -44,6 +44,8 @@ As you look through these examples, you'll see colons `:`, spaces, and quotes `"
 - There should not be spaces at the end of these lines.
 - Make sure your spaces are actual spaces using the space bar on your keyboard, rather than tabs.
 
+*Don't Forget:* DigitalArc uses the yml (or YAML) format for metadata. As a required part of this, the metadata file starts and ends with a line that has three dashes and nothing else (the dash next to the "zero" key on your keyboard). If something goes wrong with an item, the first thing to check is to make sure there's no space after the three dashes. For more information on the finer details of YAML, [click here](https://yaml.org/spec/).
+
 ### Anatomy of an Item Text File
 
 #### Example
