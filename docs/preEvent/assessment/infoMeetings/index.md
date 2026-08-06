@@ -6,7 +6,7 @@ parent: Assessment
 grand_parent: Pre-Event Planning
 ---
 
-# Information gathering meetings
+# Information-Gathering Meetings
 
 As you begin the initial steps to hosting a community archive, you will want to schedule a meeting with community members to discuss their interest in taking on this project. During the meeting, you can show sample projects to help explain the idea and vision behind your community archiving its history. Below are some recommendations for ideas or talking points to discuss during the meeting with community members. 
 
