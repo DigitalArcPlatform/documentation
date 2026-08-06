@@ -20,3 +20,7 @@ There are a few things you can do to make error checking easier.
 1. Open up the error reporting completely to see if a specific file is named as a problem.
 
 As always, *before manipulating/editing your files, be sure to make a backup!*
+
+## "Toolbox" Folder
+
+One strategy to save time and effort in the maintenance of your archive is to have a "toolbox" folder for storing templates, links, excerpts of the docs, etc. We recommend at least keeping a .yml template for metadata creation, since .yml formatting is notoriously specific. You may also want to keep text files that have useful links to resources like this documentation, other community archives, or other sites that may be related to your community. This is also an excellent location to keep backups of files that are important for your archive. 
