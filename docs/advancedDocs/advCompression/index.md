@@ -32,7 +32,18 @@ For more, see [Microsoft's own documentation](https://support.microsoft.com/en-u
 
 ### Creating a .zip on MacOS
 
+1. Create a new folder for all the files that you want to compress.
+1. Add all the files you want to include to this folder. Mixing file types should not cause problems. 
+1. Once you've added everything, control-click on the folder and choose "Compress."
+1. This will create a file named "Archive.zip"
+   - We recommend renaming this to the name of the folder that you compressed.
+
 ### Extracting a .zip on MacOS
+
+1. Double-click on the .zip file.
+ - *Note*:This will extract the contents of the .zip to the same location as the .zip, so be sure to place the .zip in the desired location first.
+
+For more, see [Apple's own documentation](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac).
 
  
 
