@@ -134,7 +134,6 @@ Notice a few things:
 This section covers the best practices for transcribing audio files with the use of 3rd-party software. This includes: 
 
 *	[How to import an audio file](#how-to-import-an-audio-file)
-*	[How to view the transcript](#how-to-view-the-transcript) 
 *	[Best practices for cleaning a transcribed audio file](#best-practices-for-cleaning-a-transcribed-audio-file)
 
 We recommend, if possible, to use a Microsoft365 account version of OneDrive for this process. Using Microsoft Word in OneDrive allows for the transcript to be placed in the same folder as the audio file and other files for each contribution. 
