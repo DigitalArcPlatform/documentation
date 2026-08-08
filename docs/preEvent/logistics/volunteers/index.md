@@ -19,17 +19,17 @@ Greeters will welcome contributors by providing an introduction to the event, he
 ## Guides (All Stations)
 
 Guides will walk contributors through the process, from check-in through checkout. They will need to be familiar with the whole process and will have prompts for the different stations. For this role, the volunteer should be comfortable with interpersonal communication.
-For more, see [Guides]({{site.url}}{{site.baseurl}}/docs/duringEvent/guides.html).
+For more, see [Guides]({{site.url}}{{site.baseurl}}/docs/duringEvent/guides/).
 
 ## Digitization Technicians (Photography Station) 
 
 Digitization Technicians will photograph objects contributed either in a lightbox or using stands/mounts for flat objects using a combination of personal (i.e., smartphone) and provided equipment. For this role, the volunteer should be detail-oriented and have experience using smartphones as cameras.
-For more, see [Digitization and Photography]({{site.url}}{{site.baseurl}}/docs/duringEvent/digital.html).
+For more, see [Digitization and Photography]({{site.url}}{{site.baseurl}}/docs/duringEvent/digital/).
 
 ## Oral History Interviewers 
 
 The oral history interviewers will ask the contributors pre-determined questions about the object they are contributing to the community archive. They will use provided equipment (i.e., recorders) to do this work. For this role, the volunteer should be comfortable with interpersonal communication.
-For more, see [Oral History Interviews]({{site.url}}{{site.baseurl}}/docs/duringEvent/oralHistory.html).
+For more, see [Oral History Interviews]({{site.url}}{{site.baseurl}}/docs/duringEvent/oralHistory/).
 
 ## Event Coordinators & Support 
 
