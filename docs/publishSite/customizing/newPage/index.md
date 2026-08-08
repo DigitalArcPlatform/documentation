@@ -8,7 +8,7 @@ grand_parent: Publishing Your Site
 
 # Creating Additional pages
 
-In the [Navigation Options]({{ site.baseurl }}{{ site.imageurl }}/publishSite/basics/navigation) section of this documentation, we noted the two main pages that display in the DigitalArc template (the "Our Community" index.md file, and the "Our Collection" collections.md file, both in the `pages` folder of the main Code section.)
+In the [Navigation Options]({{ site.baseurl }}/docs/publishSite/basics/navigation/) section of this documentation, we noted the two main pages that display in the DigitalArc template (the "Our Community" index.md file, and the "Our Collection" collections.md file, both in the `pages` folder of the main Code section.)
 
 If you want to add a page with your own content, there's a placeholder new-content-example page, which you can use as starting point to make your own pages, at `/pages/samplenewpage.md`
 
