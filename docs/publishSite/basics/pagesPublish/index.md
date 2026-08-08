@@ -21,5 +21,5 @@ Now we need to tell Github to publish your project to the web.
 	- Each time you make a change to your site, you'll see a "workflow run" line for that change. To the left of the line for that workflow run, there's an icon.
 		- Green icons mean the publication step ran and everything should now be visible at your site's URL.
 		- Yellow icons mean the publication step is still running.
-		- Red icons mean the publication step ran into some issues. Visit the [Troubleshooting section of the documentation]({{ site.baseurl }}/troubleshooting/) for guidance on how to use the Actions tab to help figure out what's gone wrong.
+		- Red icons mean the publication step ran into some issues. Visit the [Troubleshooting section of the documentation]({{ site.baseurl }}/docs/troubleshooting/) for guidance on how to use the Actions tab to help figure out what's gone wrong.
 
