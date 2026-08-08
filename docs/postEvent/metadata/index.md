@@ -159,9 +159,9 @@ The DigitalArc web site is able to process the following metadata fields. The bo
 
 **creator:** "DigitalArc Platform Team" -- The creator of the item (a brand, a person, a collective). If you want to list both authors and a publisher or a collective name for a group of authors, the creator metadata field makes that easier.
 
-**externalurl:** [https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024) -- If the item originated as an outside link or has a social-media link that you want to link to, put that link here.
+**externalurl:** [https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024) -- If the item originated as an outside link or has a social-media link that you want to link to, put that link here. This will allow users who view the item page to follow the link, but it will not embed any of the content in the item page. 
 
-**embedurl:** -- If the item originated as an outside link or has a social-media link that you want to include, put that link here.
+**embedurl:** -- If the item originated as an outside link or social-media link and you want to content to be embedded (i.e. display on) the item page, use this field. 
 
 **creationdate:** "May 22, 2024" -- When was the item created? Dates can be exact, as they are in this example, or approximate like "circa 1985" or 1980s.
 
