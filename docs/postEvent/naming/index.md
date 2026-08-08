@@ -9,7 +9,7 @@ parent: Post-Event Clean-Up
 
 In order to more easily keep track of the numerous photographs and audio files from a community history gathering event, it will be essential to have a system for standardizing file names. 
 
-If you have followed the system of Object ID stickers which we present in the [Pre-Event Setup]({{site.url}}{{site.baseurl}}/docs/preEvent/preEvent.html) section, this will simplify the process.
+If you have followed the system of Object ID stickers which we present in the [Pre-Event Setup]({{site.url}}{{site.baseurl}}/docs/preEvent/) section, this will simplify the process.
 
 In short, we recommend the following system for naming your files: 
 
