@@ -66,7 +66,7 @@ The guide’s role here is to listen to the conversation between the contributor
 	- If the contributor has more than one object, **each object will need a separate form submitted.** 
 	- You may reference the sign-in form on your own device in case the contributor has questions.
 
-1. Once the appropriate number of forms are complete, direct the contributor to the volunteer(s) in charge of [Step 2](#step-2:-verify-sign-in) of the sign-in process. 
+1. Once the appropriate number of forms are complete, direct the contributor to the volunteer(s) in charge of [Step 2](#step-2-verify-sign-in) of the sign-in process. 
 
 #### Step 1a: Preparing the Spreadsheet After Sign-In with First Contributor
 
