@@ -86,7 +86,7 @@ This covers the best practices for transcribing an audio file manually. This is 
 
 Here are some notes for best practices: 
 
-*	Listen to the audio file a few seconds at a time to transcribe. Do not try to transcript larger chunks at one time.
+*	Listen to the audio file a few seconds at a time to transcribe. Do not try to transcribe larger chunks at one time.
 *	Replay sections as needed for clarity 
 	*	Some audio players allow for audio to be slowed down. If a section is going too fast, this is an option.
 *	Adjust the volume level as needed for audio levels. Depending on the quality of the oral history interview, the audio recording may be louder or quieter than normal.
@@ -134,7 +134,6 @@ Notice a few things:
 This section covers the best practices for transcribing audio files with the use of 3rd-party software. This includes: 
 
 *	[How to import an audio file](#how-to-import-an-audio-file)
-*	[How to view the transcript](#how-to-view-the-transcript) 
 *	[Best practices for cleaning a transcribed audio file](#best-practices-for-cleaning-a-transcribed-audio-file)
 
 We recommend, if possible, to use a Microsoft365 account version of OneDrive for this process. Using Microsoft Word in OneDrive allows for the transcript to be placed in the same folder as the audio file and other files for each contribution. 

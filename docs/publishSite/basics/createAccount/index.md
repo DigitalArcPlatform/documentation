@@ -49,7 +49,7 @@ Your new "repository" or "place where all your files are stored" `_config.yml` f
 
 The next few sections of documentation will cover each one of these things one by one, but reading through this first before you start trying to make changes will help you get your bearings.
 
-***If you get lost look for the `Code` button toward the ***
+***If you get lost look for the `<> Code` button toward the top bar while in your repository. ***
 
 ## # Get to know your _config.yml file
 
@@ -57,6 +57,7 @@ One file in your newly copied web sit controls a lot of the information on the s
 
 1. Gather information about your community, that includes
 	- What you want to call the site
+		- **BE AWARE**: By using Github pages for your archive, the URL for your website will be `yourusername.github.io`. Custom domain names come with their own risks, notably that you or someone else in your community has to remember to renew the domain registration. Using the `.github.io` URL through Github pages does not carry this risk. If you have a domain registered and want to use a custom URL, check out the relevant section in our [Advanced Docs]({{site.baseurl}}/docs/advancedDocs/advURL/index.md).
 	- Who the main contact person will be
 	- How do you want your site to look?
 		- [Choose your fonts and colors from a preset list]({{ site.baseurl }}/docs/publishSite/basics/typefaceColor/)

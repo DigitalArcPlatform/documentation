@@ -8,11 +8,11 @@ grand_parent: Pre-Event Planning
 
 # Equipment
 
-We take a DIY approach to capturing stories using devices that are readily available like mobile smart phones or tablets, aiming for the best quality capture even if they may not meet digital archival standards. This work does not preclude using digital cameras, flatbed scanners or professional audio recorders that are able to capture content at a higher resolution. Nor does it preclude using a combination approach. 
+We take a DIY approach to capturing stories using devices that are readily available like mobile smart phones or tablets, aiming for the best quality capture even if they may not meet digital archival standards. If you already have digital cameras, flatbed scanners, or professional audio recorders that are able to capture content at a higher resolution, use them, or use a combination approach. 
 
 Much will depend on access to equipment, training opportunities, and the community archiving event setting. Our documentation is largely geared toward using smartphones for capture.
 
-In order to make sure that your event proceeds smoothly, plan **all** of your equipment needs well in advance. The lists below are not comprehensive, but do cover a wide array of materials that you will likely need for running your event. Be sure to consult your [Venue]({{site.url}}{{site.baseurl}}/docs/preEvent/assessment/venue/venue.html) to see what equipment needs you will need to meet yourself. 
+In order to make sure that your event proceeds smoothly, plan **all** of your equipment needs well in advance. The lists below are not comprehensive, but do cover a wide array of materials that you will likely need for running your event. Be sure to consult your [venue]({{site.url}}{{site.baseurl}}/docs/preEvent/assessment/venue/venue.html) to see what equipment needs you will need to meet yourself. 
 
 
 ## Analog Equipment Checklist 
@@ -22,7 +22,7 @@ In order to make sure that your event proceeds smoothly, plan **all** of your eq
 - [ ] Markers 
 - [ ] Object ID Stickers 
 - [ ] Index Cards (for Object ID Stickers)
-- [ ] Recepticles for Index Cards 
+- [ ] Receptacles for Index Cards 
 - [ ] Lightboxes
 - [ ] Masking Tape
 - [ ] Printed Checklists for Stations

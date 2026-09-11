@@ -8,7 +8,7 @@ has_children: true
 
 # Digitization and Photography
 
-As part of your event planning, you will need to consider how many stations you will need to quickly and effeciently accomodate your expected number of contributors.
+As part of your event planning, you will need to consider how many stations you will need to quickly and efficiently accommodate your expected number of contributors.
 If your event is on the smaller side, you may need only 2 stations:
 - Artifacts (Text, Images, 3D Objects)
 - Video
@@ -97,7 +97,7 @@ The guide should ask the contributor if they would like a portrait of themselves
 The guide should help the contributor to: 
 
 1. Select a born-digital photo from the contributor's photo library *OR* select a photo of a location, object, or other content relevant to their oral history. If the contributor selects this: 
-	- Use the built-in brownser on the contributor's phone to search for an image **which is not copyrighted**.
+	- Use the built-in browser on the contributor's phone to search for an image **which is not copyrighted**.
 	- Inform the contributor that you may have to change the photo if it is under copyright, but that they photo they choose will help you stay true to their original intent.
 	- Press-and-hold the photo in question, and save it to the contributor's photo library. 
 	
@@ -105,7 +105,7 @@ The guide should help the contributor to:
 	- assist the contributor in entering their Object ID into the Object ID field 
 	- assist the contributor in uploading the photo in their library to the born-digital form 
 
-1. Once photography is complete, the guide should accompany the contriubutor to the [Oral History Station]({{site.url}}{{site.baseurl}}/docs/duringEvent/oralHistory/oralHistory.html).
+1. Once photography is complete, the guide should accompany the contributor to the [Oral History Station]({{site.url}}{{site.baseurl}}/docs/duringEvent/oralHistory/).
 
 #### Portrait Photos 
 

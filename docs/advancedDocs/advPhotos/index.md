@@ -43,4 +43,8 @@ Your photos may vary in size, and this might impact your ultimate output onto th
 ![]({{site.url}}{{site.baseurl}}{{site.imageurl}}/postEvent/photo/batch6.png)
 
 {:style="counter-reset:none"}
-1. Review your resized files by navigating to the location or folder where you chose to save your outputs. 
+1. Review your resized files by navigating to the location or folder where you chose to save your outputs.
+
+# MacOS Automator
+
+If you or your community predominantly use Macs, you can use Automator to perform a number of repetitive tasks like changing photo formats, scaling photos, etc. For more, see Apple's own documentation on [Automator](https://support.apple.com/guide/automator/welcome/mac). 

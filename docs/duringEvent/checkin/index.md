@@ -47,7 +47,7 @@ Ask to see their object to make sure you can capture it. Talk through options. <
 
 ## Sign-In
 
-Every object contributed **will need its own entry in the sign-in form.** Contributors may be asked to submit the sign-in form more than once. Questions may arise about consent. here's a quick explanation of each: 
+Every object contributed **will need its own entry in the sign-in form.** Contributors may be asked to submit the sign-in form more than once. Questions may arise about consent. Here's a quick explanation of each: 
 
 ### Consent Types
 
@@ -66,7 +66,7 @@ The guide’s role here is to listen to the conversation between the contributor
 	- If the contributor has more than one object, **each object will need a separate form submitted.** 
 	- You may reference the sign-in form on your own device in case the contributor has questions.
 
-1. Once the appropriate number of forms are complete, direct the contributor to the volunteer(s) in charge of [Step 2](#step-2:-verify-sign-in) of the sign-in process. 
+1. Once the appropriate number of forms are complete, direct the contributor to the volunteer(s) in charge of [Step 2](#step-2-verify-sign-in) of the sign-in process. 
 
 #### Step 1a: Preparing the Spreadsheet After Sign-In with First Contributor
 
@@ -105,8 +105,8 @@ Now that you have the spreadsheet setup with all the needed tabs after checking-
 
 - Copy the contents for the next contributor from the “Sign-In” tab to the “Verified Sign-In” tab.
 ![Example of a copy-paste into the Verified Sign-In tab]({{ site.baseurl }}{{ site.imageurl }}/duringEvent/checkin/digitalarc_screenshot_verifiedsignin_example.png)
-- Review the information with next contributor. Make edits if needed.
-- Copy the contents for contributor from “Verified Sign-In” to the “Assign ID” tab.
+- Review the information with the next contributor. Make edits if needed.
+- Copy the contents for contributors from “Verified Sign-In” to the “Assign ID” tab.
 	- Remember to copy starting with the second column since the first column is a placeholder for Object ID.
 - Assign the Object ID, which should be the next sequential number unless you have multiple pairs of volunteers managing check-in. 
 	- Generate object IDs automatically by selecting cell A2 in Assign ID. On the bottom right of the selection rectangle, you will see a dot. Select the dot, hold and drag the rectangle down column A. That will generate the object IDs for you, sequentially.
@@ -124,8 +124,8 @@ The purpose of this step is to make sure that the contributor does not need to m
 1. Take a moment to review the information and determine whether everything looks good. Confirm the contributor's [consent](#consent-types) and make any changes if needed.
 	- It is unlikely that you will need to make a change, but some scenarios that may require a change can include: 
 		- Change of consent during verification or at check-out. 
-		- One entry depicts more than 1 item
-			- If this is the case, it will require a conversation. Sometimes it makes sense for items to be groups. Other times it may make more sense to have each items as a separate row in the "Verified Sign-In" tab. 
+		- One entry depicts more than 1 item.
+			- If this is the case, it will require a conversation. Sometimes it makes sense for items to be grouped. Other times it may make more sense to have each item as a separate row in the "Verified Sign-In" tab. 
 			- **Example:** Original submission contained two postcards as one entry. After discussion at check-in, it was decided that each postcard should have its own entry since they were addressed to different people with different messages. In “Verified Sign-In,” a second entry, copy-and-pasted from the original that was created, with minor changes to each entry: (to grandmother) and (to friend), to distinguish them.
 			
 ### Step 3: Assign ID  
@@ -151,7 +151,7 @@ The purpose of this step is to make sure that the contributor does not need to m
 4. Write the first name of the participant and the title of the object (in case they have more  than 1 object) for each identifier sticker.
 	- Below the consent note, bottom-right, copy the first name and title given by the contributor in the spreadsheet.
 5. Pull both of the stickers from the sticker sheet with the associated ObjectID(s). 
-	- Place each sticker (1 or more if multiple objects) on an index cards, one for the guide and one for the contributor.
+	- Place each sticker (1 or more if multiple objects) on two separate index cards: one for the guide and one for the contributor.
  		- Hand the index card with the sticker to the contributor (or more than 1 if they have multiple objects).
    		- Hand the matching index card with the sticker to the guide (or more than 1 if they have multiple objects). 
 

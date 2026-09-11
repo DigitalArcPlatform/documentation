@@ -11,13 +11,13 @@ parent: Post-Event Clean-Up
 
 Metadata is often described as "data about data," but that definition is not super helpful!  Instead, think of metadata as a consistent way to describe and provide context for a particular item. In the case of community archiving, these items would be photographs of artifacts and recorded oral histories or interviews with community members. At a minimum, when this information is known, metadata reflects information about the item (i.e., description, subjects covered, etc.), when the item was created, and who created it. 
 
-Meaningful metadata relies on a combination of "natural language" descriptions that reflect community-focused language and "controlled vocabularies", which are structured sets of descriptions set up by large organizations to make search terms standard across many web sites.
+Meaningful metadata relies on a combination of "natural language" descriptions that reflect community-focused language and "controlled vocabularies", which are structured sets of descriptions set up by large organizations to make search terms standard across many websites.
 
 ***The best source for metadata community contributions to your archive will come directly from the person making that contribution.***
 
 ## How do I create metadata with my community? 
 
-Community elements of metadata are important for describing things in "natural language" -- colloquialisms, code-switching, cultural-specifics and more. Sometimes, "natural language" terms align with "controlled vocabularies," which are library-focused tools like thesauri ([Getty Thesaurus of Art & Architecture](https://www.getty.edu/research/tools/vocabularies/aat/) , [Geonames](https://www.geonames.org/), etc.) or authority lists like [Library of Congress Subject Headings or Name Authority files](https://authorities.loc.gov/) that allows us to standardize how we describe items.  When possible, include both "natural language" and controlled language in your metadata creation practices.
+Community elements of metadata are important for describing things in "natural language" -- colloquialisms, code-switching, cultural-specifics and more. Sometimes, "natural language" terms align with "controlled vocabularies," which are library-focused tools like thesauri ([Getty Thesaurus of Art & Architecture](https://www.getty.edu/research/tools/vocabularies/aat/), [Geonames](https://www.geonames.org/), [Homosaurus](https://homosaurus.org/), etc.) or authority lists like [Library of Congress Subject Headings or Name Authority files](https://authorities.loc.gov/) that allows us to standardize how we describe items.  When possible, include both "natural language" and controlled language in your metadata creation practices.
 
 ### Community conversations about object descriptions
 Rather than rejecting institutional frameworks entirely, community-generated metadata offers another approach that rebalances authority, values lived experience, and creates a more liberatory, participatory archival process. This approach can be used alongside conventional standards when appropriate.
@@ -151,7 +151,7 @@ The DigitalArc web site is able to process the following metadata fields. The bo
 
 **title:** "ACLS Digital Justice Development Grant" -- The title of the item 
 
-**author:** "Michelle Dalmau, Kalani Craig, Vanessa Elias, Jazma Sutton" -- This can be blank. It's used only if the item is a written/audio/video contribution and author and creator are different than the person who contributed the item.
+**author:** "Michelle Dalmau, Kalani Craig, Vanessa Elias, Jazma Sutton" -- This can be blank. It's used only if the item is a written/audio/video contribution. Author and creator are *different* from the person who contributed the item.
 
 **contributor:** "Michelle Dalmau, Kalani Craig, Vanessa Elias, Jazma Sutton" -- The person or people who contributed the item to the collection. 
 
@@ -159,13 +159,13 @@ The DigitalArc web site is able to process the following metadata fields. The bo
 
 **creator:** "DigitalArc Platform Team" -- The creator of the item (a brand, a person, a collective). If you want to list both authors and a publisher or a collective name for a group of authors, the creator metadata field makes that easier.
 
-**externalurl:** [https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024) -- If the item originated as an outside link or has a social-media link that you want to link to, put that link here.
+**externalurl:** [https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024) -- If the item originated as an outside link or has a social-media link that you want to link to, put that link here. This will allow users who view the item page to follow the link, but it will not embed any of the content in the item page. 
 
-**embedurl:** -- If the item originated as an outside link or has a social-media link that you want to include, put that link here.
+**embedurl:** -- If the item originated as an outside link or social-media link and you want to content to be embedded (i.e. display on) the item page, use this field. 
 
 **creationdate:** "May 22, 2024" -- When was the item created? Dates can be exact, as they are in this example, or approximate like "circa 1985" or 1980s.
 
-**type:** Website -- The information listed in "type," if used on the web site, will serve as a filter based on item types when searching or browsing your digital archive.. Type could be format-specific like: image, audio, video or genre-specific like: photographs, journals/diaries, recipes, interviews, etc. You can reference controlled lists from the [Library of Congress](https://www.loc.gov/aba/publications/FreeLCGFT/GENRE-FORM.pdf) or [Dublin Core Type vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/). You can also create a community-specific list of types that you tailor for your content and manage for consistency. 
+**type:** Website -- The information listed in "type," if used on the website, will serve as a filter based on item types when searching or browsing your digital archive. Type could be format-specific like: image, audio, video or genre-specific like: photographs, journals/diaries, recipes, interviews, etc. You can reference controlled lists from the [Library of Congress](https://www.loc.gov/aba/publications/FreeLCGFT/GENRE-FORM.pdf) or [Dublin Core Type vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/). You can also create a community-specific list of types that you tailor for your content and manage for consistency. 
 
 If the community is using full metadata, this item type should be based on Library of Congress item types, which is more specific than the format metadata field above. 
 
@@ -180,7 +180,7 @@ If the community is using full metadata, this item type should be based on Libra
 
 ## Example of Metadata Layout for Publishing 
 
-Metadata starts and ends with a line that has three dashes and nothing else. (the dash next to the "zero" key on your keyboard). If something goes wrong with an item, the first thing to check is to make sure there's no space after the three dashes. 
+DigitalArc uses the yml (or YAML) format for metadata. As a required part of this, the metadata file starts and ends with a line that has three dashes and nothing else (the dash next to the "zero" key on your keyboard). If something goes wrong with an item, the first thing to check is to make sure there's no space after the three dashes. For more information on the finer details of YAML, [click here](https://yaml.org/spec/).
 
 Each item on your site will need the following information at minimum: 
 
